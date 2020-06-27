@@ -1,0 +1,178 @@
+// this file was generated from Space Ladies .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=21  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=543743 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-21-127_0001.wav
+<group> key=22  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=549887 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-22-127_0001.wav
+<group> key=23  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=546303 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-23-127_0001.wav
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559615 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-24-127_0001.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556543 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-25-127_0001.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=545791 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-26-127_0001.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557567 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-27-127_0001.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555007 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-28-127_0001.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-29-127_0001.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559103 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-30-127_0001.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=552447 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-31-127_0001.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-32-127_0001.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563199 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-33-127_0001.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559103 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-34-127_0001.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561663 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-35-127_0001.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566783 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-36-127_0001.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565247 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-37-127_0001.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-38-127_0001.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570367 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-39-127_0001.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564735 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-40-127_0001.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568319 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-41-127_0001.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=554495 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-42-127_0001.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571391 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-43-127_0001.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571391 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-44-127_0001.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=574463 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-45-127_0001.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577023 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578047 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577023 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590335 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590847 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563199 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586751 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=593919 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592895 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568831 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=573951 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586239 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592895 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578047 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578047 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583167 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-96-127.wav
+<group> key=97  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-97-127.wav
+<group> key=98  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589311 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-98-127.wav
+<group> key=99  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592895 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-99-127.wav
+<group> key=100  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=598015 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-100-127.wav
+<group> key=101  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-101-127.wav
+<group> key=102  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-102-127.wav
+<group> key=103  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-103-127.wav
+<group> key=104  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-104-127.wav
+<group> key=105  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-105-127.wav
+<group> key=106  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537599 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-106-127.wav
+<group> key=107  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=531967 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-107-127.wav
+<group> key=108  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=528383 sample=../Audio/Space Ladies 1-SAMPLES/Space Ladies-108-127.wav

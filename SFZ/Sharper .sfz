@@ -1,0 +1,122 @@
+// this file was generated from Sharper .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=44543 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=44543 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=255487 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=254463 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=257535 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=257023 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=263679 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=259071 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=255999 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=261631 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=252415 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=268799 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=253951 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=248831 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=249855 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=259071 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=264191 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=264703 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=260095 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=258559 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=254975 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=269311 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=269823 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=273919 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=269311 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=263167 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=268287 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=261119 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=264191 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=269823 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=267263 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=266239 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=253951 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=264703 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=248831 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=251391 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=251391 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=252927 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=247807 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=258559 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-75-127.wav
+<group>lokey=76 hikey=77 pitch_keycenter=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=269311 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-76-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=276991 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=261631 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=261631 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=255487 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=225279 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=239615 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=233983 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=230399 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=224767 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=217087 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=246783 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=179199 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=178175 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=190975 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=182271 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=180223 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=199167 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=196607 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=172543 sample=../Audio/Sharper 1-SAMPLES/005 Sharper-96-127.wav

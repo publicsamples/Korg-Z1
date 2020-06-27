@@ -1,0 +1,306 @@
+// this file was generated from z1 Brass Atmousphere.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=517631 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-36-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=586751 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-36-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=594943 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-36-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-36-114.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=519679 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-37-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=588799 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-37-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=595455 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-37-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-37-114.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=522751 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-38-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=592895 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-38-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=600575 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-38-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=601599 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-38-114.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-39-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-39-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-39-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=607743 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-39-114.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=520703 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-40-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=588799 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-40-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=596479 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-40-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=598015 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-40-114.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525311 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-41-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-41-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-41-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-41-114.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=531967 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-42-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=600063 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-42-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-42-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=606719 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-42-114.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=529407 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-43-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598015 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-43-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=607743 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-43-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=607743 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-43-114.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=531455 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-44-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-44-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-44-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=612863 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-44-114.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=531967 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-45-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=601087 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-45-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=612351 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-45-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-45-114.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=535551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-46-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=608255 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-46-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=617983 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-46-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=616447 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-46-114.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-47-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598527 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-47-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-47-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-47-114.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=523263 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-48-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=595455 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-48-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-48-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=608255 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-48-114.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526847 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-49-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-49-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-49-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=612863 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-49-114.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=523263 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-50-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=596991 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-50-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-50-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=605183 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-50-114.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=530431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-51-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=596991 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-51-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-51-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=604671 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-51-114.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-52-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=595455 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-52-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=603647 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-52-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=603135 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-52-114.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-53-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=606719 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-53-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-53-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-53-114.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=529919 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-54-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=600063 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-54-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=608767 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-54-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=608255 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-54-114.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=529919 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-55-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-55-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=620543 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-55-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=619519 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-55-114.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=532479 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-56-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=607743 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-56-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-56-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=615423 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-56-114.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=531967 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-57-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-57-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=617471 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-57-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=618495 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-57-114.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=529919 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-58-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-58-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=618495 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-58-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-58-114.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-59-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-59-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=603647 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-59-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=605183 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-59-114.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=528895 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-60-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=607231 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-60-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-60-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=615935 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-60-114.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524799 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-61-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=606719 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-61-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-61-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-61-114.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526335 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-62-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=605183 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-62-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=608255 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-62-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-62-114.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-63-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=605183 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-63-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-63-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=613375 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-63-114.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526847 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-64-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=603135 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-64-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=606719 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-64-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=607231 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-64-114.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525311 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-65-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=612863 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-65-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=621055 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-65-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=620543 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-65-114.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-66-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=609279 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-66-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=615423 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-66-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=612351 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-66-114.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=528895 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-67-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=601599 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-67-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=613375 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-67-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-67-114.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-68-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-68-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-68-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=622591 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-68-114.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-69-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-69-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=615935 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-69-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=609279 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-69-114.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=528383 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-70-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=603135 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-70-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-70-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610303 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-70-114.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525311 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-71-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=604671 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-71-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-71-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=607743 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-71-114.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526335 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-72-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=600575 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-72-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-72-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=607231 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-72-114.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=521215 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-73-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598015 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-73-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=603135 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-73-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=608767 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-73-114.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=517631 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-74-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=595967 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-74-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-74-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-74-114.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-75-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-75-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=605183 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-75-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-75-114.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=514559 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-76-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598015 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-76-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-76-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-76-114.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-77-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=597503 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-77-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=612351 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-77-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=614399 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-77-114.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=097 amp_velcurve_097=1 end=597503 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-78-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=606207 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-78-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-78-114.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=520191 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-79-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598527 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-79-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=600575 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-79-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=614911 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-79-114.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=518143 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-80-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=603647 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-80-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=604159 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-80-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=614399 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-80-114.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=520703 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-81-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=603135 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-81-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=598527 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-81-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=617471 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-81-114.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=515071 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-82-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=596479 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-82-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=598527 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-82-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-82-114.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=517631 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-83-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=597503 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-83-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-83-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=609791 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-83-114.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=517631 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-84-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-84-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-84-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-84-114.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=514047 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-85-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-85-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=594943 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-85-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=609279 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-85-114.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=515071 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-86-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594431 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-86-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=595967 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-86-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=615423 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-86-114.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=506879 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-87-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=599039 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-87-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=599551 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-87-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=613375 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-87-114.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=508415 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-88-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=591359 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-88-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=601087 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-88-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=617471 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-88-114.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=524287 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-89-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=594943 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-89-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=590847 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-89-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=610815 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-89-114.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=522751 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-90-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=598527 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-90-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=596991 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-90-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-90-114.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=513023 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-91-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=599039 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-91-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=598015 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-91-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-91-114.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=522239 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-92-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=604159 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-92-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=602623 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-92-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-92-114.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=525823 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-93-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=600575 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-93-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=604671 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-93-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=616447 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-93-114.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526335 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-94-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=602111 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-94-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=611327 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-94-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=614911 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-94-114.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=526847 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-95-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=605695 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-95-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=599039 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-95-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=613375 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-95-114.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=062 amp_velcurve_062=1 end=514047 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-96-34.wav
+	<region> lovel=007 hivel=097 amp_velcurve_097=1 end=603647 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-96-69.wav
+	<region> lovel=042 hivel=114 amp_velcurve_114=1 end=601087 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-96-86.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 end=611839 sample=../Audio/z1 Brass Atmousphere-SAMPLES/Brass Atmousphere-96-114.wav

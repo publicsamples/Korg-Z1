@@ -1,0 +1,185 @@
+// this file was generated from Slow Piano .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=729087 loop_mode=loop_sustain loop_start=101966 loop_end=183957 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-36-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=757247 loop_mode=loop_sustain loop_start=67923 loop_end=369019 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=727551 loop_mode=loop_sustain loop_start=32620 loop_end=129084 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-37-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=758783 loop_mode=loop_sustain loop_start=21103 loop_end=212757 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=728063 loop_mode=loop_sustain loop_start=118915 loop_end=352520 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-38-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=759295 loop_mode=loop_sustain loop_start=27380 loop_end=316093 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=730111 loop_mode=loop_sustain loop_start=84594 loop_end=194270 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-39-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=758271 loop_mode=loop_sustain loop_start=75352 loop_end=185024 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=733183 loop_mode=loop_sustain loop_start=77779 loop_end=228256 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-40-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=756735 loop_mode=loop_sustain loop_start=210704 loop_end=361178 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=733695 loop_mode=loop_sustain loop_start=27819 loop_end=151716 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-41-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=756735 loop_mode=loop_sustain loop_start=21724 loop_end=200017 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=734719 loop_mode=loop_sustain loop_start=19911 loop_end=101674 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-42-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761343 loop_mode=loop_sustain loop_start=29639 loop_end=111403 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=730111 loop_mode=loop_sustain loop_start=25790 loop_end=135267 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-43-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=757759 loop_mode=loop_sustain loop_start=82355 loop_end=206191 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=735743 loop_mode=loop_sustain loop_start=79687 loop_end=160998 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-44-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=759807 loop_mode=loop_sustain loop_start=115215 loop_end=251581 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=734719 loop_mode=loop_sustain loop_start=16668 loop_end=126191 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-45-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763903 loop_mode=loop_sustain loop_start=64847 loop_end=174371 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=737791 loop_mode=loop_sustain loop_start=59161 loop_end=140651 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-46-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762879 loop_mode=loop_sustain loop_start=40181 loop_end=123180 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=736255 loop_mode=loop_sustain loop_start=24825 loop_end=107438 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-47-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763391 loop_mode=loop_sustain loop_start=58035 loop_end=153466 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=738303 loop_mode=loop_sustain loop_start=17288 loop_end=99969 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-48-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762367 loop_mode=loop_sustain loop_start=13725 loop_end=123293 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=740863 loop_mode=loop_sustain loop_start=17462 loop_end=99310 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-49-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761855 loop_mode=loop_sustain loop_start=84793 loop_end=166643 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=735743 loop_mode=loop_sustain loop_start=14542 loop_end=96586 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-50-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=765951 loop_mode=loop_sustain loop_start=30451 loop_end=112496 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=742911 loop_mode=loop_sustain loop_start=31161 loop_end=112556 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-51-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=764927 loop_mode=loop_sustain loop_start=127335 loop_end=223990 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=732671 loop_mode=loop_sustain loop_start=31705 loop_end=113865 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-52-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761343 loop_mode=loop_sustain loop_start=34905 loop_end=117064 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=739327 loop_mode=loop_sustain loop_start=17785 loop_end=98857 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-53-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763903 loop_mode=loop_sustain loop_start=41920 loop_end=124002 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=739327 loop_mode=loop_sustain loop_start=32111 loop_end=113862 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-54-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=768511 loop_mode=loop_sustain loop_start=16793 loop_end=98545 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=736255 loop_mode=loop_sustain loop_start=22111 loop_end=105103 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-55-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763391 loop_mode=loop_sustain loop_start=43437 loop_end=127326 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=734719 loop_mode=loop_sustain loop_start=15668 loop_end=98660 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-56-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=753663 loop_mode=loop_sustain loop_start=23158 loop_end=106150 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=731135 loop_mode=loop_sustain loop_start=16012 loop_end=98742 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-57-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=758783 loop_mode=loop_sustain loop_start=29461 loop_end=111392 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=730623 loop_mode=loop_sustain loop_start=15736 loop_end=98348 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-58-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760319 loop_mode=loop_sustain loop_start=17172 loop_end=100539 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=732671 loop_mode=loop_sustain loop_start=22227 loop_end=104831 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-59-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=757247 loop_mode=loop_sustain loop_start=21199 loop_end=103804 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=729087 loop_mode=loop_sustain loop_start=31128 loop_end=114136 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-60-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=748031 loop_mode=loop_sustain loop_start=13257 loop_end=95593 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=727551 loop_mode=loop_sustain loop_start=17389 loop_end=99861 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-61-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=750591 loop_mode=loop_sustain loop_start=13301 loop_end=96407 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=719359 loop_mode=loop_sustain loop_start=18025 loop_end=100658 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-62-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=756735 loop_mode=loop_sustain loop_start=12462 loop_end=95692 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=729599 loop_mode=loop_sustain loop_start=18352 loop_end=100585 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-63-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=756735 loop_mode=loop_sustain loop_start=16814 loop_end=99611 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=717311 loop_mode=loop_sustain loop_start=19164 loop_end=99450 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-64-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=751615 loop_mode=loop_sustain loop_start=29099 loop_end=111781 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=728063 loop_mode=loop_sustain loop_start=20727 loop_end=102044 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-65-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=750079 loop_mode=loop_sustain loop_start=24763 loop_end=105573 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=715263 loop_mode=loop_sustain loop_start=16721 loop_end=99415 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-66-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=749055 loop_mode=loop_sustain loop_start=25122 loop_end=106388 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=709631 loop_mode=loop_sustain loop_start=26842 loop_end=107810 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-67-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=737791 loop_mode=loop_sustain loop_start=22929 loop_end=105691 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=707583 loop_mode=loop_sustain loop_start=271008 loop_end=352936 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-68-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=742399 loop_mode=loop_sustain loop_start=18127 loop_end=100686 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=707583 loop_mode=loop_sustain loop_start=24667 loop_end=105593 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-69-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=737791 loop_mode=loop_sustain loop_start=24316 loop_end=105836 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=702975 loop_mode=loop_sustain loop_start=20178 loop_end=101276 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-70-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=740863 loop_mode=loop_sustain loop_start=19376 loop_end=101035 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=690687 loop_mode=loop_sustain loop_start=20569 loop_end=101744 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-71-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=728063 loop_mode=loop_sustain loop_start=17801 loop_end=98617 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=695295 loop_mode=loop_sustain loop_start=23964 loop_end=105455 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-72-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=730111 loop_mode=loop_sustain loop_start=19333 loop_end=100310 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=692223 loop_mode=loop_sustain loop_start=22304 loop_end=104770 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-73-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=734207 loop_mode=loop_sustain loop_start=21245 loop_end=101803 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=692223 loop_mode=loop_sustain loop_start=19380 loop_end=101859 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-74-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=721407 loop_mode=loop_sustain loop_start=11883 loop_end=92106 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=688127 loop_mode=loop_sustain loop_start=15885 loop_end=98538 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-75-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=715775 loop_mode=loop_sustain loop_start=20042 loop_end=100567 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675839 loop_mode=loop_sustain loop_start=17785 loop_end=100601 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-76-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=718335 loop_mode=loop_sustain loop_start=280193 loop_end=361395 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675839 loop_mode=loop_sustain loop_start=18969 loop_end=101791 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-77-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=708607 loop_mode=loop_sustain loop_start=284342 loop_end=366409 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=19220 loop_end=101910 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-78-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=709631 loop_mode=loop_sustain loop_start=270727 loop_end=352329 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=667135 loop_mode=loop_sustain loop_start=11944 loop_end=92458 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-79-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=701951 loop_mode=loop_sustain loop_start=19071 loop_end=99230 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=663551 loop_mode=loop_sustain loop_start=20622 loop_end=101380 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-80-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=704511 loop_mode=loop_sustain loop_start=20995 loop_end=101206 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=649215 loop_mode=loop_sustain loop_start=20573 loop_end=101693 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-81-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=708607 loop_mode=loop_sustain loop_start=12415 loop_end=93312 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=660991 loop_mode=loop_sustain loop_start=19079 loop_end=100645 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-82-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=692223 loop_mode=loop_sustain loop_start=20763 loop_end=101546 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=648703 loop_mode=loop_sustain loop_start=17671 loop_end=99909 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-83-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=688127 loop_mode=loop_sustain loop_start=20460 loop_end=100443 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=645631 loop_mode=loop_sustain loop_start=18502 loop_end=100241 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-84-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676863 loop_mode=loop_sustain loop_start=21278 loop_end=101744 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632831 loop_mode=loop_sustain loop_start=17058 loop_end=99681 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-85-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=686591 loop_mode=loop_sustain loop_start=17952 loop_end=97760 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=622591 loop_mode=loop_sustain loop_start=279034 loop_end=361134 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-86-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676351 loop_mode=loop_sustain loop_start=18175 loop_end=100831 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=619007 loop_mode=loop_sustain loop_start=17821 loop_end=99269 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-87-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=670207 loop_mode=loop_sustain loop_start=21780 loop_end=104522 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=606719 loop_mode=loop_sustain loop_start=250398 loop_end=332674 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-88-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=635903 loop_mode=loop_sustain loop_start=265624 loop_end=347692 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=593407 loop_mode=loop_sustain loop_start=265610 loop_end=348051 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-89-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=639487 loop_mode=loop_sustain loop_start=12638 loop_end=92085 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=594431 loop_mode=loop_sustain loop_start=280343 loop_end=362493 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-90-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=635903 loop_mode=loop_sustain loop_start=15782 loop_end=98757 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 loop_mode=loop_sustain loop_start=276914 loop_end=359050 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-91-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=618495 loop_mode=loop_sustain loop_start=276817 loop_end=358767 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565759 loop_mode=loop_sustain loop_start=278424 loop_end=360501 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-92-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=603647 loop_mode=loop_sustain loop_start=275807 loop_end=357914 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=547327 loop_mode=loop_sustain loop_start=274681 loop_end=356645 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-93-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=594431 loop_mode=loop_sustain loop_start=266050 loop_end=347974 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=552447 loop_mode=loop_sustain loop_start=279421 loop_end=361450 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-94-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 loop_mode=loop_sustain loop_start=266759 loop_end=348981 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=536575 loop_mode=loop_sustain loop_start=262777 loop_end=344436 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-95-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564223 loop_mode=loop_sustain loop_start=277868 loop_end=359500 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=532479 loop_mode=loop_sustain loop_start=270058 loop_end=352379 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-96-64.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=567807 loop_mode=loop_sustain loop_start=269189 loop_end=350981 sample=../Audio/Slow Piano 1-SAMPLES/Slow Piano-96-127.wav

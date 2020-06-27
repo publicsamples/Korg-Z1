@@ -1,0 +1,185 @@
+// this file was generated from Weird FM Piano .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=474623 loop_mode=loop_sustain loop_start=218376 loop_end=277745 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-36-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470527 loop_mode=loop_sustain loop_start=167073 loop_end=256285 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=477695 loop_mode=loop_sustain loop_start=93560 loop_end=219560 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-37-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471551 loop_mode=loop_sustain loop_start=95047 loop_end=221040 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472575 loop_mode=loop_sustain loop_start=141478 loop_end=231723 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-38-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474111 loop_mode=loop_sustain loop_start=215615 loop_end=319010 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472575 loop_mode=loop_sustain loop_start=101001 loop_end=195203 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-39-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472063 loop_mode=loop_sustain loop_start=88687 loop_end=299657 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473087 loop_mode=loop_sustain loop_start=278845 loop_end=332353 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-40-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474623 loop_mode=loop_sustain loop_start=167133 loop_end=259249 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=474623 loop_mode=loop_sustain loop_start=206781 loop_end=290718 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-41-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=479231 loop_mode=loop_sustain loop_start=209712 loop_end=287614 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=476671 loop_mode=loop_sustain loop_start=137393 loop_end=317675 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-42-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=180196 loop_end=278397 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473599 loop_mode=loop_sustain loop_start=262825 loop_end=331335 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-43-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=478207 loop_mode=loop_sustain loop_start=97237 loop_end=275455 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=470015 loop_mode=loop_sustain loop_start=116036 loop_end=341309 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-44-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475135 loop_mode=loop_sustain loop_start=97510 loop_end=337995 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=470527 loop_mode=loop_sustain loop_start=176885 loop_end=328474 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-45-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472575 loop_mode=loop_sustain loop_start=184482 loop_end=267061 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473599 loop_mode=loop_sustain loop_start=96803 loop_end=174745 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-46-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475135 loop_mode=loop_sustain loop_start=232363 loop_end=310306 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472063 loop_mode=loop_sustain loop_start=195961 loop_end=342384 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-47-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472063 loop_mode=loop_sustain loop_start=110974 loop_end=311062 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=188726 loop_end=257491 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-48-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477695 loop_mode=loop_sustain loop_start=219532 loop_end=287624 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472575 loop_mode=loop_sustain loop_start=96944 loop_end=342639 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-49-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477695 loop_mode=loop_sustain loop_start=99359 loop_end=343155 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472063 loop_mode=loop_sustain loop_start=271927 loop_end=333189 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-50-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=478207 loop_mode=loop_sustain loop_start=142877 loop_end=327264 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473087 loop_mode=loop_sustain loop_start=113879 loop_end=172267 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-51-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476159 loop_mode=loop_sustain loop_start=89782 loop_end=148171 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473599 loop_mode=loop_sustain loop_start=286047 loop_end=340625 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-52-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472063 loop_mode=loop_sustain loop_start=142695 loop_end=197273 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=474111 loop_mode=loop_sustain loop_start=240289 loop_end=342816 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-53-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=129949 loop_end=321434 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=104577 loop_end=293378 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-54-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471551 loop_mode=loop_sustain loop_start=160292 loop_end=220299 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=135084 loop_end=225081 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-55-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474111 loop_mode=loop_sustain loop_start=95041 loop_end=266080 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=476159 loop_mode=loop_sustain loop_start=236998 loop_end=323634 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-56-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473599 loop_mode=loop_sustain loop_start=97798 loop_end=338267 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472575 loop_mode=loop_sustain loop_start=149927 loop_end=231700 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-57-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=145387 loop_end=341046 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=92165 loop_end=168971 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-58-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472063 loop_mode=loop_sustain loop_start=248761 loop_end=325567 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=90676 loop_end=337483 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-59-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=201912 loop_end=310478 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472575 loop_mode=loop_sustain loop_start=89920 loop_end=316165 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-60-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474623 loop_mode=loop_sustain loop_start=91418 loop_end=322694 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=125666 loop_end=285390 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-61-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476159 loop_mode=loop_sustain loop_start=193627 loop_end=290981 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=212706 loop_end=333432 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-62-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474623 loop_mode=loop_sustain loop_start=207178 loop_end=327904 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=468479 loop_mode=loop_sustain loop_start=118881 loop_end=176420 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-63-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477695 loop_mode=loop_sustain loop_start=149172 loop_end=206712 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=472063 loop_mode=loop_sustain loop_start=98349 loop_end=152658 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-64-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474111 loop_mode=loop_sustain loop_start=265116 loop_end=319426 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=470015 loop_mode=loop_sustain loop_start=110386 loop_end=280372 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-65-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474111 loop_mode=loop_sustain loop_start=90291 loop_end=315557 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=467967 loop_mode=loop_sustain loop_start=270463 loop_end=342206 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-66-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=106032 loop_end=340593 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471551 loop_mode=loop_sustain loop_start=137341 loop_end=251176 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-67-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475135 loop_mode=loop_sustain loop_start=244717 loop_end=335606 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=135257 loop_end=199809 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-68-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476671 loop_mode=loop_sustain loop_start=183331 loop_end=247671 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=144903 loop_end=342549 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-69-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474623 loop_mode=loop_sustain loop_start=94240 loop_end=175211 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=252638 loop_end=309770 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-70-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471039 loop_mode=loop_sustain loop_start=138392 loop_end=195523 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=466431 loop_mode=loop_sustain loop_start=274551 loop_end=328654 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-71-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474623 loop_mode=loop_sustain loop_start=124660 loop_end=301986 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=470527 loop_mode=loop_sustain loop_start=273038 loop_end=340959 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-72-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471551 loop_mode=loop_sustain loop_start=88216 loop_end=335000 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=465407 loop_mode=loop_sustain loop_start=183694 loop_end=264345 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-73-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473599 loop_mode=loop_sustain loop_start=92489 loop_end=156914 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=471039 loop_mode=loop_sustain loop_start=89211 loop_end=341940 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-74-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472575 loop_mode=loop_sustain loop_start=205544 loop_end=340836 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=467455 loop_mode=loop_sustain loop_start=278117 loop_end=335231 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-75-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=213863 loop_end=341701 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=470527 loop_mode=loop_sustain loop_start=89933 loop_end=273225 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-76-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=116854 loop_end=288898 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=468479 loop_mode=loop_sustain loop_start=188107 loop_end=340883 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-77-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=211805 loop_end=300819 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=464383 loop_mode=loop_sustain loop_start=94391 loop_end=342297 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-78-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474111 loop_mode=loop_sustain loop_start=89430 loop_end=293221 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=473087 loop_mode=loop_sustain loop_start=281888 loop_end=338580 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-79-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472575 loop_mode=loop_sustain loop_start=90016 loop_end=335480 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=468479 loop_mode=loop_sustain loop_start=211083 loop_end=296869 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-80-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=140980 loop_end=279959 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=466431 loop_mode=loop_sustain loop_start=232611 loop_end=333925 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-81-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471039 loop_mode=loop_sustain loop_start=124969 loop_end=236504 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=464895 loop_mode=loop_sustain loop_start=113894 loop_end=171025 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-82-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473599 loop_mode=loop_sustain loop_start=257978 loop_end=315298 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=463359 loop_mode=loop_sustain loop_start=120516 loop_end=297839 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-83-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475135 loop_mode=loop_sustain loop_start=98775 loop_end=179752 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=464383 loop_mode=loop_sustain loop_start=177033 loop_end=236442 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-84-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472575 loop_mode=loop_sustain loop_start=257096 loop_end=316421 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=467455 loop_mode=loop_sustain loop_start=203042 loop_end=321722 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-85-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477695 loop_mode=loop_sustain loop_start=284280 loop_end=340831 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=467967 loop_mode=loop_sustain loop_start=230311 loop_end=321450 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-86-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=184535 loop_end=237987 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=464383 loop_mode=loop_sustain loop_start=252211 loop_end=322863 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-87-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475135 loop_mode=loop_sustain loop_start=186316 loop_end=243359 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=462847 loop_mode=loop_sustain loop_start=90072 loop_end=196691 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-88-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=97459 loop_end=312696 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=463359 loop_mode=loop_sustain loop_start=213201 loop_end=339152 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-89-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=109715 loop_end=173350 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=460799 loop_mode=loop_sustain loop_start=267407 loop_end=321511 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-90-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475647 loop_mode=loop_sustain loop_start=99852 loop_end=183929 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=464383 loop_mode=loop_sustain loop_start=152579 loop_end=220072 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-91-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473087 loop_mode=loop_sustain loop_start=190556 loop_end=275482 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=465407 loop_mode=loop_sustain loop_start=157971 loop_end=211428 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-92-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471039 loop_mode=loop_sustain loop_start=270374 loop_end=340022 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=459775 loop_mode=loop_sustain loop_start=98453 loop_end=341317 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-93-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473599 loop_mode=loop_sustain loop_start=260172 loop_end=340992 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=465919 loop_mode=loop_sustain loop_start=210177 loop_end=261449 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-94-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477695 loop_mode=loop_sustain loop_start=150262 loop_end=274078 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=462335 loop_mode=loop_sustain loop_start=137436 loop_end=191316 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-95-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476159 loop_mode=loop_sustain loop_start=234267 loop_end=292611 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=095 amp_velcurve_095=1 end=458751 loop_mode=loop_sustain loop_start=182103 loop_end=241512 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-96-32.wav
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473599 loop_mode=loop_sustain loop_start=144150 loop_end=313071 sample=../Audio/Amble FM-SAMPLES/Weird FM Piano-96-127.wav

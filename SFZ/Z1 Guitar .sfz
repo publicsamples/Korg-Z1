@@ -1,0 +1,148 @@
+// this file was generated from Z1 Guitar .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=453183 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=453887 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=448511 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449535 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449279 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=467263 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470399 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473215 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=479999 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482175 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474943 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473663 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471807 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=469247 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481471 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=479167 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=479743 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=477887 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=469823 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472063 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=479999 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482943 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=478655 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472383 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482175 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=536639 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=493503 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=496767 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=500543 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490495 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=496319 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=504767 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=488959 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490815 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480703 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=507711 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490175 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=494079 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481855 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490879 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=510079 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=483839 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=489855 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=488959 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=485695 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515135 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=499647 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=509631 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=497983 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515391 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=502271 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=493311 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=497919 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=491071 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=497599 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=494143 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=498623 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=500543 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=499327 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=504639 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=502655 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-96-127.wav
+<group> key=97  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=501759 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-97-127.wav
+<group> key=98  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=497791 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-98-127.wav
+<group> key=99  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490815 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-99-127.wav
+<group> key=100  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=498623 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-100-127.wav
+<group> key=101  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=505855 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-101-127.wav
+<group> key=102  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=508543 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-102-127.wav
+<group> key=103  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=513599 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-103-127.wav
+<group> key=104  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=512255 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-104-127.wav
+<group> key=105  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=514751 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-105-127.wav
+<group> key=106  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=509183 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-106-127.wav
+<group> key=107  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=497663 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-107-127.wav
+<group> key=108  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=502207 sample=../Audio/Z1 Guitar 1-SAMPLES/Z1 Guitar-108-127.wav

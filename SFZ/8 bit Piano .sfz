@@ -1,0 +1,257 @@
+// this file was generated from 8 bit Piano .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342527 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-24-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343487 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=347135 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-25-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345407 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341759 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-26-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=348287 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345727 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-27-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=349375 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341631 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-28-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=334783 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345919 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-29-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345855 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343487 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-30-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347711 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341951 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-31-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345791 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343743 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-32-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345471 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=346047 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-33-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=348479 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345983 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-34-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=348031 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345151 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-35-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347839 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341247 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-36-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346111 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345855 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-37-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346495 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345343 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-38-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344831 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=348479 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-39-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=348287 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=334399 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-40-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345215 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343871 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-41-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346495 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=339711 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-42-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343423 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345727 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-43-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=341055 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344575 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-44-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347135 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341439 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-45-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347135 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344831 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-46-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343807 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342399 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-47-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346495 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344063 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-48-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344447 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342719 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-49-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342207 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344383 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-50-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347583 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342143 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-51-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347007 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342975 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-52-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343103 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341567 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-53-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347519 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342783 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-54-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345855 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=348031 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-55-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345791 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345471 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-56-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=348351 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344511 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-57-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342207 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341247 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-58-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347967 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343871 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-59-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345151 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343679 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-60-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346047 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344127 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-61-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346943 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342655 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-62-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346879 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343423 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-63-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346495 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344959 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-64-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346623 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=351999 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-65-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347263 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344511 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-66-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346431 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345535 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-67-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346879 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344703 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-68-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344639 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342847 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-69-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346175 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345087 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-70-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347071 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=346815 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-71-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345023 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343487 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-72-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344319 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343871 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-73-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347327 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=347519 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-74-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345919 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343871 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-75-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346239 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342783 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-76-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346111 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345663 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-77-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345535 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345215 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-78-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=350911 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=346623 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-79-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342655 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=346111 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-80-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344191 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=339007 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-81-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347583 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343423 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-82-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=350655 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343423 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-83-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346943 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=337471 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-84-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347391 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344063 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-85-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342847 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341567 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-86-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344511 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344191 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-87-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345535 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=340863 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-88-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346367 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345279 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-89-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=347327 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341439 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-90-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344959 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=340863 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-91-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346367 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344447 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-92-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345791 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343935 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-93-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345471 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342335 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-94-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342463 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343871 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-95-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344895 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344447 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-96-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343743 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-96-127.wav
+<group> key=97  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342847 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-97-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344191 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-97-127.wav
+<group> key=98  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=343743 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-98-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=344383 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-98-127.wav
+<group> key=99  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344767 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-99-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343039 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-99-127.wav
+<group> key=100  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345087 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-100-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345023 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-100-127.wav
+<group> key=101  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=342079 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-101-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342463 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-101-127.wav
+<group> key=102  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=340863 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-102-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=337087 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-102-127.wav
+<group> key=103  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=341311 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-103-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=341439 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-103-127.wav
+<group> key=104  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344831 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-104-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=343167 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-104-127.wav
+<group> key=105  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=340543 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-105-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=342911 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-105-127.wav
+<group> key=106  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344191 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-106-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345151 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-106-127.wav
+<group> key=107  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=345919 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-107-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=345087 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-107-127.wav
+<group> key=108  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=344383 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-108-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 volume=12 end=346303 sample=../Audio/8 bit Piano 1-SAMPLES/8 bit Piano-108-127.wav

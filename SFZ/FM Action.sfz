@@ -1,0 +1,124 @@
+// this file was generated from FM Action.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=684543 loop_mode=loop_sustain loop_start=79709 loop_end=361494 sample=../Audio/FM Action-SAMPLES/FM Action-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=661503 loop_mode=loop_sustain loop_start=140086 loop_end=393583 sample=../Audio/FM Action-SAMPLES/FM Action-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=301008 loop_end=370628 sample=../Audio/FM Action-SAMPLES/FM Action-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=674815 loop_mode=loop_sustain loop_start=228178 loop_end=310937 sample=../Audio/FM Action-SAMPLES/FM Action-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=682495 loop_mode=loop_sustain loop_start=79154 loop_end=158300 sample=../Audio/FM Action-SAMPLES/FM Action-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=683007 loop_mode=loop_sustain loop_start=173812 loop_end=386950 sample=../Audio/FM Action-SAMPLES/FM Action-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=681471 loop_mode=loop_sustain loop_start=67416 loop_end=400902 sample=../Audio/FM Action-SAMPLES/FM Action-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672255 loop_mode=loop_sustain loop_start=226474 loop_end=303840 sample=../Audio/FM Action-SAMPLES/FM Action-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677375 loop_mode=loop_sustain loop_start=119907 loop_end=203981 sample=../Audio/FM Action-SAMPLES/FM Action-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675839 loop_mode=loop_sustain loop_start=102879 loop_end=255210 sample=../Audio/FM Action-SAMPLES/FM Action-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=318474 loop_end=391116 sample=../Audio/FM Action-SAMPLES/FM Action-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676863 loop_mode=loop_sustain loop_start=291973 loop_end=362685 sample=../Audio/FM Action-SAMPLES/FM Action-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=283192 loop_end=361530 sample=../Audio/FM Action-SAMPLES/FM Action-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=680447 loop_mode=loop_sustain loop_start=89291 loop_end=163128 sample=../Audio/FM Action-SAMPLES/FM Action-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679423 loop_mode=loop_sustain loop_start=76594 loop_end=146280 sample=../Audio/FM Action-SAMPLES/FM Action-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679423 loop_mode=loop_sustain loop_start=176853 loop_end=275521 sample=../Audio/FM Action-SAMPLES/FM Action-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=680959 loop_mode=loop_sustain loop_start=220372 loop_end=395345 sample=../Audio/FM Action-SAMPLES/FM Action-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=702975 loop_mode=loop_sustain loop_start=81200 loop_end=319069 sample=../Audio/FM Action-SAMPLES/FM Action-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=674303 loop_mode=loop_sustain loop_start=252141 loop_end=338430 sample=../Audio/FM Action-SAMPLES/FM Action-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=206168 loop_end=364546 sample=../Audio/FM Action-SAMPLES/FM Action-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676863 loop_mode=loop_sustain loop_start=216861 loop_end=302681 sample=../Audio/FM Action-SAMPLES/FM Action-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=196548 loop_end=398949 sample=../Audio/FM Action-SAMPLES/FM Action-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=682495 loop_mode=loop_sustain loop_start=150851 loop_end=230661 sample=../Audio/FM Action-SAMPLES/FM Action-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=87939 loop_end=401839 sample=../Audio/FM Action-SAMPLES/FM Action-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678399 loop_mode=loop_sustain loop_start=115436 loop_end=193974 sample=../Audio/FM Action-SAMPLES/FM Action-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675839 loop_mode=loop_sustain loop_start=211832 loop_end=300293 sample=../Audio/FM Action-SAMPLES/FM Action-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=682495 loop_mode=loop_sustain loop_start=80709 loop_end=376806 sample=../Audio/FM Action-SAMPLES/FM Action-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677375 loop_mode=loop_sustain loop_start=275829 loop_end=349523 sample=../Audio/FM Action-SAMPLES/FM Action-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677375 loop_mode=loop_sustain loop_start=155354 loop_end=343167 sample=../Audio/FM Action-SAMPLES/FM Action-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=683519 loop_mode=loop_sustain loop_start=162667 loop_end=393229 sample=../Audio/FM Action-SAMPLES/FM Action-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676863 loop_mode=loop_sustain loop_start=201047 loop_end=293295 sample=../Audio/FM Action-SAMPLES/FM Action-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=240912 loop_end=316083 sample=../Audio/FM Action-SAMPLES/FM Action-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=207488 loop_end=294991 sample=../Audio/FM Action-SAMPLES/FM Action-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=692223 loop_mode=loop_sustain loop_start=231909 loop_end=305681 sample=../Audio/FM Action-SAMPLES/FM Action-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=682495 loop_mode=loop_sustain loop_start=99660 loop_end=178548 sample=../Audio/FM Action-SAMPLES/FM Action-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676863 loop_mode=loop_sustain loop_start=71409 loop_end=190149 sample=../Audio/FM Action-SAMPLES/FM Action-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=682495 loop_mode=loop_sustain loop_start=267130 loop_end=399932 sample=../Audio/FM Action-SAMPLES/FM Action-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=295262 loop_end=396433 sample=../Audio/FM Action-SAMPLES/FM Action-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=673279 loop_mode=loop_sustain loop_start=88532 loop_end=167059 sample=../Audio/FM Action-SAMPLES/FM Action-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=168763 loop_end=238213 sample=../Audio/FM Action-SAMPLES/FM Action-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678399 loop_mode=loop_sustain loop_start=203968 loop_end=379873 sample=../Audio/FM Action-SAMPLES/FM Action-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=161310 loop_end=318754 sample=../Audio/FM Action-SAMPLES/FM Action-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=685055 loop_mode=loop_sustain loop_start=224623 loop_end=312352 sample=../Audio/FM Action-SAMPLES/FM Action-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=674303 loop_mode=loop_sustain loop_start=59862 loop_end=400915 sample=../Audio/FM Action-SAMPLES/FM Action-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=680447 loop_mode=loop_sustain loop_start=139843 loop_end=384153 sample=../Audio/FM Action-SAMPLES/FM Action-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=131331 loop_end=205888 sample=../Audio/FM Action-SAMPLES/FM Action-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=190734 loop_end=319653 sample=../Audio/FM Action-SAMPLES/FM Action-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=678911 loop_mode=loop_sustain loop_start=240269 loop_end=319375 sample=../Audio/FM Action-SAMPLES/FM Action-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=685055 loop_mode=loop_sustain loop_start=195014 loop_end=268664 sample=../Audio/FM Action-SAMPLES/FM Action-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=681983 loop_mode=loop_sustain loop_start=84516 loop_end=324162 sample=../Audio/FM Action-SAMPLES/FM Action-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=681983 loop_mode=loop_sustain loop_start=120668 loop_end=267814 sample=../Audio/FM Action-SAMPLES/FM Action-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=206795 loop_end=294594 sample=../Audio/FM Action-SAMPLES/FM Action-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=680959 loop_mode=loop_sustain loop_start=227426 loop_end=356445 sample=../Audio/FM Action-SAMPLES/FM Action-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=163567 loop_end=404095 sample=../Audio/FM Action-SAMPLES/FM Action-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=686079 loop_mode=loop_sustain loop_start=60048 loop_end=142993 sample=../Audio/FM Action-SAMPLES/FM Action-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=687615 loop_mode=loop_sustain loop_start=299744 loop_end=391864 sample=../Audio/FM Action-SAMPLES/FM Action-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677375 loop_mode=loop_sustain loop_start=157537 loop_end=323430 sample=../Audio/FM Action-SAMPLES/FM Action-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679935 loop_mode=loop_sustain loop_start=203959 loop_end=286883 sample=../Audio/FM Action-SAMPLES/FM Action-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=674815 loop_mode=loop_sustain loop_start=151723 loop_end=267023 sample=../Audio/FM Action-SAMPLES/FM Action-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=683007 loop_mode=loop_sustain loop_start=152938 loop_end=318908 sample=../Audio/FM Action-SAMPLES/FM Action-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675327 loop_mode=loop_sustain loop_start=224079 loop_end=325371 sample=../Audio/FM Action-SAMPLES/FM Action-96-127.wav

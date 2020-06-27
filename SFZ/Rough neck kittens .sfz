@@ -1,0 +1,124 @@
+// this file was generated from Rough neck kittens .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=236031 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=237567 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=229375 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232959 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230911 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=223743 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=227839 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230399 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232959 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=228351 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230399 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=229375 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=229375 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=217599 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=226815 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=229375 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=224767 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232447 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=225279 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232447 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=234495 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232959 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232447 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=224767 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230911 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=228351 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=234495 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=218623 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=240639 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230399 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=231423 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=227327 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=231423 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=235007 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232959 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230399 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=241151 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=240127 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=241663 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=231423 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=254463 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=226815 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=220671 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=223743 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=240639 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232447 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=235007 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=227327 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=230911 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=251903 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=232959 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=231935 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=237055 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=233471 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=260607 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=231423 sample=../Audio/Rough neck kittens 1-SAMPLES/Rough neck kittens-96-127.wav

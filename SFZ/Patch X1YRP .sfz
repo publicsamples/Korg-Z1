@@ -1,0 +1,122 @@
+// this file was generated from Patch X1YRP .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521727 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528895 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=526335 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=518655 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=525823 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521727 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=514047 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519167 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519679 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519679 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519679 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519167 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521727 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521215 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=519167 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=522751 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520191 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=522239 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521215 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=522751 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521215 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528895 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=520703 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=529407 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521215 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=526847 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=526847 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=529407 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527359 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527871 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528895 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527871 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527871 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=521727 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527871 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528383 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=528895 sample=../Audio/Patch X1YRP 1-SAMPLES/007 Patch X1YRP-96-127.wav

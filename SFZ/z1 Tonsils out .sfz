@@ -1,0 +1,124 @@
+// this file was generated from z1 Tonsils out .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=648821 loop_mode=loop_sustain loop_start=402723 loop_end=420254 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-36-127-Q11R.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671773 loop_mode=loop_sustain loop_start=357304 loop_end=375091 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-37-127-YRTQ.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671690 loop_mode=loop_sustain loop_start=391349 loop_end=418973 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-38-127-7VP8.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=659401 loop_mode=loop_sustain loop_start=402473 loop_end=421732 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-39-127-851V.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=652803 loop_mode=loop_sustain loop_start=388111 loop_end=406303 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-40-127-7Z2C.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=668871 loop_mode=loop_sustain loop_start=371790 loop_end=408151 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-41-127-GN58.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=656308 loop_mode=loop_sustain loop_start=393784 loop_end=420482 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-42-127-VQ5A.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672071 loop_mode=loop_sustain loop_start=378043 loop_end=396039 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-43-127-HGVW.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672505 loop_mode=loop_sustain loop_start=389225 loop_end=407066 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-44-127-T4C7.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671597 loop_mode=loop_sustain loop_start=381243 loop_end=398882 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-45-127-DRZH.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671032 loop_mode=loop_sustain loop_start=383522 loop_end=400180 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-46-127-8TIR.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=674372 loop_mode=loop_sustain loop_start=394159 loop_end=420587 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-47-127-A2XB.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=676725 loop_mode=loop_sustain loop_start=394970 loop_end=421263 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-48-127-0V04.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655987 loop_mode=loop_sustain loop_start=358065 loop_end=377147 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-49-127-7DCG.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=657282 loop_mode=loop_sustain loop_start=399350 loop_end=416771 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-50-127-021O.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=670669 loop_mode=loop_sustain loop_start=362310 loop_end=380449 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-51-127-4404.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=653515 loop_mode=loop_sustain loop_start=404927 loop_end=422586 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-52-127-TEUU.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=673623 loop_mode=loop_sustain loop_start=352030 loop_end=370209 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-53-127-BFB6.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655562 loop_mode=loop_sustain loop_start=354243 loop_end=372365 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-54-127-V59M.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=653791 loop_mode=loop_sustain loop_start=401538 loop_end=419086 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-55-127-SX7Z.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=670395 loop_mode=loop_sustain loop_start=364724 loop_end=382120 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-56-127-BOF8.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=652212 loop_mode=loop_sustain loop_start=361822 loop_end=379856 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-57-127-7BOW.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655910 loop_mode=loop_sustain loop_start=404705 loop_end=422870 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-58-127-GQFP.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655816 loop_mode=loop_sustain loop_start=379718 loop_end=397566 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-59-127-4YI7.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=651295 loop_mode=loop_sustain loop_start=377356 loop_end=403987 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-60-127-8GTM.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671540 loop_mode=loop_sustain loop_start=353883 loop_end=380599 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-61-127-HX37.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675957 loop_mode=loop_sustain loop_start=355286 loop_end=373301 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-62-127-0OHH.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=657038 loop_mode=loop_sustain loop_start=360063 loop_end=377920 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-63-127-ONWD.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655235 loop_mode=loop_sustain loop_start=382251 loop_end=399378 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-64-127-SEGA.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=654193 loop_mode=loop_sustain loop_start=382743 loop_end=409511 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-65-127-IGFQ.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=670842 loop_mode=loop_sustain loop_start=360004 loop_end=378115 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-66-127-WSKG.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=651176 loop_mode=loop_sustain loop_start=370022 loop_end=423342 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-67-127-TAS9.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672599 loop_mode=loop_sustain loop_start=366617 loop_end=384667 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-68-127-R8A7.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=651717 loop_mode=loop_sustain loop_start=385217 loop_end=402856 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-69-127-YMMO.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655837 loop_mode=loop_sustain loop_start=386844 loop_end=404434 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-70-127-LMPR.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=662274 loop_mode=loop_sustain loop_start=372409 loop_end=399194 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-71-127-GZ53.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=659162 loop_mode=loop_sustain loop_start=363099 loop_end=380962 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-72-127-XFS2.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672255 loop_mode=loop_sustain loop_start=364860 loop_end=391583 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-73-127-UP9C.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=659875 loop_mode=loop_sustain loop_start=404829 loop_end=422244 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-74-127-ID4Y.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=658365 loop_mode=loop_sustain loop_start=376222 loop_end=402865 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-75-127-019U.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=662836 loop_mode=loop_sustain loop_start=393772 loop_end=411431 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-76-127-DZNU.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675818 loop_mode=loop_sustain loop_start=390634 loop_end=407933 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-77-127-S91W.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=667869 loop_mode=loop_sustain loop_start=390113 loop_end=407633 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-78-127-3BPG.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655550 loop_mode=loop_sustain loop_start=355792 loop_end=382227 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-79-127-VWL3.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672388 loop_mode=loop_sustain loop_start=374035 loop_end=391668 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-80-127-M63G.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677133 loop_mode=loop_sustain loop_start=390214 loop_end=407753 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-81-127-I7DK.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=673235 loop_mode=loop_sustain loop_start=358208 loop_end=375989 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-82-127-AAJC.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=653757 loop_mode=loop_sustain loop_start=396551 loop_end=423336 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-83-127-FX8D.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=671506 loop_mode=loop_sustain loop_start=353649 loop_end=380448 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-84-127-L6JN.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677704 loop_mode=loop_sustain loop_start=396466 loop_end=423354 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-85-127-QSEA.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=657854 loop_mode=loop_sustain loop_start=362968 loop_end=415976 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-86-127-9VFM.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=660015 loop_mode=loop_sustain loop_start=369917 loop_end=414069 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-87-127-C3RG.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675930 loop_mode=loop_sustain loop_start=365072 loop_end=418317 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-88-127-5EBK.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=659149 loop_mode=loop_sustain loop_start=367091 loop_end=420380 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-89-127-3PNF.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=657838 loop_mode=loop_sustain loop_start=374358 loop_end=391997 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-90-127-4S80.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=672113 loop_mode=loop_sustain loop_start=385617 loop_end=403503 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-91-127-LP0G.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=670525 loop_mode=loop_sustain loop_start=351772 loop_end=369345 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-92-127-C5ZV.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=653459 loop_mode=loop_sustain loop_start=368154 loop_end=421222 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-93-127-WIAX.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=679218 loop_mode=loop_sustain loop_start=360967 loop_end=405004 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-94-127-ITR7.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=664039 loop_mode=loop_sustain loop_start=364012 loop_end=390886 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-95-127-6ST4.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=663269 loop_mode=loop_sustain loop_start=357153 loop_end=383868 sample=../Audio/z1 Tonsils out 1-SAMPLES/Tonsils out-96-127-U4CA.wav

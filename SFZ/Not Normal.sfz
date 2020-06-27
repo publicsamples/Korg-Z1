@@ -1,0 +1,122 @@
+// this file was generated from Not Normal.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=403455 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=404991 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=401407 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=400895 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=403967 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=403967 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=401919 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=397311 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=401919 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=396287 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=395775 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=399871 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=393727 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=393727 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=393727 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392703 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=406527 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=392191 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391679 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=390655 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=391167 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=390143 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=390655 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=390143 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=389631 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=389119 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=389631 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=389631 sample=../Audio/Not Normal-SAMPLES/006 Not Normal-96-127.wav

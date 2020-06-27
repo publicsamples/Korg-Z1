@@ -1,0 +1,124 @@
+// this file was generated from Counting .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=267775 sample=../Audio/Counting 1-SAMPLES/Counting-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271871 sample=../Audio/Counting 1-SAMPLES/Counting-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271871 sample=../Audio/Counting 1-SAMPLES/Counting-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268287 sample=../Audio/Counting 1-SAMPLES/Counting-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=273919 sample=../Audio/Counting 1-SAMPLES/Counting-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=272383 sample=../Audio/Counting 1-SAMPLES/Counting-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268799 sample=../Audio/Counting 1-SAMPLES/Counting-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=273407 sample=../Audio/Counting 1-SAMPLES/Counting-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=268287 sample=../Audio/Counting 1-SAMPLES/Counting-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=272895 sample=../Audio/Counting 1-SAMPLES/Counting-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269311 sample=../Audio/Counting 1-SAMPLES/Counting-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271871 sample=../Audio/Counting 1-SAMPLES/Counting-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=271359 sample=../Audio/Counting 1-SAMPLES/Counting-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=273407 sample=../Audio/Counting 1-SAMPLES/Counting-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=267775 sample=../Audio/Counting 1-SAMPLES/Counting-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=272383 sample=../Audio/Counting 1-SAMPLES/Counting-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=269823 sample=../Audio/Counting 1-SAMPLES/Counting-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270335 sample=../Audio/Counting 1-SAMPLES/Counting-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=270847 sample=../Audio/Counting 1-SAMPLES/Counting-96-127.wav

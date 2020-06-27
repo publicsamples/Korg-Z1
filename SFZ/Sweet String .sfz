@@ -1,0 +1,124 @@
+// this file was generated from Sweet String .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564735 loop_mode=loop_sustain loop_start=175676 loop_end=282159 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=554495 loop_mode=loop_sustain loop_start=209018 loop_end=289179 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=108251 loop_end=170708 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=198130 loop_end=260480 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 loop_mode=loop_sustain loop_start=331831 loop_end=402440 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561151 loop_mode=loop_sustain loop_start=176062 loop_end=246756 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 loop_mode=loop_sustain loop_start=202469 loop_end=299680 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=195031 loop_end=275093 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=159368 loop_end=240045 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=348523 loop_end=409441 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=552959 loop_mode=loop_sustain loop_start=336922 loop_end=408026 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=553983 loop_mode=loop_sustain loop_start=313320 loop_end=384010 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=554495 loop_mode=loop_sustain loop_start=107048 loop_end=169050 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 loop_mode=loop_sustain loop_start=309575 loop_end=379545 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 loop_mode=loop_sustain loop_start=332465 loop_end=394912 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558079 loop_mode=loop_sustain loop_start=156120 loop_end=219027 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558079 loop_mode=loop_sustain loop_start=203526 loop_end=273062 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 loop_mode=loop_sustain loop_start=109478 loop_end=171588 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 loop_mode=loop_sustain loop_start=296400 loop_end=358825 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559103 loop_mode=loop_sustain loop_start=235594 loop_end=297661 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=554495 loop_mode=loop_sustain loop_start=220320 loop_end=291224 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555007 loop_mode=loop_sustain loop_start=234295 loop_end=304820 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555007 loop_mode=loop_sustain loop_start=130647 loop_end=334491 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 loop_mode=loop_sustain loop_start=232846 loop_end=295331 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=189846 loop_end=260948 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=109418 loop_end=410394 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559615 loop_mode=loop_sustain loop_start=135174 loop_end=338851 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=171629 loop_end=251528 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 loop_mode=loop_sustain loop_start=167774 loop_end=389297 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 loop_mode=loop_sustain loop_start=285381 loop_end=391653 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=562687 loop_mode=loop_sustain loop_start=146888 loop_end=226473 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=178515 loop_end=382334 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=184112 loop_end=263726 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555007 loop_mode=loop_sustain loop_start=332601 loop_end=412368 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561663 loop_mode=loop_sustain loop_start=190573 loop_end=270226 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=321325 loop_end=392214 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 loop_mode=loop_sustain loop_start=121566 loop_end=378760 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=553471 loop_mode=loop_sustain loop_start=112159 loop_end=395634 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=111030 loop_end=199016 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=553983 loop_mode=loop_sustain loop_start=190354 loop_end=394293 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=252143 loop_end=403570 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560639 loop_mode=loop_sustain loop_start=226245 loop_end=403391 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=552447 loop_mode=loop_sustain loop_start=132505 loop_end=212230 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=552959 loop_mode=loop_sustain loop_start=120522 loop_end=395100 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=225658 loop_end=332042 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556543 loop_mode=loop_sustain loop_start=131067 loop_end=396227 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557567 loop_mode=loop_sustain loop_start=242296 loop_end=321085 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561663 loop_mode=loop_sustain loop_start=128124 loop_end=383723 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=294452 loop_end=391698 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=553983 loop_mode=loop_sustain loop_start=221106 loop_end=408829 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=554495 loop_mode=loop_sustain loop_start=173751 loop_end=403927 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=286061 loop_end=409856 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=150443 loop_end=221137 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=321324 loop_end=384264 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557567 loop_mode=loop_sustain loop_start=164243 loop_end=234432 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555519 loop_mode=loop_sustain loop_start=193441 loop_end=397153 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=555007 loop_mode=loop_sustain loop_start=137884 loop_end=386219 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557567 loop_mode=loop_sustain loop_start=109346 loop_end=394796 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=311648 loop_end=408976 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=223820 loop_end=294529 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556031 loop_mode=loop_sustain loop_start=232981 loop_end=410032 sample=../Audio/Sweet String 1-SAMPLES/Sweet String-96-127.wav

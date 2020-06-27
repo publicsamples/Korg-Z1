@@ -1,0 +1,124 @@
+// this file was generated from String Bouncer.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=769023 loop_mode=loop_sustain loop_start=343034 loop_end=512953 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=758783 loop_mode=loop_sustain loop_start=413333 loop_end=473868 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=771071 loop_mode=loop_sustain loop_start=480118 loop_end=551609 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760319 loop_mode=loop_sustain loop_start=442249 loop_end=519897 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=765439 loop_mode=loop_sustain loop_start=326805 loop_end=562416 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=754687 loop_mode=loop_sustain loop_start=411992 loop_end=559284 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=778239 loop_mode=loop_sustain loop_start=486037 loop_end=552145 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=766463 loop_mode=loop_sustain loop_start=443078 loop_end=514539 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=768511 loop_mode=loop_sustain loop_start=355085 loop_end=496667 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762879 loop_mode=loop_sustain loop_start=355721 loop_end=521916 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762367 loop_mode=loop_sustain loop_start=466864 loop_end=560725 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=759295 loop_mode=loop_sustain loop_start=419172 loop_end=490012 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761855 loop_mode=loop_sustain loop_start=453263 loop_end=509440 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=784895 loop_mode=loop_sustain loop_start=434194 loop_end=506155 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=775679 loop_mode=loop_sustain loop_start=448731 loop_end=539933 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=772607 loop_mode=loop_sustain loop_start=338456 loop_end=561635 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=767487 loop_mode=loop_sustain loop_start=442618 loop_end=507397 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762879 loop_mode=loop_sustain loop_start=349458 loop_end=452663 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760831 loop_mode=loop_sustain loop_start=352513 loop_end=564388 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763391 loop_mode=loop_sustain loop_start=362882 loop_end=461984 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=771071 loop_mode=loop_sustain loop_start=452209 loop_end=517537 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=763391 loop_mode=loop_sustain loop_start=436498 loop_end=533120 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=769023 loop_mode=loop_sustain loop_start=431678 loop_end=503741 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=782847 loop_mode=loop_sustain loop_start=448839 loop_end=508019 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=767487 loop_mode=loop_sustain loop_start=406830 loop_end=461023 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=779775 loop_mode=loop_sustain loop_start=449465 loop_end=523000 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=765439 loop_mode=loop_sustain loop_start=346545 loop_end=558071 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=772095 loop_mode=loop_sustain loop_start=363849 loop_end=416988 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=757759 loop_mode=loop_sustain loop_start=365383 loop_end=427748 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=759295 loop_mode=loop_sustain loop_start=393434 loop_end=446029 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=766975 loop_mode=loop_sustain loop_start=445553 loop_end=505848 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=779263 loop_mode=loop_sustain loop_start=465001 loop_end=529074 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=783871 loop_mode=loop_sustain loop_start=356133 loop_end=412601 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=782335 loop_mode=loop_sustain loop_start=415937 loop_end=508189 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=775679 loop_mode=loop_sustain loop_start=404628 loop_end=559273 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=767487 loop_mode=loop_sustain loop_start=384252 loop_end=446793 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=765951 loop_mode=loop_sustain loop_start=465260 loop_end=562059 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=767999 loop_mode=loop_sustain loop_start=447857 loop_end=519916 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761855 loop_mode=loop_sustain loop_start=387938 loop_end=456454 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762367 loop_mode=loop_sustain loop_start=356283 loop_end=420970 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=784895 loop_mode=loop_sustain loop_start=464281 loop_end=554124 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=773119 loop_mode=loop_sustain loop_start=422632 loop_end=481519 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=779775 loop_mode=loop_sustain loop_start=330473 loop_end=562928 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762367 loop_mode=loop_sustain loop_start=345155 loop_end=564118 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760831 loop_mode=loop_sustain loop_start=376362 loop_end=561023 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=766463 loop_mode=loop_sustain loop_start=406951 loop_end=495732 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=766975 loop_mode=loop_sustain loop_start=345211 loop_end=559357 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=784895 loop_mode=loop_sustain loop_start=461388 loop_end=538095 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=755199 loop_mode=loop_sustain loop_start=368865 loop_end=435081 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=779775 loop_mode=loop_sustain loop_start=411269 loop_end=482676 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762367 loop_mode=loop_sustain loop_start=439442 loop_end=502673 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=764927 loop_mode=loop_sustain loop_start=323345 loop_end=564134 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=770559 loop_mode=loop_sustain loop_start=412576 loop_end=502903 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761855 loop_mode=loop_sustain loop_start=337866 loop_end=403252 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=781823 loop_mode=loop_sustain loop_start=394862 loop_end=553643 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=762879 loop_mode=loop_sustain loop_start=418465 loop_end=485365 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=768511 loop_mode=loop_sustain loop_start=344797 loop_end=404205 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=756223 loop_mode=loop_sustain loop_start=447795 loop_end=536931 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760831 loop_mode=loop_sustain loop_start=443204 loop_end=516913 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=761343 loop_mode=loop_sustain loop_start=342496 loop_end=398914 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=760319 loop_mode=loop_sustain loop_start=327965 loop_end=388953 sample=../Audio/String Bouncer-SAMPLES/String Bouncer-96-127.wav

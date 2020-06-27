@@ -1,0 +1,124 @@
+// this file was generated from String 2 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590335 sample=../Audio/String 2 1-SAMPLES/String 2-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=593919 sample=../Audio/String 2 1-SAMPLES/String 2-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585727 sample=../Audio/String 2 1-SAMPLES/String 2-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=595455 sample=../Audio/String 2 1-SAMPLES/String 2-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=591359 sample=../Audio/String 2 1-SAMPLES/String 2-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590847 sample=../Audio/String 2 1-SAMPLES/String 2-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/String 2 1-SAMPLES/String 2-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590335 sample=../Audio/String 2 1-SAMPLES/String 2-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/String 2 1-SAMPLES/String 2-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590847 sample=../Audio/String 2 1-SAMPLES/String 2-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592895 sample=../Audio/String 2 1-SAMPLES/String 2-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=594431 sample=../Audio/String 2 1-SAMPLES/String 2-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=591359 sample=../Audio/String 2 1-SAMPLES/String 2-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/String 2 1-SAMPLES/String 2-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/String 2 1-SAMPLES/String 2-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 sample=../Audio/String 2 1-SAMPLES/String 2-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 sample=../Audio/String 2 1-SAMPLES/String 2-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586239 sample=../Audio/String 2 1-SAMPLES/String 2-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592383 sample=../Audio/String 2 1-SAMPLES/String 2-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/String 2 1-SAMPLES/String 2-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589311 sample=../Audio/String 2 1-SAMPLES/String 2-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592383 sample=../Audio/String 2 1-SAMPLES/String 2-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585727 sample=../Audio/String 2 1-SAMPLES/String 2-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585727 sample=../Audio/String 2 1-SAMPLES/String 2-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586239 sample=../Audio/String 2 1-SAMPLES/String 2-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/String 2 1-SAMPLES/String 2-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 sample=../Audio/String 2 1-SAMPLES/String 2-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/String 2 1-SAMPLES/String 2-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586751 sample=../Audio/String 2 1-SAMPLES/String 2-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/String 2 1-SAMPLES/String 2-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 sample=../Audio/String 2 1-SAMPLES/String 2-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590847 sample=../Audio/String 2 1-SAMPLES/String 2-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/String 2 1-SAMPLES/String 2-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/String 2 1-SAMPLES/String 2-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/String 2 1-SAMPLES/String 2-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585727 sample=../Audio/String 2 1-SAMPLES/String 2-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 sample=../Audio/String 2 1-SAMPLES/String 2-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 sample=../Audio/String 2 1-SAMPLES/String 2-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=591871 sample=../Audio/String 2 1-SAMPLES/String 2-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586751 sample=../Audio/String 2 1-SAMPLES/String 2-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 sample=../Audio/String 2 1-SAMPLES/String 2-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587775 sample=../Audio/String 2 1-SAMPLES/String 2-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 sample=../Audio/String 2 1-SAMPLES/String 2-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 sample=../Audio/String 2 1-SAMPLES/String 2-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590847 sample=../Audio/String 2 1-SAMPLES/String 2-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 sample=../Audio/String 2 1-SAMPLES/String 2-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/String 2 1-SAMPLES/String 2-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 sample=../Audio/String 2 1-SAMPLES/String 2-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 sample=../Audio/String 2 1-SAMPLES/String 2-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 sample=../Audio/String 2 1-SAMPLES/String 2-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/String 2 1-SAMPLES/String 2-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/String 2 1-SAMPLES/String 2-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/String 2 1-SAMPLES/String 2-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 sample=../Audio/String 2 1-SAMPLES/String 2-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 sample=../Audio/String 2 1-SAMPLES/String 2-96-127.wav
