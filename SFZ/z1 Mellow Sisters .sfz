@@ -1,124 +1,124 @@
 // this file was generated from z1 Mellow Sisters .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=391673 loop_mode=loop_sustain loop_start=148339 loop_end=262938 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-36-127-6TN5.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=397714 loop_mode=loop_sustain loop_start=129478 loop_end=244010 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-37-127-5DQY.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=384328 loop_mode=loop_sustain loop_start=105772 loop_end=221076 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-38-127-RMKV.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390675 loop_mode=loop_sustain loop_start=38281 loop_end=268449 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-39-127-T7IZ.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=386407 loop_mode=loop_sustain loop_start=107701 loop_end=224347 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-40-127-3QZP.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390414 loop_mode=loop_sustain loop_start=139264 loop_end=254410 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-41-127-XRYE.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=385112 loop_mode=loop_sustain loop_start=173162 loop_end=289469 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-42-127-HO9Y.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398817 loop_mode=loop_sustain loop_start=135795 loop_end=250978 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-43-127-3ZEN.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=396985 loop_mode=loop_sustain loop_start=16673 loop_end=246003 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-44-127-63YD.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387097 loop_mode=loop_sustain loop_start=143605 loop_end=259046 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-45-127-968G.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=393300 loop_mode=loop_sustain loop_start=116855 loop_end=232252 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-46-127-GAL6.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390108 loop_mode=loop_sustain loop_start=158805 loop_end=273798 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-47-127-DA59.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=386782 loop_mode=loop_sustain loop_start=123298 loop_end=238578 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-48-127-8WPI.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=403641 loop_mode=loop_sustain loop_start=143643 loop_end=259448 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-49-127-SO2Q.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=399578 loop_mode=loop_sustain loop_start=115867 loop_end=293039 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-50-127-3GLR.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=393729 loop_mode=loop_sustain loop_start=140563 loop_end=255642 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-51-127-ZLAI.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387331 loop_mode=loop_sustain loop_start=145853 loop_end=260893 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-52-127-1X9F.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390844 loop_mode=loop_sustain loop_start=132949 loop_end=248602 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-53-127-HFE0.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390024 loop_mode=loop_sustain loop_start=114403 loop_end=291255 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-54-127-2XLG.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390010 loop_mode=loop_sustain loop_start=156216 loop_end=271399 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-55-127-EQZ6.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398607 loop_mode=loop_sustain loop_start=122551 loop_end=237638 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-56-127-GMF2.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=399277 loop_mode=loop_sustain loop_start=153533 loop_end=268975 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-57-127-M3SH.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=397992 loop_mode=loop_sustain loop_start=104700 loop_end=219716 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-58-127-1HYV.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392957 loop_mode=loop_sustain loop_start=130910 loop_end=246615 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-59-127-VN2E.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=401132 loop_mode=loop_sustain loop_start=168885 loop_end=284502 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-60-127-RTA7.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=400918 loop_mode=loop_sustain loop_start=177955 loop_end=293762 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-61-127-YTFM.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392157 loop_mode=loop_sustain loop_start=137712 loop_end=253023 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-62-127-M6JV.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=399015 loop_mode=loop_sustain loop_start=109653 loop_end=225297 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-63-127-89UO.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=397413 loop_mode=loop_sustain loop_start=138503 loop_end=254077 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-64-127-NB0G.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392269 loop_mode=loop_sustain loop_start=168085 loop_end=283739 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-65-127-PASG.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=400420 loop_mode=loop_sustain loop_start=139125 loop_end=254723 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-66-127-UFEG.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=385820 loop_mode=loop_sustain loop_start=176272 loop_end=291907 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-67-127-CO3Y.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=393263 loop_mode=loop_sustain loop_start=148022 loop_end=263323 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-68-127-X4EZ.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387974 loop_mode=loop_sustain loop_start=150856 loop_end=266299 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-69-127-LHON.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=382656 loop_mode=loop_sustain loop_start=199849 loop_end=261708 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-70-127-TL0O.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=399654 loop_mode=loop_sustain loop_start=159145 loop_end=274495 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-71-127-WBJY.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=402570 loop_mode=loop_sustain loop_start=129551 loop_end=244831 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-72-127-N4UK.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398829 loop_mode=loop_sustain loop_start=154793 loop_end=270441 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-73-127-LULA.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398525 loop_mode=loop_sustain loop_start=124821 loop_end=240134 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-74-127-T05J.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=404120 loop_mode=loop_sustain loop_start=102449 loop_end=218234 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-75-127-XN0R.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387719 loop_mode=loop_sustain loop_start=130208 loop_end=245649 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-76-127-5P87.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=394100 loop_mode=loop_sustain loop_start=102959 loop_end=217099 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-77-127-BT2N.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=394616 loop_mode=loop_sustain loop_start=140941 loop_end=256301 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-78-127-HJ7Z.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387929 loop_mode=loop_sustain loop_start=103631 loop_end=219153 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-79-127-G6W7.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=397863 loop_mode=loop_sustain loop_start=134801 loop_end=250103 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-80-127-HIGV.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398378 loop_mode=loop_sustain loop_start=114699 loop_end=230443 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-81-127-ZGXH.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390202 loop_mode=loop_sustain loop_start=145426 loop_end=260824 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-82-127-4SEB.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=389643 loop_mode=loop_sustain loop_start=67677 loop_end=183472 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-83-127-CT22.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387652 loop_mode=loop_sustain loop_start=158059 loop_end=273509 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-84-127-PEZ9.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=395155 loop_mode=loop_sustain loop_start=68612 loop_end=184577 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-85-127-SZR3.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=385328 loop_mode=loop_sustain loop_start=104337 loop_end=219650 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-86-127-10JS.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=394096 loop_mode=loop_sustain loop_start=136053 loop_end=251487 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-87-127-RXBI.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=376949 loop_mode=loop_sustain loop_start=116331 loop_end=231572 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-88-127-FTOJ.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=385968 loop_mode=loop_sustain loop_start=187892 loop_end=247803 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-89-127-7L2T.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=393430 loop_mode=loop_sustain loop_start=27705 loop_end=143363 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-90-127-8VEA.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=381136 loop_mode=loop_sustain loop_start=120730 loop_end=236028 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-91-127-2GPX.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=386534 loop_mode=loop_sustain loop_start=101162 loop_end=216570 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-92-127-07BR.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=384594 loop_mode=loop_sustain loop_start=129011 loop_end=190440 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-93-127-XUZY.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=376647 loop_mode=loop_sustain loop_start=56974 loop_end=234045 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-94-127-YGAK.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=388965 loop_mode=loop_sustain loop_start=136177 loop_end=196887 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-95-127-R4O2.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=396398 loop_mode=loop_sustain loop_start=80016 loop_end=254792 sample=../Audio/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-96-127-T9LR.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=391673 loop_mode=loop_sustain loop_start=148339 loop_end=262938 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-36-127-6TN5.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=397714 loop_mode=loop_sustain loop_start=129478 loop_end=244010 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-37-127-5DQY.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=384328 loop_mode=loop_sustain loop_start=105772 loop_end=221076 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-38-127-RMKV.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390675 loop_mode=loop_sustain loop_start=38281 loop_end=268449 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-39-127-T7IZ.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=386407 loop_mode=loop_sustain loop_start=107701 loop_end=224347 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-40-127-3QZP.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390414 loop_mode=loop_sustain loop_start=139264 loop_end=254410 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-41-127-XRYE.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=385112 loop_mode=loop_sustain loop_start=173162 loop_end=289469 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-42-127-HO9Y.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398817 loop_mode=loop_sustain loop_start=135795 loop_end=250978 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-43-127-3ZEN.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=396985 loop_mode=loop_sustain loop_start=16673 loop_end=246003 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-44-127-63YD.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387097 loop_mode=loop_sustain loop_start=143605 loop_end=259046 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-45-127-968G.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=393300 loop_mode=loop_sustain loop_start=116855 loop_end=232252 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-46-127-GAL6.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390108 loop_mode=loop_sustain loop_start=158805 loop_end=273798 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-47-127-DA59.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=386782 loop_mode=loop_sustain loop_start=123298 loop_end=238578 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-48-127-8WPI.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=403641 loop_mode=loop_sustain loop_start=143643 loop_end=259448 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-49-127-SO2Q.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=399578 loop_mode=loop_sustain loop_start=115867 loop_end=293039 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-50-127-3GLR.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=393729 loop_mode=loop_sustain loop_start=140563 loop_end=255642 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-51-127-ZLAI.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387331 loop_mode=loop_sustain loop_start=145853 loop_end=260893 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-52-127-1X9F.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390844 loop_mode=loop_sustain loop_start=132949 loop_end=248602 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-53-127-HFE0.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390024 loop_mode=loop_sustain loop_start=114403 loop_end=291255 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-54-127-2XLG.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390010 loop_mode=loop_sustain loop_start=156216 loop_end=271399 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-55-127-EQZ6.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398607 loop_mode=loop_sustain loop_start=122551 loop_end=237638 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-56-127-GMF2.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=399277 loop_mode=loop_sustain loop_start=153533 loop_end=268975 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-57-127-M3SH.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=397992 loop_mode=loop_sustain loop_start=104700 loop_end=219716 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-58-127-1HYV.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392957 loop_mode=loop_sustain loop_start=130910 loop_end=246615 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-59-127-VN2E.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=401132 loop_mode=loop_sustain loop_start=168885 loop_end=284502 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-60-127-RTA7.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=400918 loop_mode=loop_sustain loop_start=177955 loop_end=293762 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-61-127-YTFM.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392157 loop_mode=loop_sustain loop_start=137712 loop_end=253023 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-62-127-M6JV.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=399015 loop_mode=loop_sustain loop_start=109653 loop_end=225297 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-63-127-89UO.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=397413 loop_mode=loop_sustain loop_start=138503 loop_end=254077 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-64-127-NB0G.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392269 loop_mode=loop_sustain loop_start=168085 loop_end=283739 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-65-127-PASG.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=400420 loop_mode=loop_sustain loop_start=139125 loop_end=254723 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-66-127-UFEG.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=385820 loop_mode=loop_sustain loop_start=176272 loop_end=291907 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-67-127-CO3Y.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=393263 loop_mode=loop_sustain loop_start=148022 loop_end=263323 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-68-127-X4EZ.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387974 loop_mode=loop_sustain loop_start=150856 loop_end=266299 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-69-127-LHON.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=382656 loop_mode=loop_sustain loop_start=199849 loop_end=261708 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-70-127-TL0O.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=399654 loop_mode=loop_sustain loop_start=159145 loop_end=274495 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-71-127-WBJY.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=402570 loop_mode=loop_sustain loop_start=129551 loop_end=244831 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-72-127-N4UK.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398829 loop_mode=loop_sustain loop_start=154793 loop_end=270441 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-73-127-LULA.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398525 loop_mode=loop_sustain loop_start=124821 loop_end=240134 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-74-127-T05J.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=404120 loop_mode=loop_sustain loop_start=102449 loop_end=218234 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-75-127-XN0R.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387719 loop_mode=loop_sustain loop_start=130208 loop_end=245649 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-76-127-5P87.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=394100 loop_mode=loop_sustain loop_start=102959 loop_end=217099 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-77-127-BT2N.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=394616 loop_mode=loop_sustain loop_start=140941 loop_end=256301 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-78-127-HJ7Z.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387929 loop_mode=loop_sustain loop_start=103631 loop_end=219153 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-79-127-G6W7.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=397863 loop_mode=loop_sustain loop_start=134801 loop_end=250103 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-80-127-HIGV.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398378 loop_mode=loop_sustain loop_start=114699 loop_end=230443 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-81-127-ZGXH.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390202 loop_mode=loop_sustain loop_start=145426 loop_end=260824 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-82-127-4SEB.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=389643 loop_mode=loop_sustain loop_start=67677 loop_end=183472 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-83-127-CT22.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387652 loop_mode=loop_sustain loop_start=158059 loop_end=273509 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-84-127-PEZ9.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=395155 loop_mode=loop_sustain loop_start=68612 loop_end=184577 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-85-127-SZR3.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=385328 loop_mode=loop_sustain loop_start=104337 loop_end=219650 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-86-127-10JS.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=394096 loop_mode=loop_sustain loop_start=136053 loop_end=251487 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-87-127-RXBI.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=376949 loop_mode=loop_sustain loop_start=116331 loop_end=231572 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-88-127-FTOJ.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=385968 loop_mode=loop_sustain loop_start=187892 loop_end=247803 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-89-127-7L2T.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=393430 loop_mode=loop_sustain loop_start=27705 loop_end=143363 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-90-127-8VEA.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=381136 loop_mode=loop_sustain loop_start=120730 loop_end=236028 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-91-127-2GPX.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=386534 loop_mode=loop_sustain loop_start=101162 loop_end=216570 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-92-127-07BR.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=384594 loop_mode=loop_sustain loop_start=129011 loop_end=190440 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-93-127-XUZY.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=376647 loop_mode=loop_sustain loop_start=56974 loop_end=234045 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-94-127-YGAK.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=388965 loop_mode=loop_sustain loop_start=136177 loop_end=196887 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-95-127-R4O2.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=396398 loop_mode=loop_sustain loop_start=80016 loop_end=254792 sample=../KorgZ1/z1 Mellow Sisters 1-SAMPLES/Mellow Sisters-96-127-T9LR.wav

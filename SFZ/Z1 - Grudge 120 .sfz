@@ -1,124 +1,124 @@
 // this file was generated from Z1 - Grudge 120 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482776 loop_mode=loop_sustain loop_start=58458 loop_end=170264 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-36-127-FXEC.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482114 loop_mode=loop_sustain loop_start=239010 loop_end=350301 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-37-127-LZM3.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=493284 loop_mode=loop_sustain loop_start=67871 loop_end=172975 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-38-127-6UMW.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481503 loop_mode=loop_sustain loop_start=162875 loop_end=259992 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-39-127-F313.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492765 loop_mode=loop_sustain loop_start=66308 loop_end=351954 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-40-127-MKTH.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=483463 loop_mode=loop_sustain loop_start=245213 loop_end=350842 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-41-127-O0ZO.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481886 loop_mode=loop_sustain loop_start=84278 loop_end=350225 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-42-127-X8LU.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=483704 loop_mode=loop_sustain loop_start=160872 loop_end=262211 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-43-127-CNCH.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=485239 loop_mode=loop_sustain loop_start=80415 loop_end=262373 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-44-127-8SDQ.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=484193 loop_mode=loop_sustain loop_start=82262 loop_end=338621 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-45-127-0YC7.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=494754 loop_mode=loop_sustain loop_start=173846 loop_end=363032 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-46-127-VOOR.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=483885 loop_mode=loop_sustain loop_start=165890 loop_end=346982 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-47-127-HPY0.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=489764 loop_mode=loop_sustain loop_start=56060 loop_end=144132 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-48-127-5CFL.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=488349 loop_mode=loop_sustain loop_start=54211 loop_end=321247 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-49-127-3KYK.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480991 loop_mode=loop_sustain loop_start=56807 loop_end=141197 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-50-127-5QZI.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476116 loop_mode=loop_sustain loop_start=143174 loop_end=332255 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-51-127-O1LQ.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481498 loop_mode=loop_sustain loop_start=85541 loop_end=350529 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-52-127-7JKK.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481435 loop_mode=loop_sustain loop_start=237131 loop_end=340578 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-53-127-17SW.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482051 loop_mode=loop_sustain loop_start=244945 loop_end=349658 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-54-127-B3P4.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482440 loop_mode=loop_sustain loop_start=173441 loop_end=349185 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-55-127-9RA9.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482395 loop_mode=loop_sustain loop_start=262300 loop_end=348331 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-56-127-SIDS.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480307 loop_mode=loop_sustain loop_start=259951 loop_end=351075 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-57-127-0OTX.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481823 loop_mode=loop_sustain loop_start=113327 loop_end=201249 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-58-127-03NZ.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=491678 loop_mode=loop_sustain loop_start=116717 loop_end=291474 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-59-127-11A3.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=491370 loop_mode=loop_sustain loop_start=84884 loop_end=349644 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-60-127-Y8WW.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492040 loop_mode=loop_sustain loop_start=25396 loop_end=115108 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-61-127-DUJ8.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492003 loop_mode=loop_sustain loop_start=52487 loop_end=197213 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-62-127-FE00.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492231 loop_mode=loop_sustain loop_start=85296 loop_end=350629 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-63-127-AOAD.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492708 loop_mode=loop_sustain loop_start=57726 loop_end=142822 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-64-127-BS6K.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=489094 loop_mode=loop_sustain loop_start=115818 loop_end=192549 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-65-127-GM2U.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=490166 loop_mode=loop_sustain loop_start=54760 loop_end=319336 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-66-127-OGY3.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471179 loop_mode=loop_sustain loop_start=185792 loop_end=262525 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-67-127-S77J.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471682 loop_mode=loop_sustain loop_start=173430 loop_end=319780 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-68-127-IYQE.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480725 loop_mode=loop_sustain loop_start=203207 loop_end=315871 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-69-127-SHZ8.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470798 loop_mode=loop_sustain loop_start=109855 loop_end=351141 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-70-127-F5HV.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471586 loop_mode=loop_sustain loop_start=143413 loop_end=260374 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-71-127-J03W.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472767 loop_mode=loop_sustain loop_start=174069 loop_end=350263 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-72-127-M0RK.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=484857 loop_mode=loop_sustain loop_start=84893 loop_end=173053 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-73-127-KNR1.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471544 loop_mode=loop_sustain loop_start=81175 loop_end=172774 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-74-127-X0E7.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471027 loop_mode=loop_sustain loop_start=15276 loop_end=113089 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-75-127-ICF1.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470965 loop_mode=loop_sustain loop_start=114773 loop_end=288919 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-76-127-P74Q.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470714 loop_mode=loop_sustain loop_start=170533 loop_end=320402 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-77-127-19DZ.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470050 loop_mode=loop_sustain loop_start=52216 loop_end=142827 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-78-127-5X2Z.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482475 loop_mode=loop_sustain loop_start=84326 loop_end=350291 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-79-127-29IC.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470464 loop_mode=loop_sustain loop_start=173183 loop_end=260596 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-80-127-38CU.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471405 loop_mode=loop_sustain loop_start=175016 loop_end=289509 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-81-127-0ZB7.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471111 loop_mode=loop_sustain loop_start=173117 loop_end=261324 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-82-127-E350.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471597 loop_mode=loop_sustain loop_start=57334 loop_end=166017 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-83-127-J67F.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471633 loop_mode=loop_sustain loop_start=233683 loop_end=321981 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-84-127-QTF6.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471233 loop_mode=loop_sustain loop_start=52476 loop_end=315850 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-85-127-KAYE.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471533 loop_mode=loop_sustain loop_start=85567 loop_end=346796 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-86-127-XK5D.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470525 loop_mode=loop_sustain loop_start=114796 loop_end=291081 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-87-127-59RT.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471258 loop_mode=loop_sustain loop_start=82951 loop_end=349169 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-88-127-L63S.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471849 loop_mode=loop_sustain loop_start=174450 loop_end=262589 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-89-127-RWUG.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471589 loop_mode=loop_sustain loop_start=81039 loop_end=318254 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-90-127-IGAM.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471800 loop_mode=loop_sustain loop_start=259198 loop_end=347526 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-91-127-FVNV.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471429 loop_mode=loop_sustain loop_start=54625 loop_end=143218 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-92-127-ZTND.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481578 loop_mode=loop_sustain loop_start=51175 loop_end=312313 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-93-127-WXX7.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480839 loop_mode=loop_sustain loop_start=164744 loop_end=253434 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-94-127-OFB1.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481215 loop_mode=loop_sustain loop_start=168815 loop_end=257003 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-95-127-8OA4.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481127 loop_mode=loop_sustain loop_start=233150 loop_end=351219 sample=../Audio/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-96-127-FLKM.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482776 loop_mode=loop_sustain loop_start=58458 loop_end=170264 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-36-127-FXEC.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482114 loop_mode=loop_sustain loop_start=239010 loop_end=350301 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-37-127-LZM3.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=493284 loop_mode=loop_sustain loop_start=67871 loop_end=172975 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-38-127-6UMW.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481503 loop_mode=loop_sustain loop_start=162875 loop_end=259992 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-39-127-F313.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=492765 loop_mode=loop_sustain loop_start=66308 loop_end=351954 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-40-127-MKTH.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=483463 loop_mode=loop_sustain loop_start=245213 loop_end=350842 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-41-127-O0ZO.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481886 loop_mode=loop_sustain loop_start=84278 loop_end=350225 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-42-127-X8LU.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=483704 loop_mode=loop_sustain loop_start=160872 loop_end=262211 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-43-127-CNCH.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=485239 loop_mode=loop_sustain loop_start=80415 loop_end=262373 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-44-127-8SDQ.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=484193 loop_mode=loop_sustain loop_start=82262 loop_end=338621 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-45-127-0YC7.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=494754 loop_mode=loop_sustain loop_start=173846 loop_end=363032 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-46-127-VOOR.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=483885 loop_mode=loop_sustain loop_start=165890 loop_end=346982 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-47-127-HPY0.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=489764 loop_mode=loop_sustain loop_start=56060 loop_end=144132 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-48-127-5CFL.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=488349 loop_mode=loop_sustain loop_start=54211 loop_end=321247 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-49-127-3KYK.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=480991 loop_mode=loop_sustain loop_start=56807 loop_end=141197 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-50-127-5QZI.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=476116 loop_mode=loop_sustain loop_start=143174 loop_end=332255 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-51-127-O1LQ.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481498 loop_mode=loop_sustain loop_start=85541 loop_end=350529 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-52-127-7JKK.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481435 loop_mode=loop_sustain loop_start=237131 loop_end=340578 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-53-127-17SW.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482051 loop_mode=loop_sustain loop_start=244945 loop_end=349658 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-54-127-B3P4.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482440 loop_mode=loop_sustain loop_start=173441 loop_end=349185 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-55-127-9RA9.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482395 loop_mode=loop_sustain loop_start=262300 loop_end=348331 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-56-127-SIDS.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=480307 loop_mode=loop_sustain loop_start=259951 loop_end=351075 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-57-127-0OTX.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481823 loop_mode=loop_sustain loop_start=113327 loop_end=201249 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-58-127-03NZ.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=491678 loop_mode=loop_sustain loop_start=116717 loop_end=291474 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-59-127-11A3.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=491370 loop_mode=loop_sustain loop_start=84884 loop_end=349644 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-60-127-Y8WW.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=492040 loop_mode=loop_sustain loop_start=25396 loop_end=115108 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-61-127-DUJ8.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=492003 loop_mode=loop_sustain loop_start=52487 loop_end=197213 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-62-127-FE00.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=492231 loop_mode=loop_sustain loop_start=85296 loop_end=350629 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-63-127-AOAD.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=492708 loop_mode=loop_sustain loop_start=57726 loop_end=142822 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-64-127-BS6K.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=489094 loop_mode=loop_sustain loop_start=115818 loop_end=192549 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-65-127-GM2U.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=490166 loop_mode=loop_sustain loop_start=54760 loop_end=319336 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-66-127-OGY3.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471179 loop_mode=loop_sustain loop_start=185792 loop_end=262525 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-67-127-S77J.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471682 loop_mode=loop_sustain loop_start=173430 loop_end=319780 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-68-127-IYQE.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=480725 loop_mode=loop_sustain loop_start=203207 loop_end=315871 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-69-127-SHZ8.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470798 loop_mode=loop_sustain loop_start=109855 loop_end=351141 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-70-127-F5HV.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471586 loop_mode=loop_sustain loop_start=143413 loop_end=260374 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-71-127-J03W.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=472767 loop_mode=loop_sustain loop_start=174069 loop_end=350263 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-72-127-M0RK.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=484857 loop_mode=loop_sustain loop_start=84893 loop_end=173053 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-73-127-KNR1.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471544 loop_mode=loop_sustain loop_start=81175 loop_end=172774 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-74-127-X0E7.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471027 loop_mode=loop_sustain loop_start=15276 loop_end=113089 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-75-127-ICF1.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470965 loop_mode=loop_sustain loop_start=114773 loop_end=288919 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-76-127-P74Q.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470714 loop_mode=loop_sustain loop_start=170533 loop_end=320402 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-77-127-19DZ.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470050 loop_mode=loop_sustain loop_start=52216 loop_end=142827 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-78-127-5X2Z.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=482475 loop_mode=loop_sustain loop_start=84326 loop_end=350291 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-79-127-29IC.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470464 loop_mode=loop_sustain loop_start=173183 loop_end=260596 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-80-127-38CU.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471405 loop_mode=loop_sustain loop_start=175016 loop_end=289509 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-81-127-0ZB7.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471111 loop_mode=loop_sustain loop_start=173117 loop_end=261324 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-82-127-E350.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471597 loop_mode=loop_sustain loop_start=57334 loop_end=166017 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-83-127-J67F.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471633 loop_mode=loop_sustain loop_start=233683 loop_end=321981 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-84-127-QTF6.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471233 loop_mode=loop_sustain loop_start=52476 loop_end=315850 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-85-127-KAYE.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471533 loop_mode=loop_sustain loop_start=85567 loop_end=346796 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-86-127-XK5D.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=470525 loop_mode=loop_sustain loop_start=114796 loop_end=291081 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-87-127-59RT.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471258 loop_mode=loop_sustain loop_start=82951 loop_end=349169 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-88-127-L63S.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471849 loop_mode=loop_sustain loop_start=174450 loop_end=262589 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-89-127-RWUG.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471589 loop_mode=loop_sustain loop_start=81039 loop_end=318254 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-90-127-IGAM.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471800 loop_mode=loop_sustain loop_start=259198 loop_end=347526 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-91-127-FVNV.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=471429 loop_mode=loop_sustain loop_start=54625 loop_end=143218 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-92-127-ZTND.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481578 loop_mode=loop_sustain loop_start=51175 loop_end=312313 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-93-127-WXX7.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=480839 loop_mode=loop_sustain loop_start=164744 loop_end=253434 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-94-127-OFB1.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481215 loop_mode=loop_sustain loop_start=168815 loop_end=257003 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-95-127-8OA4.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=481127 loop_mode=loop_sustain loop_start=233150 loop_end=351219 sample=../KorgZ1/Z1 - Grudge 120 1-SAMPLES/Z1 - Grudge 120-96-127-FLKM.wav

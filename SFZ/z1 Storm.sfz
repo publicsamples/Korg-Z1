@@ -1,124 +1,124 @@
 // this file was generated from z1 Storm.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1233919 sample=../Audio/z1 Storm-SAMPLES/Storm-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1292287 sample=../Audio/z1 Storm-SAMPLES/Storm-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1255935 sample=../Audio/z1 Storm-SAMPLES/Storm-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1271807 sample=../Audio/z1 Storm-SAMPLES/Storm-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1231359 sample=../Audio/z1 Storm-SAMPLES/Storm-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1185791 sample=../Audio/z1 Storm-SAMPLES/Storm-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1211391 sample=../Audio/z1 Storm-SAMPLES/Storm-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1272319 sample=../Audio/z1 Storm-SAMPLES/Storm-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1197567 sample=../Audio/z1 Storm-SAMPLES/Storm-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1237503 sample=../Audio/z1 Storm-SAMPLES/Storm-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1164287 sample=../Audio/z1 Storm-SAMPLES/Storm-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1135615 sample=../Audio/z1 Storm-SAMPLES/Storm-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1203711 sample=../Audio/z1 Storm-SAMPLES/Storm-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1238527 sample=../Audio/z1 Storm-SAMPLES/Storm-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1155071 sample=../Audio/z1 Storm-SAMPLES/Storm-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1125375 sample=../Audio/z1 Storm-SAMPLES/Storm-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1202175 sample=../Audio/z1 Storm-SAMPLES/Storm-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1194495 sample=../Audio/z1 Storm-SAMPLES/Storm-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1187327 sample=../Audio/z1 Storm-SAMPLES/Storm-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1225727 sample=../Audio/z1 Storm-SAMPLES/Storm-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1230847 sample=../Audio/z1 Storm-SAMPLES/Storm-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1219583 sample=../Audio/z1 Storm-SAMPLES/Storm-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1171455 sample=../Audio/z1 Storm-SAMPLES/Storm-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1270271 sample=../Audio/z1 Storm-SAMPLES/Storm-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1267711 sample=../Audio/z1 Storm-SAMPLES/Storm-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1303551 sample=../Audio/z1 Storm-SAMPLES/Storm-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1262591 sample=../Audio/z1 Storm-SAMPLES/Storm-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1250815 sample=../Audio/z1 Storm-SAMPLES/Storm-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1251327 sample=../Audio/z1 Storm-SAMPLES/Storm-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1161215 sample=../Audio/z1 Storm-SAMPLES/Storm-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1244671 sample=../Audio/z1 Storm-SAMPLES/Storm-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1248255 sample=../Audio/z1 Storm-SAMPLES/Storm-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1192447 sample=../Audio/z1 Storm-SAMPLES/Storm-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1203711 sample=../Audio/z1 Storm-SAMPLES/Storm-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1162751 sample=../Audio/z1 Storm-SAMPLES/Storm-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1189375 sample=../Audio/z1 Storm-SAMPLES/Storm-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1172991 sample=../Audio/z1 Storm-SAMPLES/Storm-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1309183 sample=../Audio/z1 Storm-SAMPLES/Storm-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1246719 sample=../Audio/z1 Storm-SAMPLES/Storm-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1157631 sample=../Audio/z1 Storm-SAMPLES/Storm-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1187839 sample=../Audio/z1 Storm-SAMPLES/Storm-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1169407 sample=../Audio/z1 Storm-SAMPLES/Storm-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1259007 sample=../Audio/z1 Storm-SAMPLES/Storm-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1118719 sample=../Audio/z1 Storm-SAMPLES/Storm-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1218047 sample=../Audio/z1 Storm-SAMPLES/Storm-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1204223 sample=../Audio/z1 Storm-SAMPLES/Storm-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1209855 sample=../Audio/z1 Storm-SAMPLES/Storm-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1211903 sample=../Audio/z1 Storm-SAMPLES/Storm-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1189887 sample=../Audio/z1 Storm-SAMPLES/Storm-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1172479 sample=../Audio/z1 Storm-SAMPLES/Storm-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1160703 sample=../Audio/z1 Storm-SAMPLES/Storm-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1206271 sample=../Audio/z1 Storm-SAMPLES/Storm-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1173503 sample=../Audio/z1 Storm-SAMPLES/Storm-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1177599 sample=../Audio/z1 Storm-SAMPLES/Storm-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1141759 sample=../Audio/z1 Storm-SAMPLES/Storm-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1181183 sample=../Audio/z1 Storm-SAMPLES/Storm-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1121279 sample=../Audio/z1 Storm-SAMPLES/Storm-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1144831 sample=../Audio/z1 Storm-SAMPLES/Storm-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1107967 sample=../Audio/z1 Storm-SAMPLES/Storm-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1152511 sample=../Audio/z1 Storm-SAMPLES/Storm-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1065983 sample=../Audio/z1 Storm-SAMPLES/Storm-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1233919 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1292287 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1255935 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1271807 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1231359 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1185791 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1211391 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1272319 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1197567 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1237503 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1164287 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1135615 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1203711 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1238527 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1155071 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1125375 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1202175 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1194495 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1187327 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1225727 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1230847 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1219583 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1171455 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1270271 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1267711 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1303551 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1262591 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1250815 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1251327 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1161215 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1244671 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1248255 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1192447 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1203711 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1162751 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1189375 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1172991 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1309183 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1246719 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1157631 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1187839 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1169407 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1259007 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1118719 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1218047 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1204223 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1209855 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1211903 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1189887 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1172479 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1160703 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1206271 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1173503 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1177599 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1141759 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1181183 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1121279 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1144831 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1107967 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1152511 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=1065983 sample=../KorgZ1/z1 Storm-SAMPLES/Storm-96-127.wav

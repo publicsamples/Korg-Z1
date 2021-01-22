@@ -1,154 +1,154 @@
 // this file was generated from Large String .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=21  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453495 loop_mode=loop_sustain loop_start=98710 loop_end=358934 sample=../Audio/Large String 1-SAMPLES/Large String-21-127-YPJ7.wav
-<group> key=22  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463470 loop_mode=loop_sustain loop_start=83962 loop_end=362507 sample=../Audio/Large String 1-SAMPLES/Large String-22-127-MEE6.wav
-<group> key=23  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=462531 loop_mode=loop_sustain loop_start=92052 loop_end=363486 sample=../Audio/Large String 1-SAMPLES/Large String-23-127-GRYP.wav
-<group> key=24  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=452583 loop_mode=loop_sustain loop_start=90107 loop_end=354222 sample=../Audio/Large String 1-SAMPLES/Large String-24-127-ZF7B.wav
-<group> key=25  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=462993 loop_mode=loop_sustain loop_start=108686 loop_end=355466 sample=../Audio/Large String 1-SAMPLES/Large String-25-127-W1W5.wav
-<group> key=26  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=452744 loop_mode=loop_sustain loop_start=107581 loop_end=300061 sample=../Audio/Large String 1-SAMPLES/Large String-26-127-SEXO.wav
-<group> key=27  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=452644 loop_mode=loop_sustain loop_start=148659 loop_end=301200 sample=../Audio/Large String 1-SAMPLES/Large String-27-127-H522.wav
-<group> key=28  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464357 loop_mode=loop_sustain loop_start=202703 loop_end=357364 sample=../Audio/Large String 1-SAMPLES/Large String-28-127-BXPO.wav
-<group> key=29  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463715 loop_mode=loop_sustain loop_start=225920 loop_end=351830 sample=../Audio/Large String 1-SAMPLES/Large String-29-127-60X2.wav
-<group> key=30  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463273 loop_mode=loop_sustain loop_start=129118 loop_end=355451 sample=../Audio/Large String 1-SAMPLES/Large String-30-127-J0K5.wav
-<group> key=31  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454364 loop_mode=loop_sustain loop_start=196510 loop_end=305136 sample=../Audio/Large String 1-SAMPLES/Large String-31-127-IYD9.wav
-<group> key=32  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463087 loop_mode=loop_sustain loop_start=30981 loop_end=111425 sample=../Audio/Large String 1-SAMPLES/Large String-32-127-MKI4.wav
-<group> key=33  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453890 loop_mode=loop_sustain loop_start=183288 loop_end=362550 sample=../Audio/Large String 1-SAMPLES/Large String-33-127-UUA5.wav
-<group> key=34  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463566 loop_mode=loop_sustain loop_start=110687 loop_end=191539 sample=../Audio/Large String 1-SAMPLES/Large String-34-127-RL1F.wav
-<group> key=35  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463744 loop_mode=loop_sustain loop_start=99642 loop_end=330004 sample=../Audio/Large String 1-SAMPLES/Large String-35-127-IZDS.wav
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454408 loop_mode=loop_sustain loop_start=41074 loop_end=323833 sample=../Audio/Large String 1-SAMPLES/Large String-36-127-4RVF.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453650 loop_mode=loop_sustain loop_start=243991 loop_end=350738 sample=../Audio/Large String 1-SAMPLES/Large String-37-127-NNP3.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454172 loop_mode=loop_sustain loop_start=114408 loop_end=305732 sample=../Audio/Large String 1-SAMPLES/Large String-38-127-T37V.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454136 loop_mode=loop_sustain loop_start=127628 loop_end=364289 sample=../Audio/Large String 1-SAMPLES/Large String-39-127-6ES4.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463879 loop_mode=loop_sustain loop_start=209006 loop_end=289708 sample=../Audio/Large String 1-SAMPLES/Large String-40-127-885F.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463745 loop_mode=loop_sustain loop_start=156744 loop_end=363588 sample=../Audio/Large String 1-SAMPLES/Large String-41-127-KYCC.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453812 loop_mode=loop_sustain loop_start=154788 loop_end=297168 sample=../Audio/Large String 1-SAMPLES/Large String-42-127-VBL0.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464410 loop_mode=loop_sustain loop_start=229575 loop_end=308601 sample=../Audio/Large String 1-SAMPLES/Large String-43-127-YPW6.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463281 loop_mode=loop_sustain loop_start=172292 loop_end=261283 sample=../Audio/Large String 1-SAMPLES/Large String-44-127-EMH5.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464958 loop_mode=loop_sustain loop_start=80856 loop_end=249800 sample=../Audio/Large String 1-SAMPLES/Large String-45-127-0JKV.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454596 loop_mode=loop_sustain loop_start=156887 loop_end=275149 sample=../Audio/Large String 1-SAMPLES/Large String-46-127-8KSM.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464301 loop_mode=loop_sustain loop_start=161494 loop_end=312002 sample=../Audio/Large String 1-SAMPLES/Large String-47-127-CPWY.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454262 loop_mode=loop_sustain loop_start=67095 loop_end=165728 sample=../Audio/Large String 1-SAMPLES/Large String-48-127-7ZT4.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464042 loop_mode=loop_sustain loop_start=174727 loop_end=264009 sample=../Audio/Large String 1-SAMPLES/Large String-49-127-EFQ2.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=465032 loop_mode=loop_sustain loop_start=125495 loop_end=275753 sample=../Audio/Large String 1-SAMPLES/Large String-50-127-BPZH.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464119 loop_mode=loop_sustain loop_start=130600 loop_end=228259 sample=../Audio/Large String 1-SAMPLES/Large String-51-127-UGYW.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464173 loop_mode=loop_sustain loop_start=52716 loop_end=256004 sample=../Audio/Large String 1-SAMPLES/Large String-52-127-YI7I.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=455018 loop_mode=loop_sustain loop_start=185028 loop_end=335826 sample=../Audio/Large String 1-SAMPLES/Large String-53-127-EXAU.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=465351 loop_mode=loop_sustain loop_start=61830 loop_end=364112 sample=../Audio/Large String 1-SAMPLES/Large String-54-127-3HRS.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464388 loop_mode=loop_sustain loop_start=61247 loop_end=209948 sample=../Audio/Large String 1-SAMPLES/Large String-55-127-3SLS.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464894 loop_mode=loop_sustain loop_start=155787 loop_end=359557 sample=../Audio/Large String 1-SAMPLES/Large String-56-127-CJKA.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454284 loop_mode=loop_sustain loop_start=45848 loop_end=248143 sample=../Audio/Large String 1-SAMPLES/Large String-57-127-8XCU.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464335 loop_mode=loop_sustain loop_start=127629 loop_end=224909 sample=../Audio/Large String 1-SAMPLES/Large String-58-127-Z1XA.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454281 loop_mode=loop_sustain loop_start=61815 loop_end=364516 sample=../Audio/Large String 1-SAMPLES/Large String-59-127-N8N4.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463931 loop_mode=loop_sustain loop_start=150447 loop_end=300852 sample=../Audio/Large String 1-SAMPLES/Large String-60-127-73SK.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=455168 loop_mode=loop_sustain loop_start=62297 loop_end=204254 sample=../Audio/Large String 1-SAMPLES/Large String-61-127-RU8W.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464395 loop_mode=loop_sustain loop_start=111438 loop_end=359204 sample=../Audio/Large String 1-SAMPLES/Large String-62-127-XDAH.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454159 loop_mode=loop_sustain loop_start=54915 loop_end=354403 sample=../Audio/Large String 1-SAMPLES/Large String-63-127-HVET.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454016 loop_mode=loop_sustain loop_start=64564 loop_end=215155 sample=../Audio/Large String 1-SAMPLES/Large String-64-127-MAOZ.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453817 loop_mode=loop_sustain loop_start=212050 loop_end=363393 sample=../Audio/Large String 1-SAMPLES/Large String-65-127-EYRW.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453409 loop_mode=loop_sustain loop_start=57535 loop_end=207989 sample=../Audio/Large String 1-SAMPLES/Large String-66-127-Z9LO.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454016 loop_mode=loop_sustain loop_start=194792 loop_end=346994 sample=../Audio/Large String 1-SAMPLES/Large String-67-127-E8JQ.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453632 loop_mode=loop_sustain loop_start=187635 loop_end=338844 sample=../Audio/Large String 1-SAMPLES/Large String-68-127-ZLOT.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453404 loop_mode=loop_sustain loop_start=208798 loop_end=357527 sample=../Audio/Large String 1-SAMPLES/Large String-69-127-Z63U.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453562 loop_mode=loop_sustain loop_start=109582 loop_end=262100 sample=../Audio/Large String 1-SAMPLES/Large String-70-127-NK64.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453904 loop_mode=loop_sustain loop_start=166766 loop_end=317265 sample=../Audio/Large String 1-SAMPLES/Large String-71-127-KRPX.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453500 loop_mode=loop_sustain loop_start=194514 loop_end=344586 sample=../Audio/Large String 1-SAMPLES/Large String-72-127-6LYU.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453703 loop_mode=loop_sustain loop_start=187531 loop_end=337950 sample=../Audio/Large String 1-SAMPLES/Large String-73-127-Q455.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463488 loop_mode=loop_sustain loop_start=207814 loop_end=358316 sample=../Audio/Large String 1-SAMPLES/Large String-74-127-79TS.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453049 loop_mode=loop_sustain loop_start=185485 loop_end=336752 sample=../Audio/Large String 1-SAMPLES/Large String-75-127-67IV.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464027 loop_mode=loop_sustain loop_start=166955 loop_end=318324 sample=../Audio/Large String 1-SAMPLES/Large String-76-127-YB5J.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453672 loop_mode=loop_sustain loop_start=39892 loop_end=339051 sample=../Audio/Large String 1-SAMPLES/Large String-77-127-WDX5.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453657 loop_mode=loop_sustain loop_start=167173 loop_end=317491 sample=../Audio/Large String 1-SAMPLES/Large String-78-127-45GM.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453927 loop_mode=loop_sustain loop_start=72661 loop_end=222788 sample=../Audio/Large String 1-SAMPLES/Large String-79-127-VZR8.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454020 loop_mode=loop_sustain loop_start=211734 loop_end=363502 sample=../Audio/Large String 1-SAMPLES/Large String-80-127-BOJ9.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464296 loop_mode=loop_sustain loop_start=208933 loop_end=360499 sample=../Audio/Large String 1-SAMPLES/Large String-81-127-OSEN.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464397 loop_mode=loop_sustain loop_start=91371 loop_end=242021 sample=../Audio/Large String 1-SAMPLES/Large String-82-127-VPBE.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464388 loop_mode=loop_sustain loop_start=212014 loop_end=362867 sample=../Audio/Large String 1-SAMPLES/Large String-83-127-XU7R.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=463881 loop_mode=loop_sustain loop_start=209815 loop_end=358452 sample=../Audio/Large String 1-SAMPLES/Large String-84-127-BG5Y.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453684 loop_mode=loop_sustain loop_start=211935 loop_end=361593 sample=../Audio/Large String 1-SAMPLES/Large String-85-127-Q3B1.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=454198 loop_mode=loop_sustain loop_start=177417 loop_end=327808 sample=../Audio/Large String 1-SAMPLES/Large String-86-127-P277.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464284 loop_mode=loop_sustain loop_start=162910 loop_end=314958 sample=../Audio/Large String 1-SAMPLES/Large String-87-127-DJK9.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464386 loop_mode=loop_sustain loop_start=169482 loop_end=319610 sample=../Audio/Large String 1-SAMPLES/Large String-88-127-8NOX.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453798 loop_mode=loop_sustain loop_start=77292 loop_end=226676 sample=../Audio/Large String 1-SAMPLES/Large String-89-127-VHXB.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464644 loop_mode=loop_sustain loop_start=174039 loop_end=324002 sample=../Audio/Large String 1-SAMPLES/Large String-90-127-YFZZ.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464640 loop_mode=loop_sustain loop_start=103481 loop_end=254983 sample=../Audio/Large String 1-SAMPLES/Large String-91-127-UTFM.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453642 loop_mode=loop_sustain loop_start=205205 loop_end=356343 sample=../Audio/Large String 1-SAMPLES/Large String-92-127-1AOR.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453902 loop_mode=loop_sustain loop_start=167575 loop_end=317812 sample=../Audio/Large String 1-SAMPLES/Large String-93-127-MT6A.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453251 loop_mode=loop_sustain loop_start=191251 loop_end=342978 sample=../Audio/Large String 1-SAMPLES/Large String-94-127-DI7O.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=453282 loop_mode=loop_sustain loop_start=212061 loop_end=363443 sample=../Audio/Large String 1-SAMPLES/Large String-95-127-JL95.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=464530 loop_mode=loop_sustain loop_start=190123 loop_end=340178 sample=../Audio/Large String 1-SAMPLES/Large String-96-127-Z12J.wav
+<group> key=21  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453495 loop_mode=loop_sustain loop_start=98710 loop_end=358934 sample=../KorgZ1/Large String 1-SAMPLES/Large String-21-127-YPJ7.wav
+<group> key=22  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463470 loop_mode=loop_sustain loop_start=83962 loop_end=362507 sample=../KorgZ1/Large String 1-SAMPLES/Large String-22-127-MEE6.wav
+<group> key=23  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=462531 loop_mode=loop_sustain loop_start=92052 loop_end=363486 sample=../KorgZ1/Large String 1-SAMPLES/Large String-23-127-GRYP.wav
+<group> key=24  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=452583 loop_mode=loop_sustain loop_start=90107 loop_end=354222 sample=../KorgZ1/Large String 1-SAMPLES/Large String-24-127-ZF7B.wav
+<group> key=25  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=462993 loop_mode=loop_sustain loop_start=108686 loop_end=355466 sample=../KorgZ1/Large String 1-SAMPLES/Large String-25-127-W1W5.wav
+<group> key=26  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=452744 loop_mode=loop_sustain loop_start=107581 loop_end=300061 sample=../KorgZ1/Large String 1-SAMPLES/Large String-26-127-SEXO.wav
+<group> key=27  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=452644 loop_mode=loop_sustain loop_start=148659 loop_end=301200 sample=../KorgZ1/Large String 1-SAMPLES/Large String-27-127-H522.wav
+<group> key=28  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464357 loop_mode=loop_sustain loop_start=202703 loop_end=357364 sample=../KorgZ1/Large String 1-SAMPLES/Large String-28-127-BXPO.wav
+<group> key=29  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463715 loop_mode=loop_sustain loop_start=225920 loop_end=351830 sample=../KorgZ1/Large String 1-SAMPLES/Large String-29-127-60X2.wav
+<group> key=30  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463273 loop_mode=loop_sustain loop_start=129118 loop_end=355451 sample=../KorgZ1/Large String 1-SAMPLES/Large String-30-127-J0K5.wav
+<group> key=31  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454364 loop_mode=loop_sustain loop_start=196510 loop_end=305136 sample=../KorgZ1/Large String 1-SAMPLES/Large String-31-127-IYD9.wav
+<group> key=32  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463087 loop_mode=loop_sustain loop_start=30981 loop_end=111425 sample=../KorgZ1/Large String 1-SAMPLES/Large String-32-127-MKI4.wav
+<group> key=33  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453890 loop_mode=loop_sustain loop_start=183288 loop_end=362550 sample=../KorgZ1/Large String 1-SAMPLES/Large String-33-127-UUA5.wav
+<group> key=34  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463566 loop_mode=loop_sustain loop_start=110687 loop_end=191539 sample=../KorgZ1/Large String 1-SAMPLES/Large String-34-127-RL1F.wav
+<group> key=35  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463744 loop_mode=loop_sustain loop_start=99642 loop_end=330004 sample=../KorgZ1/Large String 1-SAMPLES/Large String-35-127-IZDS.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454408 loop_mode=loop_sustain loop_start=41074 loop_end=323833 sample=../KorgZ1/Large String 1-SAMPLES/Large String-36-127-4RVF.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453650 loop_mode=loop_sustain loop_start=243991 loop_end=350738 sample=../KorgZ1/Large String 1-SAMPLES/Large String-37-127-NNP3.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454172 loop_mode=loop_sustain loop_start=114408 loop_end=305732 sample=../KorgZ1/Large String 1-SAMPLES/Large String-38-127-T37V.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454136 loop_mode=loop_sustain loop_start=127628 loop_end=364289 sample=../KorgZ1/Large String 1-SAMPLES/Large String-39-127-6ES4.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463879 loop_mode=loop_sustain loop_start=209006 loop_end=289708 sample=../KorgZ1/Large String 1-SAMPLES/Large String-40-127-885F.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463745 loop_mode=loop_sustain loop_start=156744 loop_end=363588 sample=../KorgZ1/Large String 1-SAMPLES/Large String-41-127-KYCC.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453812 loop_mode=loop_sustain loop_start=154788 loop_end=297168 sample=../KorgZ1/Large String 1-SAMPLES/Large String-42-127-VBL0.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464410 loop_mode=loop_sustain loop_start=229575 loop_end=308601 sample=../KorgZ1/Large String 1-SAMPLES/Large String-43-127-YPW6.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463281 loop_mode=loop_sustain loop_start=172292 loop_end=261283 sample=../KorgZ1/Large String 1-SAMPLES/Large String-44-127-EMH5.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464958 loop_mode=loop_sustain loop_start=80856 loop_end=249800 sample=../KorgZ1/Large String 1-SAMPLES/Large String-45-127-0JKV.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454596 loop_mode=loop_sustain loop_start=156887 loop_end=275149 sample=../KorgZ1/Large String 1-SAMPLES/Large String-46-127-8KSM.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464301 loop_mode=loop_sustain loop_start=161494 loop_end=312002 sample=../KorgZ1/Large String 1-SAMPLES/Large String-47-127-CPWY.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454262 loop_mode=loop_sustain loop_start=67095 loop_end=165728 sample=../KorgZ1/Large String 1-SAMPLES/Large String-48-127-7ZT4.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464042 loop_mode=loop_sustain loop_start=174727 loop_end=264009 sample=../KorgZ1/Large String 1-SAMPLES/Large String-49-127-EFQ2.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=465032 loop_mode=loop_sustain loop_start=125495 loop_end=275753 sample=../KorgZ1/Large String 1-SAMPLES/Large String-50-127-BPZH.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464119 loop_mode=loop_sustain loop_start=130600 loop_end=228259 sample=../KorgZ1/Large String 1-SAMPLES/Large String-51-127-UGYW.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464173 loop_mode=loop_sustain loop_start=52716 loop_end=256004 sample=../KorgZ1/Large String 1-SAMPLES/Large String-52-127-YI7I.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=455018 loop_mode=loop_sustain loop_start=185028 loop_end=335826 sample=../KorgZ1/Large String 1-SAMPLES/Large String-53-127-EXAU.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=465351 loop_mode=loop_sustain loop_start=61830 loop_end=364112 sample=../KorgZ1/Large String 1-SAMPLES/Large String-54-127-3HRS.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464388 loop_mode=loop_sustain loop_start=61247 loop_end=209948 sample=../KorgZ1/Large String 1-SAMPLES/Large String-55-127-3SLS.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464894 loop_mode=loop_sustain loop_start=155787 loop_end=359557 sample=../KorgZ1/Large String 1-SAMPLES/Large String-56-127-CJKA.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454284 loop_mode=loop_sustain loop_start=45848 loop_end=248143 sample=../KorgZ1/Large String 1-SAMPLES/Large String-57-127-8XCU.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464335 loop_mode=loop_sustain loop_start=127629 loop_end=224909 sample=../KorgZ1/Large String 1-SAMPLES/Large String-58-127-Z1XA.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454281 loop_mode=loop_sustain loop_start=61815 loop_end=364516 sample=../KorgZ1/Large String 1-SAMPLES/Large String-59-127-N8N4.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463931 loop_mode=loop_sustain loop_start=150447 loop_end=300852 sample=../KorgZ1/Large String 1-SAMPLES/Large String-60-127-73SK.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=455168 loop_mode=loop_sustain loop_start=62297 loop_end=204254 sample=../KorgZ1/Large String 1-SAMPLES/Large String-61-127-RU8W.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464395 loop_mode=loop_sustain loop_start=111438 loop_end=359204 sample=../KorgZ1/Large String 1-SAMPLES/Large String-62-127-XDAH.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454159 loop_mode=loop_sustain loop_start=54915 loop_end=354403 sample=../KorgZ1/Large String 1-SAMPLES/Large String-63-127-HVET.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454016 loop_mode=loop_sustain loop_start=64564 loop_end=215155 sample=../KorgZ1/Large String 1-SAMPLES/Large String-64-127-MAOZ.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453817 loop_mode=loop_sustain loop_start=212050 loop_end=363393 sample=../KorgZ1/Large String 1-SAMPLES/Large String-65-127-EYRW.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453409 loop_mode=loop_sustain loop_start=57535 loop_end=207989 sample=../KorgZ1/Large String 1-SAMPLES/Large String-66-127-Z9LO.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454016 loop_mode=loop_sustain loop_start=194792 loop_end=346994 sample=../KorgZ1/Large String 1-SAMPLES/Large String-67-127-E8JQ.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453632 loop_mode=loop_sustain loop_start=187635 loop_end=338844 sample=../KorgZ1/Large String 1-SAMPLES/Large String-68-127-ZLOT.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453404 loop_mode=loop_sustain loop_start=208798 loop_end=357527 sample=../KorgZ1/Large String 1-SAMPLES/Large String-69-127-Z63U.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453562 loop_mode=loop_sustain loop_start=109582 loop_end=262100 sample=../KorgZ1/Large String 1-SAMPLES/Large String-70-127-NK64.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453904 loop_mode=loop_sustain loop_start=166766 loop_end=317265 sample=../KorgZ1/Large String 1-SAMPLES/Large String-71-127-KRPX.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453500 loop_mode=loop_sustain loop_start=194514 loop_end=344586 sample=../KorgZ1/Large String 1-SAMPLES/Large String-72-127-6LYU.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453703 loop_mode=loop_sustain loop_start=187531 loop_end=337950 sample=../KorgZ1/Large String 1-SAMPLES/Large String-73-127-Q455.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463488 loop_mode=loop_sustain loop_start=207814 loop_end=358316 sample=../KorgZ1/Large String 1-SAMPLES/Large String-74-127-79TS.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453049 loop_mode=loop_sustain loop_start=185485 loop_end=336752 sample=../KorgZ1/Large String 1-SAMPLES/Large String-75-127-67IV.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464027 loop_mode=loop_sustain loop_start=166955 loop_end=318324 sample=../KorgZ1/Large String 1-SAMPLES/Large String-76-127-YB5J.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453672 loop_mode=loop_sustain loop_start=39892 loop_end=339051 sample=../KorgZ1/Large String 1-SAMPLES/Large String-77-127-WDX5.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453657 loop_mode=loop_sustain loop_start=167173 loop_end=317491 sample=../KorgZ1/Large String 1-SAMPLES/Large String-78-127-45GM.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453927 loop_mode=loop_sustain loop_start=72661 loop_end=222788 sample=../KorgZ1/Large String 1-SAMPLES/Large String-79-127-VZR8.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454020 loop_mode=loop_sustain loop_start=211734 loop_end=363502 sample=../KorgZ1/Large String 1-SAMPLES/Large String-80-127-BOJ9.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464296 loop_mode=loop_sustain loop_start=208933 loop_end=360499 sample=../KorgZ1/Large String 1-SAMPLES/Large String-81-127-OSEN.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464397 loop_mode=loop_sustain loop_start=91371 loop_end=242021 sample=../KorgZ1/Large String 1-SAMPLES/Large String-82-127-VPBE.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464388 loop_mode=loop_sustain loop_start=212014 loop_end=362867 sample=../KorgZ1/Large String 1-SAMPLES/Large String-83-127-XU7R.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=463881 loop_mode=loop_sustain loop_start=209815 loop_end=358452 sample=../KorgZ1/Large String 1-SAMPLES/Large String-84-127-BG5Y.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453684 loop_mode=loop_sustain loop_start=211935 loop_end=361593 sample=../KorgZ1/Large String 1-SAMPLES/Large String-85-127-Q3B1.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=454198 loop_mode=loop_sustain loop_start=177417 loop_end=327808 sample=../KorgZ1/Large String 1-SAMPLES/Large String-86-127-P277.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464284 loop_mode=loop_sustain loop_start=162910 loop_end=314958 sample=../KorgZ1/Large String 1-SAMPLES/Large String-87-127-DJK9.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464386 loop_mode=loop_sustain loop_start=169482 loop_end=319610 sample=../KorgZ1/Large String 1-SAMPLES/Large String-88-127-8NOX.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453798 loop_mode=loop_sustain loop_start=77292 loop_end=226676 sample=../KorgZ1/Large String 1-SAMPLES/Large String-89-127-VHXB.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464644 loop_mode=loop_sustain loop_start=174039 loop_end=324002 sample=../KorgZ1/Large String 1-SAMPLES/Large String-90-127-YFZZ.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464640 loop_mode=loop_sustain loop_start=103481 loop_end=254983 sample=../KorgZ1/Large String 1-SAMPLES/Large String-91-127-UTFM.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453642 loop_mode=loop_sustain loop_start=205205 loop_end=356343 sample=../KorgZ1/Large String 1-SAMPLES/Large String-92-127-1AOR.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453902 loop_mode=loop_sustain loop_start=167575 loop_end=317812 sample=../KorgZ1/Large String 1-SAMPLES/Large String-93-127-MT6A.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453251 loop_mode=loop_sustain loop_start=191251 loop_end=342978 sample=../KorgZ1/Large String 1-SAMPLES/Large String-94-127-DI7O.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=453282 loop_mode=loop_sustain loop_start=212061 loop_end=363443 sample=../KorgZ1/Large String 1-SAMPLES/Large String-95-127-JL95.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=464530 loop_mode=loop_sustain loop_start=190123 loop_end=340178 sample=../KorgZ1/Large String 1-SAMPLES/Large String-96-127-Z12J.wav

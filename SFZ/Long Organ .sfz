@@ -1,124 +1,124 @@
 // this file was generated from Long Organ .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=472575 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=467455 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=479743 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=466431 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=457727 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=466943 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=488447 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=440831 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=497663 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=492031 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=465919 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=457727 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=479231 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=451583 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=478719 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=491007 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=484351 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=508415 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=505343 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=482303 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=496639 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=529407 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=519167 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=523775 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=506367 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=514047 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=493567 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=516095 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=502783 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=516095 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=524799 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=529407 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=528383 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=529919 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=545791 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=539135 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=545791 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=536063 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=560127 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=559103 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=552959 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=552447 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=543231 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=546303 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=539647 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=527359 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=537599 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=539135 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=527359 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=526847 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=515583 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=524287 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=508927 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=508927 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=514047 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=507903 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=515583 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=508927 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=503807 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=505343 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=7 end=506879 sample=../Audio/Organ pad (MW) 1-SAMPLES/Long Organ-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=472575 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=467455 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=479743 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=466431 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=457727 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=466943 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=488447 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=440831 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=497663 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=492031 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=465919 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=457727 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=479231 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=451583 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=478719 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=491007 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=484351 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=508415 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=505343 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=482303 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=496639 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=529407 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=519167 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=523775 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=506367 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=514047 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=493567 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=516095 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=502783 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=516095 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=524799 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=529407 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=528383 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=529919 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=545791 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=539135 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=545791 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=536063 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=560127 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=559103 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=552959 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=552447 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=543231 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=546303 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=539647 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=527359 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=537599 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=539135 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=527359 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=526847 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=515583 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=524287 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=508927 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=508927 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=514047 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=507903 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=515583 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=508927 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=503807 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=505343 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=7 end=506879 sample=../KorgZ1/Organ pad (MW) 1-SAMPLES/Long Organ-96-127.wav

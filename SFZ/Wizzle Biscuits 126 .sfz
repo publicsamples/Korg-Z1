@@ -1,124 +1,124 @@
 // this file was generated from Wizzle Biscuits 126 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 loop_mode=loop_sustain loop_start=263518 loop_end=338516 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 loop_mode=loop_sustain loop_start=113744 loop_end=176442 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 loop_mode=loop_sustain loop_start=309667 loop_end=378367 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 loop_mode=loop_sustain loop_start=211076 loop_end=338736 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 loop_mode=loop_sustain loop_start=179482 loop_end=245099 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 loop_mode=loop_sustain loop_start=165029 loop_end=319405 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 loop_mode=loop_sustain loop_start=214131 loop_end=408578 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 loop_mode=loop_sustain loop_start=224039 loop_end=372225 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 loop_mode=loop_sustain loop_start=221680 loop_end=411622 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 loop_mode=loop_sustain loop_start=205264 loop_end=396878 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 loop_mode=loop_sustain loop_start=123642 loop_end=315401 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578047 loop_mode=loop_sustain loop_start=106594 loop_end=398551 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 loop_mode=loop_sustain loop_start=282678 loop_end=383129 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=590335 loop_mode=loop_sustain loop_start=261415 loop_end=330572 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583167 loop_mode=loop_sustain loop_start=119623 loop_end=279417 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 loop_mode=loop_sustain loop_start=207057 loop_end=408593 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 loop_mode=loop_sustain loop_start=304343 loop_end=400751 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 loop_mode=loop_sustain loop_start=321553 loop_end=385182 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 loop_mode=loop_sustain loop_start=223475 loop_end=319442 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 loop_mode=loop_sustain loop_start=194974 loop_end=354772 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 loop_mode=loop_sustain loop_start=273647 loop_end=404189 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 loop_mode=loop_sustain loop_start=172615 loop_end=235552 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=247810 loop_end=399678 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 loop_mode=loop_sustain loop_start=160461 loop_end=361435 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582655 loop_mode=loop_sustain loop_start=325916 loop_end=405516 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580095 loop_mode=loop_sustain loop_start=204185 loop_end=407524 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 loop_mode=loop_sustain loop_start=209063 loop_end=410178 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 loop_mode=loop_sustain loop_start=151745 loop_end=300428 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 loop_mode=loop_sustain loop_start=149037 loop_end=262999 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 loop_mode=loop_sustain loop_start=257366 loop_end=382430 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580095 loop_mode=loop_sustain loop_start=175269 loop_end=399281 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 loop_mode=loop_sustain loop_start=255027 loop_end=410553 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 loop_mode=loop_sustain loop_start=169219 loop_end=382320 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=156210 loop_end=311331 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 loop_mode=loop_sustain loop_start=145468 loop_end=208898 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582143 loop_mode=loop_sustain loop_start=146593 loop_end=344354 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 loop_mode=loop_sustain loop_start=312214 loop_end=408702 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 loop_mode=loop_sustain loop_start=185656 loop_end=351247 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=151311 loop_end=364319 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=304567 loop_end=368669 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586239 loop_mode=loop_sustain loop_start=161944 loop_end=401493 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 loop_mode=loop_sustain loop_start=162211 loop_end=321282 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587263 loop_mode=loop_sustain loop_start=155789 loop_end=316539 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 loop_mode=loop_sustain loop_start=172366 loop_end=396667 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=586751 loop_mode=loop_sustain loop_start=199834 loop_end=391251 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 loop_mode=loop_sustain loop_start=144219 loop_end=209183 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 loop_mode=loop_sustain loop_start=111568 loop_end=302408 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=131840 loop_end=386938 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 loop_mode=loop_sustain loop_start=172355 loop_end=241095 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581119 loop_mode=loop_sustain loop_start=273886 loop_end=401389 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=591359 loop_mode=loop_sustain loop_start=111263 loop_end=201905 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 loop_mode=loop_sustain loop_start=148592 loop_end=342115 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 loop_mode=loop_sustain loop_start=275766 loop_end=371709 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588287 loop_mode=loop_sustain loop_start=301140 loop_end=397112 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 loop_mode=loop_sustain loop_start=123200 loop_end=315839 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584191 loop_mode=loop_sustain loop_start=278531 loop_end=405266 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=584703 loop_mode=loop_sustain loop_start=312279 loop_end=373826 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 loop_mode=loop_sustain loop_start=151432 loop_end=215701 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583167 loop_mode=loop_sustain loop_start=309608 loop_end=395293 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583167 loop_mode=loop_sustain loop_start=189817 loop_end=383178 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588799 loop_mode=loop_sustain loop_start=173601 loop_end=296044 sample=../Audio/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 loop_mode=loop_sustain loop_start=263518 loop_end=338516 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580607 loop_mode=loop_sustain loop_start=113744 loop_end=176442 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=578559 loop_mode=loop_sustain loop_start=309667 loop_end=378367 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584703 loop_mode=loop_sustain loop_start=211076 loop_end=338736 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=577535 loop_mode=loop_sustain loop_start=179482 loop_end=245099 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588287 loop_mode=loop_sustain loop_start=165029 loop_end=319405 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=577535 loop_mode=loop_sustain loop_start=214131 loop_end=408578 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 loop_mode=loop_sustain loop_start=224039 loop_end=372225 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583679 loop_mode=loop_sustain loop_start=221680 loop_end=411622 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582655 loop_mode=loop_sustain loop_start=205264 loop_end=396878 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582655 loop_mode=loop_sustain loop_start=123642 loop_end=315401 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=578047 loop_mode=loop_sustain loop_start=106594 loop_end=398551 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=578559 loop_mode=loop_sustain loop_start=282678 loop_end=383129 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=590335 loop_mode=loop_sustain loop_start=261415 loop_end=330572 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583167 loop_mode=loop_sustain loop_start=119623 loop_end=279417 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 loop_mode=loop_sustain loop_start=207057 loop_end=408593 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582143 loop_mode=loop_sustain loop_start=304343 loop_end=400751 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581631 loop_mode=loop_sustain loop_start=321553 loop_end=385182 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582655 loop_mode=loop_sustain loop_start=223475 loop_end=319442 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582143 loop_mode=loop_sustain loop_start=194974 loop_end=354772 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581631 loop_mode=loop_sustain loop_start=273647 loop_end=404189 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582655 loop_mode=loop_sustain loop_start=172615 loop_end=235552 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=247810 loop_end=399678 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=585215 loop_mode=loop_sustain loop_start=160461 loop_end=361435 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582655 loop_mode=loop_sustain loop_start=325916 loop_end=405516 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580095 loop_mode=loop_sustain loop_start=204185 loop_end=407524 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580607 loop_mode=loop_sustain loop_start=209063 loop_end=410178 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=585215 loop_mode=loop_sustain loop_start=151745 loop_end=300428 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584703 loop_mode=loop_sustain loop_start=149037 loop_end=262999 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=578559 loop_mode=loop_sustain loop_start=257366 loop_end=382430 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580095 loop_mode=loop_sustain loop_start=175269 loop_end=399281 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588799 loop_mode=loop_sustain loop_start=255027 loop_end=410553 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581631 loop_mode=loop_sustain loop_start=169219 loop_end=382320 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=156210 loop_end=311331 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581631 loop_mode=loop_sustain loop_start=145468 loop_end=208898 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582143 loop_mode=loop_sustain loop_start=146593 loop_end=344354 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583679 loop_mode=loop_sustain loop_start=312214 loop_end=408702 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 loop_mode=loop_sustain loop_start=185656 loop_end=351247 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=151311 loop_end=364319 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=304567 loop_end=368669 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=586239 loop_mode=loop_sustain loop_start=161944 loop_end=401493 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583679 loop_mode=loop_sustain loop_start=162211 loop_end=321282 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=587263 loop_mode=loop_sustain loop_start=155789 loop_end=316539 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588287 loop_mode=loop_sustain loop_start=172366 loop_end=396667 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=586751 loop_mode=loop_sustain loop_start=199834 loop_end=391251 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 loop_mode=loop_sustain loop_start=144219 loop_end=209183 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584703 loop_mode=loop_sustain loop_start=111568 loop_end=302408 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=131840 loop_end=386938 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=585215 loop_mode=loop_sustain loop_start=172355 loop_end=241095 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581119 loop_mode=loop_sustain loop_start=273886 loop_end=401389 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=591359 loop_mode=loop_sustain loop_start=111263 loop_end=201905 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=585215 loop_mode=loop_sustain loop_start=148592 loop_end=342115 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583679 loop_mode=loop_sustain loop_start=275766 loop_end=371709 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588287 loop_mode=loop_sustain loop_start=301140 loop_end=397112 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584703 loop_mode=loop_sustain loop_start=123200 loop_end=315839 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584191 loop_mode=loop_sustain loop_start=278531 loop_end=405266 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=584703 loop_mode=loop_sustain loop_start=312279 loop_end=373826 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583679 loop_mode=loop_sustain loop_start=151432 loop_end=215701 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583167 loop_mode=loop_sustain loop_start=309608 loop_end=395293 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583167 loop_mode=loop_sustain loop_start=189817 loop_end=383178 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588799 loop_mode=loop_sustain loop_start=173601 loop_end=296044 sample=../KorgZ1/Wizzle Biscuits 126 1-SAMPLES/Wizzle Biscuits 126-96-127.wav

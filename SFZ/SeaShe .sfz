@@ -1,124 +1,124 @@
 // this file was generated from SeaShe .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312319 loop_mode=loop_sustain loop_start=129553 loop_end=147079 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=141382 loop_end=150922 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=308223 loop_mode=loop_sustain loop_start=139742 loop_end=149946 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311807 loop_mode=loop_sustain loop_start=134952 loop_end=147347 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=308223 loop_mode=loop_sustain loop_start=137835 loop_end=145317 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312319 loop_mode=loop_sustain loop_start=138084 loop_end=149196 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312831 loop_mode=loop_sustain loop_start=120903 loop_end=132271 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=124155 loop_end=134886 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=306687 loop_mode=loop_sustain loop_start=136956 loop_end=149616 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=124090 loop_end=134444 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=111398 loop_end=123430 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=136813 loop_end=148953 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=307711 loop_mode=loop_sustain loop_start=140359 loop_end=151820 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=308735 loop_mode=loop_sustain loop_start=140626 loop_end=152076 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=140676 loop_end=152013 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=121303 loop_end=145410 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=128479 loop_end=138615 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=111925 loop_end=150563 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=115381 loop_end=124852 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=308223 loop_mode=loop_sustain loop_start=116286 loop_end=151604 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312319 loop_mode=loop_sustain loop_start=135595 loop_end=151592 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=117576 loop_end=148640 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=116077 loop_end=145776 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=116326 loop_end=144001 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=138588 loop_end=148969 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=313343 loop_mode=loop_sustain loop_start=128065 loop_end=145765 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=308735 loop_mode=loop_sustain loop_start=117245 loop_end=139920 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311807 loop_mode=loop_sustain loop_start=122182 loop_end=143583 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312831 loop_mode=loop_sustain loop_start=118097 loop_end=138297 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=120231 loop_end=139549 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=132613 loop_end=151081 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311807 loop_mode=loop_sustain loop_start=130254 loop_end=147462 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=118075 loop_end=134532 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=120472 loop_end=130592 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=126263 loop_end=140546 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312319 loop_mode=loop_sustain loop_start=137215 loop_end=150873 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=117417 loop_end=143036 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=139715 loop_end=152042 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=313343 loop_mode=loop_sustain loop_start=140894 loop_end=152080 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=126957 loop_end=137515 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=120180 loop_end=130545 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=142874 loop_end=152156 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=138783 loop_end=148254 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=139936 loop_end=149210 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311807 loop_mode=loop_sustain loop_start=128433 loop_end=144782 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=126454 loop_end=141983 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=116209 loop_end=152012 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312831 loop_mode=loop_sustain loop_start=121497 loop_end=148902 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311807 loop_mode=loop_sustain loop_start=133692 loop_end=145996 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312831 loop_mode=loop_sustain loop_start=124219 loop_end=149745 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=128395 loop_end=150920 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=128381 loop_end=150203 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=312319 loop_mode=loop_sustain loop_start=121994 loop_end=132427 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=313343 loop_mode=loop_sustain loop_start=132063 loop_end=146363 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=135664 loop_end=144779 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=313343 loop_mode=loop_sustain loop_start=138148 loop_end=150662 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309247 loop_mode=loop_sustain loop_start=131478 loop_end=151466 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310783 loop_mode=loop_sustain loop_start=132970 loop_end=144468 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=311295 loop_mode=loop_sustain loop_start=128714 loop_end=150326 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=309759 loop_mode=loop_sustain loop_start=137681 loop_end=150452 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=310271 loop_mode=loop_sustain loop_start=135422 loop_end=144965 sample=../Audio/SeaShe 1-SAMPLES/SeaShe-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312319 loop_mode=loop_sustain loop_start=129553 loop_end=147079 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=141382 loop_end=150922 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=308223 loop_mode=loop_sustain loop_start=139742 loop_end=149946 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311807 loop_mode=loop_sustain loop_start=134952 loop_end=147347 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=308223 loop_mode=loop_sustain loop_start=137835 loop_end=145317 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312319 loop_mode=loop_sustain loop_start=138084 loop_end=149196 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312831 loop_mode=loop_sustain loop_start=120903 loop_end=132271 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=124155 loop_end=134886 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=306687 loop_mode=loop_sustain loop_start=136956 loop_end=149616 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=124090 loop_end=134444 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=111398 loop_end=123430 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=136813 loop_end=148953 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=307711 loop_mode=loop_sustain loop_start=140359 loop_end=151820 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=308735 loop_mode=loop_sustain loop_start=140626 loop_end=152076 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=140676 loop_end=152013 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=121303 loop_end=145410 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=128479 loop_end=138615 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=111925 loop_end=150563 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=115381 loop_end=124852 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=308223 loop_mode=loop_sustain loop_start=116286 loop_end=151604 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312319 loop_mode=loop_sustain loop_start=135595 loop_end=151592 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=117576 loop_end=148640 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=116077 loop_end=145776 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=116326 loop_end=144001 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=138588 loop_end=148969 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=313343 loop_mode=loop_sustain loop_start=128065 loop_end=145765 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=308735 loop_mode=loop_sustain loop_start=117245 loop_end=139920 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311807 loop_mode=loop_sustain loop_start=122182 loop_end=143583 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312831 loop_mode=loop_sustain loop_start=118097 loop_end=138297 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=120231 loop_end=139549 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=132613 loop_end=151081 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311807 loop_mode=loop_sustain loop_start=130254 loop_end=147462 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=118075 loop_end=134532 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=120472 loop_end=130592 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=126263 loop_end=140546 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312319 loop_mode=loop_sustain loop_start=137215 loop_end=150873 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=117417 loop_end=143036 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=139715 loop_end=152042 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=313343 loop_mode=loop_sustain loop_start=140894 loop_end=152080 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=126957 loop_end=137515 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=120180 loop_end=130545 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=142874 loop_end=152156 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=138783 loop_end=148254 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=139936 loop_end=149210 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311807 loop_mode=loop_sustain loop_start=128433 loop_end=144782 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=126454 loop_end=141983 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=116209 loop_end=152012 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312831 loop_mode=loop_sustain loop_start=121497 loop_end=148902 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311807 loop_mode=loop_sustain loop_start=133692 loop_end=145996 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312831 loop_mode=loop_sustain loop_start=124219 loop_end=149745 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=128395 loop_end=150920 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=128381 loop_end=150203 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=312319 loop_mode=loop_sustain loop_start=121994 loop_end=132427 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=313343 loop_mode=loop_sustain loop_start=132063 loop_end=146363 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=135664 loop_end=144779 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=313343 loop_mode=loop_sustain loop_start=138148 loop_end=150662 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309247 loop_mode=loop_sustain loop_start=131478 loop_end=151466 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310783 loop_mode=loop_sustain loop_start=132970 loop_end=144468 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=311295 loop_mode=loop_sustain loop_start=128714 loop_end=150326 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=309759 loop_mode=loop_sustain loop_start=137681 loop_end=150452 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=310271 loop_mode=loop_sustain loop_start=135422 loop_end=144965 sample=../KorgZ1/SeaShe 1-SAMPLES/SeaShe-96-127.wav

@@ -1,307 +1,307 @@
 // this file was generated from Elephant Funeral.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=403647 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-36-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397439 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-36-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403199 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-36-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404223 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399295 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-37-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395263 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-37-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402559 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-37-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399551 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399743 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-38-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402495 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-38-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401023 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-38-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=409599 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=415871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-39-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=409855 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-39-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=414719 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-39-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=416319 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=421311 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-40-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=423871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-40-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=412543 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-40-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=417279 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400575 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-41-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398015 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-41-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401343 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-41-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399487 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395647 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-42-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396863 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-42-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=397823 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-42-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=401919 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397439 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-43-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-43-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398399 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-43-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399935 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395775 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-44-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397567 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-44-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398911 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-44-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=405695 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401407 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-45-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402239 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-45-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403775 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-45-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399743 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398911 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-46-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403775 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-46-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402623 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-46-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=411071 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398079 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-47-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=405439 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-47-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=404223 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-47-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=406975 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397119 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-48-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402943 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-48-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399167 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-48-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404351 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=402175 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-49-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403135 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-49-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401087 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-49-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404479 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=415487 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-50-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=406527 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-50-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399679 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-50-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=407359 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392063 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-51-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396415 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-51-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=413119 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-51-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=405503 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399295 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-52-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396351 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-52-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-52-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399103 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393855 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-53-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396735 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-53-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395967 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-53-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=403583 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394879 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-54-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397247 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-54-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401855 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-54-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=398719 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400127 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-55-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398335 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-55-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=407039 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-55-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=402815 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395391 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-56-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403007 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-56-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=405887 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-56-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=403135 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400191 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-57-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-57-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399039 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-57-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=405951 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395199 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-58-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399999 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-58-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=404863 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-58-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=400447 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396031 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-59-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=400191 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-59-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400895 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-59-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=403903 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-60-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399167 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-60-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400959 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-60-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=400511 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396415 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-61-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394751 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-61-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394047 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-61-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404351 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398783 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-62-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399295 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-62-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395583 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-62-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=400831 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=406335 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-63-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398079 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-63-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402943 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-63-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=405055 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394943 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-64-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=408255 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-64-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402687 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-64-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=402687 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-65-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397567 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-65-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402943 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-65-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=411583 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399743 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-66-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=401279 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-66-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398975 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-66-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=407679 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394303 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-67-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395583 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-67-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402623 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-67-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=411775 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397695 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-68-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399103 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-68-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398847 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-68-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=401791 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398271 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-69-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397951 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-69-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395711 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-69-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=401215 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393151 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-70-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398783 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-70-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=391807 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-70-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=402047 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-71-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394751 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-71-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396031 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-71-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399551 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397887 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-72-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394943 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-72-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394751 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-72-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=397887 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396095 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-73-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397823 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-73-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396351 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-73-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=394367 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400191 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-74-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396287 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-74-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400831 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-74-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=402879 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392959 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-75-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396543 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-75-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396415 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-75-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=393599 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393279 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-76-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=393791 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-76-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399231 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-76-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=398143 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390975 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-77-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391679 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-77-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403135 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-77-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=398527 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392575 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-78-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403327 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-78-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394495 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-78-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=400063 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-79-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=390335 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-79-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395199 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-79-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404863 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399999 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-80-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398079 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-80-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398719 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-80-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=412031 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-81-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398015 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-81-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394431 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-81-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=393279 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395327 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-82-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391295 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-82-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394367 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-82-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=403967 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395391 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-83-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=393983 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-83-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401727 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-83-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=407295 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394239 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-84-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=400639 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-84-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396863 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-84-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404671 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394239 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-85-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398271 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-85-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398527 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-85-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=398847 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390655 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-86-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=389183 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-86-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395711 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-86-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=396863 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399871 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-87-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391615 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-87-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=393279 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-87-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399935 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393023 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-88-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397503 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-88-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401215 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-88-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=391807 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398463 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-89-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391359 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-89-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399423 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-89-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=411711 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-90-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=406015 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-90-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396735 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-90-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=406911 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=408895 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-91-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392831 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-91-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398079 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-91-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=400831 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394303 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-92-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398911 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-92-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399551 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-92-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=399999 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=388799 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-93-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392319 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-93-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=389631 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-93-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=389695 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=388223 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-94-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392959 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-94-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=393215 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-94-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=396351 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401599 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-95-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397951 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-95-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403967 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-95-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=584319 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390591 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-96-22.wav
-	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395135 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-96-53.wav
-	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=392831 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-96-89.wav
-	<region> lovel=059 hivel=127 amp_velcurve_127=1 volume=6 end=404415 sample=../Audio/Elephant Funeral-SAMPLES/Elephant Funeral-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=403647 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-36-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397439 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-36-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403199 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-36-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404223 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399295 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-37-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395263 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-37-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402559 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-37-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399551 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399743 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-38-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402495 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-38-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401023 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-38-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=409599 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=415871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-39-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=409855 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-39-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=414719 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-39-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=416319 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=421311 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-40-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=423871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-40-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=412543 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-40-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=417279 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400575 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-41-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398015 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-41-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401343 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-41-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399487 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395647 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-42-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396863 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-42-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=397823 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-42-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=401919 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397439 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-43-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-43-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398399 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-43-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399935 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395775 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-44-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397567 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-44-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398911 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-44-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=405695 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401407 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-45-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402239 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-45-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403775 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-45-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399743 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398911 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-46-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403775 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-46-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402623 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-46-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=411071 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398079 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-47-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=405439 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-47-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=404223 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-47-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=406975 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397119 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-48-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=402943 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-48-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399167 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-48-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404351 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=402175 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-49-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403135 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-49-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401087 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-49-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404479 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=415487 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-50-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=406527 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-50-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399679 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-50-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=407359 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392063 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-51-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396415 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-51-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=413119 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-51-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=405503 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399295 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-52-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396351 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-52-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-52-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399103 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393855 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-53-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396735 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-53-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395967 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-53-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=403583 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394879 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-54-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397247 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-54-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401855 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-54-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=398719 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400127 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-55-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398335 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-55-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=407039 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-55-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=402815 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395391 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-56-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403007 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-56-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=405887 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-56-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=403135 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400191 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-57-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-57-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399039 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-57-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=405951 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395199 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-58-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399999 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-58-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=404863 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-58-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=400447 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396031 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-59-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=400191 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-59-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400895 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-59-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=403903 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-60-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399167 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-60-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400959 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-60-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=400511 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396415 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-61-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394751 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-61-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394047 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-61-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404351 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398783 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-62-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399295 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-62-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395583 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-62-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=400831 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=406335 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-63-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398079 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-63-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402943 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-63-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=405055 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394943 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-64-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=408255 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-64-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402687 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-64-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=402687 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-65-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397567 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-65-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402943 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-65-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=411583 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399743 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-66-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=401279 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-66-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398975 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-66-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=407679 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394303 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-67-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395583 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-67-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=402623 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-67-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=411775 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397695 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-68-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=399103 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-68-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398847 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-68-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=401791 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398271 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-69-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397951 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-69-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395711 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-69-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=401215 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393151 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-70-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398783 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-70-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=391807 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-70-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=402047 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-71-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394751 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-71-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396031 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-71-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399551 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397887 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-72-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=394943 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-72-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394751 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-72-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=397887 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=396095 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-73-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397823 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-73-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396351 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-73-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=394367 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=400191 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-74-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396287 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-74-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=400831 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-74-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=402879 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392959 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-75-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=396543 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-75-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396415 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-75-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=393599 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393279 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-76-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=393791 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-76-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399231 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-76-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=398143 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390975 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-77-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391679 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-77-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403135 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-77-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=398527 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=392575 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-78-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=403327 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-78-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394495 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-78-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=400063 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=397503 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-79-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=390335 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-79-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395199 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-79-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404863 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399999 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-80-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398079 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-80-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398719 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-80-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=412031 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-81-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398015 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-81-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394431 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-81-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=393279 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395327 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-82-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391295 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-82-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=394367 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-82-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=403967 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=395391 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-83-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=393983 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-83-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401727 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-83-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=407295 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394239 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-84-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=400639 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-84-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396863 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-84-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404671 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394239 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-85-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398271 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-85-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398527 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-85-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=398847 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390655 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-86-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=389183 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-86-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=395711 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-86-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=396863 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=399871 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-87-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391615 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-87-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=393279 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-87-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399935 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=393023 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-88-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397503 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-88-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=401215 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-88-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=391807 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=398463 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-89-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=391359 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-89-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399423 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-89-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=411711 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401343 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-90-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=406015 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-90-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=396735 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-90-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=406911 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=408895 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-91-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392831 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-91-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=398079 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-91-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=400831 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=394303 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-92-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=398911 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-92-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=399551 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-92-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=399999 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=388799 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-93-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392319 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-93-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=389631 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-93-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=389695 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=388223 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-94-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=392959 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-94-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=393215 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-94-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=396351 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=401599 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-95-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=397951 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-95-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=403967 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-95-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=584319 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=053 amp_velcurve_053=1 volume=12 end=390591 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-96-22.wav
+	<region> lovel=000 hivel=084 amp_velcurve_084=1 volume=12 end=395135 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-96-53.wav
+	<region> lovel=023 hivel=120 amp_velcurve_120=1 volume=6 end=392831 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-96-89.wav
+	<region> lovel=059 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=6 end=404415 sample=../KorgZ1/Elephant Funeral-SAMPLES/Elephant Funeral-96-127.wav

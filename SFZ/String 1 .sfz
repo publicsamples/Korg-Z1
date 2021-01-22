@@ -1,124 +1,124 @@
 // this file was generated from String 1 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=458751 sample=../Audio/String 1 1-SAMPLES/String 1-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=445951 sample=../Audio/String 1 1-SAMPLES/String 1-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=439807 sample=../Audio/String 1 1-SAMPLES/String 1-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=435711 sample=../Audio/String 1 1-SAMPLES/String 1-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=442879 sample=../Audio/String 1 1-SAMPLES/String 1-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=452095 sample=../Audio/String 1 1-SAMPLES/String 1-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449023 sample=../Audio/String 1 1-SAMPLES/String 1-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=429055 sample=../Audio/String 1 1-SAMPLES/String 1-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=431615 sample=../Audio/String 1 1-SAMPLES/String 1-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=434175 sample=../Audio/String 1 1-SAMPLES/String 1-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=438271 sample=../Audio/String 1 1-SAMPLES/String 1-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=427007 sample=../Audio/String 1 1-SAMPLES/String 1-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=423423 sample=../Audio/String 1 1-SAMPLES/String 1-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=421887 sample=../Audio/String 1 1-SAMPLES/String 1-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=422399 sample=../Audio/String 1 1-SAMPLES/String 1-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=431103 sample=../Audio/String 1 1-SAMPLES/String 1-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=422399 sample=../Audio/String 1 1-SAMPLES/String 1-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=416767 sample=../Audio/String 1 1-SAMPLES/String 1-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=416767 sample=../Audio/String 1 1-SAMPLES/String 1-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=411135 sample=../Audio/String 1 1-SAMPLES/String 1-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=408575 sample=../Audio/String 1 1-SAMPLES/String 1-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=406527 sample=../Audio/String 1 1-SAMPLES/String 1-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=415231 sample=../Audio/String 1 1-SAMPLES/String 1-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=407551 sample=../Audio/String 1 1-SAMPLES/String 1-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=406527 sample=../Audio/String 1 1-SAMPLES/String 1-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=405503 sample=../Audio/String 1 1-SAMPLES/String 1-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=402943 sample=../Audio/String 1 1-SAMPLES/String 1-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=401919 sample=../Audio/String 1 1-SAMPLES/String 1-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398335 sample=../Audio/String 1 1-SAMPLES/String 1-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398335 sample=../Audio/String 1 1-SAMPLES/String 1-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=396799 sample=../Audio/String 1 1-SAMPLES/String 1-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398847 sample=../Audio/String 1 1-SAMPLES/String 1-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392191 sample=../Audio/String 1 1-SAMPLES/String 1-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=398847 sample=../Audio/String 1 1-SAMPLES/String 1-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392703 sample=../Audio/String 1 1-SAMPLES/String 1-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=393727 sample=../Audio/String 1 1-SAMPLES/String 1-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=391679 sample=../Audio/String 1 1-SAMPLES/String 1-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=389631 sample=../Audio/String 1 1-SAMPLES/String 1-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392703 sample=../Audio/String 1 1-SAMPLES/String 1-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390655 sample=../Audio/String 1 1-SAMPLES/String 1-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=389119 sample=../Audio/String 1 1-SAMPLES/String 1-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=386559 sample=../Audio/String 1 1-SAMPLES/String 1-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=392703 sample=../Audio/String 1 1-SAMPLES/String 1-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=384511 sample=../Audio/String 1 1-SAMPLES/String 1-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=383999 sample=../Audio/String 1 1-SAMPLES/String 1-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=382975 sample=../Audio/String 1 1-SAMPLES/String 1-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=381439 sample=../Audio/String 1 1-SAMPLES/String 1-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=381439 sample=../Audio/String 1 1-SAMPLES/String 1-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=378367 sample=../Audio/String 1 1-SAMPLES/String 1-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=378367 sample=../Audio/String 1 1-SAMPLES/String 1-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=383487 sample=../Audio/String 1 1-SAMPLES/String 1-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=380927 sample=../Audio/String 1 1-SAMPLES/String 1-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=381439 sample=../Audio/String 1 1-SAMPLES/String 1-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=376319 sample=../Audio/String 1 1-SAMPLES/String 1-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=377855 sample=../Audio/String 1 1-SAMPLES/String 1-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=379391 sample=../Audio/String 1 1-SAMPLES/String 1-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=382463 sample=../Audio/String 1 1-SAMPLES/String 1-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=380415 sample=../Audio/String 1 1-SAMPLES/String 1-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=387583 sample=../Audio/String 1 1-SAMPLES/String 1-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=382463 sample=../Audio/String 1 1-SAMPLES/String 1-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=376319 sample=../Audio/String 1 1-SAMPLES/String 1-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=458751 sample=../KorgZ1/String 1 1-SAMPLES/String 1-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=445951 sample=../KorgZ1/String 1 1-SAMPLES/String 1-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=439807 sample=../KorgZ1/String 1 1-SAMPLES/String 1-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=435711 sample=../KorgZ1/String 1 1-SAMPLES/String 1-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=442879 sample=../KorgZ1/String 1 1-SAMPLES/String 1-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=452095 sample=../KorgZ1/String 1 1-SAMPLES/String 1-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=449023 sample=../KorgZ1/String 1 1-SAMPLES/String 1-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=429055 sample=../KorgZ1/String 1 1-SAMPLES/String 1-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=431615 sample=../KorgZ1/String 1 1-SAMPLES/String 1-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=434175 sample=../KorgZ1/String 1 1-SAMPLES/String 1-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=438271 sample=../KorgZ1/String 1 1-SAMPLES/String 1-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=427007 sample=../KorgZ1/String 1 1-SAMPLES/String 1-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=423423 sample=../KorgZ1/String 1 1-SAMPLES/String 1-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=421887 sample=../KorgZ1/String 1 1-SAMPLES/String 1-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=422399 sample=../KorgZ1/String 1 1-SAMPLES/String 1-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=431103 sample=../KorgZ1/String 1 1-SAMPLES/String 1-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=422399 sample=../KorgZ1/String 1 1-SAMPLES/String 1-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=416767 sample=../KorgZ1/String 1 1-SAMPLES/String 1-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=416767 sample=../KorgZ1/String 1 1-SAMPLES/String 1-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=411135 sample=../KorgZ1/String 1 1-SAMPLES/String 1-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=408575 sample=../KorgZ1/String 1 1-SAMPLES/String 1-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=406527 sample=../KorgZ1/String 1 1-SAMPLES/String 1-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=415231 sample=../KorgZ1/String 1 1-SAMPLES/String 1-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=407551 sample=../KorgZ1/String 1 1-SAMPLES/String 1-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=406527 sample=../KorgZ1/String 1 1-SAMPLES/String 1-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=405503 sample=../KorgZ1/String 1 1-SAMPLES/String 1-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=402943 sample=../KorgZ1/String 1 1-SAMPLES/String 1-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=401919 sample=../KorgZ1/String 1 1-SAMPLES/String 1-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398335 sample=../KorgZ1/String 1 1-SAMPLES/String 1-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398335 sample=../KorgZ1/String 1 1-SAMPLES/String 1-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=396799 sample=../KorgZ1/String 1 1-SAMPLES/String 1-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398847 sample=../KorgZ1/String 1 1-SAMPLES/String 1-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392191 sample=../KorgZ1/String 1 1-SAMPLES/String 1-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=398847 sample=../KorgZ1/String 1 1-SAMPLES/String 1-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392703 sample=../KorgZ1/String 1 1-SAMPLES/String 1-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=393727 sample=../KorgZ1/String 1 1-SAMPLES/String 1-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=391679 sample=../KorgZ1/String 1 1-SAMPLES/String 1-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=389631 sample=../KorgZ1/String 1 1-SAMPLES/String 1-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392703 sample=../KorgZ1/String 1 1-SAMPLES/String 1-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=390655 sample=../KorgZ1/String 1 1-SAMPLES/String 1-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=389119 sample=../KorgZ1/String 1 1-SAMPLES/String 1-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=386559 sample=../KorgZ1/String 1 1-SAMPLES/String 1-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=392703 sample=../KorgZ1/String 1 1-SAMPLES/String 1-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=384511 sample=../KorgZ1/String 1 1-SAMPLES/String 1-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=383999 sample=../KorgZ1/String 1 1-SAMPLES/String 1-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=382975 sample=../KorgZ1/String 1 1-SAMPLES/String 1-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=381439 sample=../KorgZ1/String 1 1-SAMPLES/String 1-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=381439 sample=../KorgZ1/String 1 1-SAMPLES/String 1-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=378367 sample=../KorgZ1/String 1 1-SAMPLES/String 1-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=378367 sample=../KorgZ1/String 1 1-SAMPLES/String 1-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=383487 sample=../KorgZ1/String 1 1-SAMPLES/String 1-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=380927 sample=../KorgZ1/String 1 1-SAMPLES/String 1-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=381439 sample=../KorgZ1/String 1 1-SAMPLES/String 1-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=376319 sample=../KorgZ1/String 1 1-SAMPLES/String 1-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=377855 sample=../KorgZ1/String 1 1-SAMPLES/String 1-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=379391 sample=../KorgZ1/String 1 1-SAMPLES/String 1-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=382463 sample=../KorgZ1/String 1 1-SAMPLES/String 1-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=380415 sample=../KorgZ1/String 1 1-SAMPLES/String 1-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=387583 sample=../KorgZ1/String 1 1-SAMPLES/String 1-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=382463 sample=../KorgZ1/String 1 1-SAMPLES/String 1-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=376319 sample=../KorgZ1/String 1 1-SAMPLES/String 1-96-127.wav

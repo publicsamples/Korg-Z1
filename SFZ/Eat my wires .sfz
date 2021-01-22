@@ -1,124 +1,124 @@
 // this file was generated from Eat my wires .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=572927 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565247 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564223 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570879 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568319 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570367 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561663 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568831 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=569343 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568319 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571391 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568831 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563199 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570879 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560639 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564735 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564223 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=564735 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560639 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563711 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557055 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565247 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=569343 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=558591 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559103 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565759 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563199 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=569855 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563199 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=557567 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566271 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=562687 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=576511 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571391 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560127 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579583 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568319 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=574975 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561151 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577535 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=574975 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=572927 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570879 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579071 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=577023 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=573439 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=573951 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578559 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=576511 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568831 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580095 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/Eat my wires 1-SAMPLES/Eat my wires-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=572927 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=565247 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=564223 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=570879 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568319 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=570367 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=561663 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568831 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=569343 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568319 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=571391 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568831 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563199 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=570879 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=560639 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=564735 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=564223 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=560127 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=560127 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=564735 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=560639 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563711 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=558591 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=557055 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=558591 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=565247 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=569343 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=558591 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=559103 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=565759 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563199 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=569855 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563199 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=557567 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566271 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=562687 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=576511 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=571391 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=560127 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579583 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568319 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=574975 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=561151 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=577535 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=574975 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=572927 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=570879 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579071 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=577023 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=573439 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=573951 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=578559 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=576511 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568831 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580095 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=581631 sample=../KorgZ1/Eat my wires 1-SAMPLES/Eat my wires-96-127.wav

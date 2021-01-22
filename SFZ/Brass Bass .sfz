@@ -1,124 +1,124 @@
 // this file was generated from Brass Bass .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=297983 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=303103 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=292863 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=291839 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=296959 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=296447 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=291327 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=281599 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=290303 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=290815 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=294399 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287231 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=291327 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=285695 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=288767 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=285695 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=285183 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=293375 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287743 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=289791 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287743 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283647 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=288767 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=291327 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=284671 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=289279 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=291327 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=289791 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=290303 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=279039 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283647 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=281087 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287743 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=289791 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=289791 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=295423 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287231 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=288767 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=284671 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287231 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=286207 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=288767 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=286719 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=290815 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283647 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283647 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=277503 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=279039 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=282623 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=282111 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=279039 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=287743 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283135 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=283135 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=278015 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=288767 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=281599 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=278527 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=281087 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=278015 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=279551 sample=../Audio/Brass Bass 1-SAMPLES/Brass Bass-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=297983 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=303103 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=292863 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=291839 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=296959 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=296447 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=291327 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=281599 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=290303 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=290815 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=294399 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287231 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=291327 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=285695 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=288767 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=285695 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=285183 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=293375 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287743 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=289791 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287743 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283647 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=288767 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=291327 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=284671 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=289279 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=291327 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=289791 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=290303 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=279039 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283647 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=281087 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287743 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=289791 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=289791 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=295423 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287231 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=288767 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=284671 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287231 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=286207 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=288767 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=286719 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=290815 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283647 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283647 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=277503 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=279039 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=282623 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=282111 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=279039 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=287743 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283135 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=283135 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=278015 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=288767 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=281599 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=278527 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=281087 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=278015 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=279551 sample=../KorgZ1/Brass Bass 1-SAMPLES/Brass Bass-96-127.wav

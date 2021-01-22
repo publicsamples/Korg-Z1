@@ -1,124 +1,124 @@
 // this file was generated from Devils String 135.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620735 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=622463 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=625023 loop_mode=loop_sustain loop_start=94434 loop_end=421915 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=628287 loop_mode=loop_sustain loop_start=278057 loop_end=370441 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=619071 loop_mode=loop_sustain loop_start=299002 loop_end=431970 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620223 loop_mode=loop_sustain loop_start=314307 loop_end=428068 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=621951 loop_mode=loop_sustain loop_start=97544 loop_end=187667 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=626815 loop_mode=loop_sustain loop_start=189507 loop_end=288625 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620543 loop_mode=loop_sustain loop_start=36723 loop_end=230318 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=621695 loop_mode=loop_sustain loop_start=279686 loop_end=382464 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=622527 loop_mode=loop_sustain loop_start=177665 loop_end=296560 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=619519 loop_mode=loop_sustain loop_start=312276 loop_end=425713 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620671 loop_mode=loop_sustain loop_start=227739 loop_end=353497 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=622847 loop_mode=loop_sustain loop_start=207111 loop_end=338509 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=619903 loop_mode=loop_sustain loop_start=122431 loop_end=234895 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620991 loop_mode=loop_sustain loop_start=195809 loop_end=421828 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=613695 loop_mode=loop_sustain loop_start=64122 loop_end=436205 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=623167 loop_mode=loop_sustain loop_start=153563 loop_end=432575 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=605375 loop_mode=loop_sustain loop_start=174088 loop_end=375166 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=611775 loop_mode=loop_sustain loop_start=129395 loop_end=407424 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=602943 loop_mode=loop_sustain loop_start=195059 loop_end=308130 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=599615 loop_mode=loop_sustain loop_start=58589 loop_end=187593 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=595903 loop_mode=loop_sustain loop_start=241634 loop_end=434002 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585215 loop_mode=loop_sustain loop_start=46967 loop_end=399939 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=602367 loop_mode=loop_sustain loop_start=198798 loop_end=351726 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=600895 loop_mode=loop_sustain loop_start=173819 loop_end=433598 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592703 loop_mode=loop_sustain loop_start=18246 loop_end=138066 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=593407 loop_mode=loop_sustain loop_start=178808 loop_end=417904 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=587007 loop_mode=loop_sustain loop_start=81919 loop_end=427697 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583551 loop_mode=loop_sustain loop_start=125709 loop_end=418135 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=582783 loop_mode=loop_sustain loop_start=177775 loop_end=291022 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=579327 loop_mode=loop_sustain loop_start=173075 loop_end=272956 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571711 loop_mode=loop_sustain loop_start=210896 loop_end=416421 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=573631 loop_mode=loop_sustain loop_start=58361 loop_end=410544 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=575103 loop_mode=loop_sustain loop_start=155061 loop_end=261421 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=573247 loop_mode=loop_sustain loop_start=83017 loop_end=174815 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=572607 loop_mode=loop_sustain loop_start=158234 loop_end=264666 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571071 loop_mode=loop_sustain loop_start=167739 loop_end=332478 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=601087 loop_mode=loop_sustain loop_start=158446 loop_end=266019 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=591743 loop_mode=loop_sustain loop_start=279971 loop_end=399041 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588735 loop_mode=loop_sustain loop_start=181148 loop_end=281654 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592127 loop_mode=loop_sustain loop_start=139865 loop_end=353457 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=607103 loop_mode=loop_sustain loop_start=35813 loop_end=148071 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=575039 loop_mode=loop_sustain loop_start=297155 loop_end=403332 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565119 loop_mode=loop_sustain loop_start=149779 loop_end=435442 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=568575 loop_mode=loop_sustain loop_start=104100 loop_end=403432 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=572479 loop_mode=loop_sustain loop_start=342436 loop_end=435439 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588991 loop_mode=loop_sustain loop_start=297343 loop_end=423052 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=588863 loop_mode=loop_sustain loop_start=312328 loop_end=417748 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563007 loop_mode=loop_sustain loop_start=262168 loop_end=355197 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=571327 loop_mode=loop_sustain loop_start=176159 loop_end=329089 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=567359 loop_mode=loop_sustain loop_start=26185 loop_end=365569 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=574399 loop_mode=loop_sustain loop_start=232347 loop_end=372097 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 loop_mode=loop_sustain loop_start=292145 loop_end=397951 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=565247 loop_mode=loop_sustain loop_start=175205 loop_end=434179 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561727 loop_mode=loop_sustain loop_start=65131 loop_end=430759 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=566911 loop_mode=loop_sustain loop_start=77435 loop_end=425181 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=570431 loop_mode=loop_sustain loop_start=6782 loop_end=425481 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559679 loop_mode=loop_sustain loop_start=290297 loop_end=390055 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580159 loop_mode=loop_sustain loop_start=138748 loop_end=231072 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=563327 loop_mode=loop_sustain loop_start=50267 loop_end=415648 sample=../Audio/Devils String 135-SAMPLES/Devils String 135-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=620735 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=622463 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=625023 loop_mode=loop_sustain loop_start=94434 loop_end=421915 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=628287 loop_mode=loop_sustain loop_start=278057 loop_end=370441 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=619071 loop_mode=loop_sustain loop_start=299002 loop_end=431970 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=620223 loop_mode=loop_sustain loop_start=314307 loop_end=428068 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=621951 loop_mode=loop_sustain loop_start=97544 loop_end=187667 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=626815 loop_mode=loop_sustain loop_start=189507 loop_end=288625 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=620543 loop_mode=loop_sustain loop_start=36723 loop_end=230318 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=621695 loop_mode=loop_sustain loop_start=279686 loop_end=382464 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=622527 loop_mode=loop_sustain loop_start=177665 loop_end=296560 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=619519 loop_mode=loop_sustain loop_start=312276 loop_end=425713 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=620671 loop_mode=loop_sustain loop_start=227739 loop_end=353497 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=622847 loop_mode=loop_sustain loop_start=207111 loop_end=338509 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=619903 loop_mode=loop_sustain loop_start=122431 loop_end=234895 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=620991 loop_mode=loop_sustain loop_start=195809 loop_end=421828 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=613695 loop_mode=loop_sustain loop_start=64122 loop_end=436205 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=623167 loop_mode=loop_sustain loop_start=153563 loop_end=432575 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=605375 loop_mode=loop_sustain loop_start=174088 loop_end=375166 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=611775 loop_mode=loop_sustain loop_start=129395 loop_end=407424 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=602943 loop_mode=loop_sustain loop_start=195059 loop_end=308130 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=599615 loop_mode=loop_sustain loop_start=58589 loop_end=187593 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=595903 loop_mode=loop_sustain loop_start=241634 loop_end=434002 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=585215 loop_mode=loop_sustain loop_start=46967 loop_end=399939 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=602367 loop_mode=loop_sustain loop_start=198798 loop_end=351726 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=600895 loop_mode=loop_sustain loop_start=173819 loop_end=433598 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=592703 loop_mode=loop_sustain loop_start=18246 loop_end=138066 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=593407 loop_mode=loop_sustain loop_start=178808 loop_end=417904 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=587007 loop_mode=loop_sustain loop_start=81919 loop_end=427697 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=583551 loop_mode=loop_sustain loop_start=125709 loop_end=418135 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=582783 loop_mode=loop_sustain loop_start=177775 loop_end=291022 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=579327 loop_mode=loop_sustain loop_start=173075 loop_end=272956 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=571711 loop_mode=loop_sustain loop_start=210896 loop_end=416421 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=573631 loop_mode=loop_sustain loop_start=58361 loop_end=410544 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=575103 loop_mode=loop_sustain loop_start=155061 loop_end=261421 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=573247 loop_mode=loop_sustain loop_start=83017 loop_end=174815 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=572607 loop_mode=loop_sustain loop_start=158234 loop_end=264666 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=571071 loop_mode=loop_sustain loop_start=167739 loop_end=332478 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=601087 loop_mode=loop_sustain loop_start=158446 loop_end=266019 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=591743 loop_mode=loop_sustain loop_start=279971 loop_end=399041 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588735 loop_mode=loop_sustain loop_start=181148 loop_end=281654 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=592127 loop_mode=loop_sustain loop_start=139865 loop_end=353457 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=607103 loop_mode=loop_sustain loop_start=35813 loop_end=148071 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=575039 loop_mode=loop_sustain loop_start=297155 loop_end=403332 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=565119 loop_mode=loop_sustain loop_start=149779 loop_end=435442 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=568575 loop_mode=loop_sustain loop_start=104100 loop_end=403432 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=572479 loop_mode=loop_sustain loop_start=342436 loop_end=435439 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588991 loop_mode=loop_sustain loop_start=297343 loop_end=423052 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=588863 loop_mode=loop_sustain loop_start=312328 loop_end=417748 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563007 loop_mode=loop_sustain loop_start=262168 loop_end=355197 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=571327 loop_mode=loop_sustain loop_start=176159 loop_end=329089 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=567359 loop_mode=loop_sustain loop_start=26185 loop_end=365569 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=574399 loop_mode=loop_sustain loop_start=232347 loop_end=372097 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580607 loop_mode=loop_sustain loop_start=292145 loop_end=397951 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=565247 loop_mode=loop_sustain loop_start=175205 loop_end=434179 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=561727 loop_mode=loop_sustain loop_start=65131 loop_end=430759 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=566911 loop_mode=loop_sustain loop_start=77435 loop_end=425181 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=570431 loop_mode=loop_sustain loop_start=6782 loop_end=425481 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=559679 loop_mode=loop_sustain loop_start=290297 loop_end=390055 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=580159 loop_mode=loop_sustain loop_start=138748 loop_end=231072 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=563327 loop_mode=loop_sustain loop_start=50267 loop_end=415648 sample=../KorgZ1/Devils String 135-SAMPLES/Devils String 135-96-127.wav

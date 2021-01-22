@@ -1,124 +1,124 @@
 // this file was generated from Z1 vs KW Talliwhacker .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540185 loop_mode=loop_sustain loop_start=212436 loop_end=362625 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-36-100-W75T.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517822 loop_mode=loop_sustain loop_start=99299 loop_end=185515 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-37-100-NJ33.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=538557 loop_mode=loop_sustain loop_start=138428 loop_end=234237 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-38-100-3ZQV.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537906 loop_mode=loop_sustain loop_start=93238 loop_end=362825 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-39-100-NPJ5.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521119 loop_mode=loop_sustain loop_start=202608 loop_end=289052 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-40-100-W3OS.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518688 loop_mode=loop_sustain loop_start=216575 loop_end=302198 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-41-100-6B9M.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540294 loop_mode=loop_sustain loop_start=79959 loop_end=341144 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-42-100-6WBW.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=519305 loop_mode=loop_sustain loop_start=143342 loop_end=357805 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-43-100-KBVN.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521852 loop_mode=loop_sustain loop_start=122808 loop_end=328603 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-44-100-U33T.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518962 loop_mode=loop_sustain loop_start=158761 loop_end=269721 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-45-100-QG92.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518633 loop_mode=loop_sustain loop_start=272569 loop_end=359474 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-46-100-AO2G.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537088 loop_mode=loop_sustain loop_start=234688 loop_end=353623 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-47-100-6OYF.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=538142 loop_mode=loop_sustain loop_start=119803 loop_end=270270 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-48-100-JZXH.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=514517 loop_mode=loop_sustain loop_start=156618 loop_end=306945 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-49-100-3TK9.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537867 loop_mode=loop_sustain loop_start=164048 loop_end=361962 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-50-100-D93K.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540649 loop_mode=loop_sustain loop_start=129540 loop_end=215377 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-51-100-L7Q2.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521430 loop_mode=loop_sustain loop_start=202986 loop_end=298205 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-52-100-K9NA.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=534947 loop_mode=loop_sustain loop_start=274145 loop_end=361964 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-53-100-VWF3.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=539552 loop_mode=loop_sustain loop_start=84753 loop_end=322450 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-54-100-NVUZ.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=529341 loop_mode=loop_sustain loop_start=150677 loop_end=348665 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-55-100-X89L.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537869 loop_mode=loop_sustain loop_start=250865 loop_end=337922 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-56-100-WXDE.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=545045 loop_mode=loop_sustain loop_start=104083 loop_end=191680 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-57-100-I1BD.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517101 loop_mode=loop_sustain loop_start=233357 loop_end=321139 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-58-100-TBCM.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517535 loop_mode=loop_sustain loop_start=162562 loop_end=344785 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-59-100-RM3S.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=544136 loop_mode=loop_sustain loop_start=164300 loop_end=250996 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-60-100-ZA1X.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522897 loop_mode=loop_sustain loop_start=189566 loop_end=268349 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-61-100-MNGV.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=541089 loop_mode=loop_sustain loop_start=163815 loop_end=321285 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-62-100-SJEJ.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518507 loop_mode=loop_sustain loop_start=106712 loop_end=313139 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-63-100-CSK7.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540419 loop_mode=loop_sustain loop_start=194262 loop_end=281294 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-64-100-DQ37.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=536746 loop_mode=loop_sustain loop_start=194624 loop_end=273862 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-65-100-VCDT.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=546690 loop_mode=loop_sustain loop_start=155618 loop_end=242600 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-66-100-7RT4.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=538624 loop_mode=loop_sustain loop_start=151519 loop_end=357313 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-67-100-10ZR.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540424 loop_mode=loop_sustain loop_start=130993 loop_end=217116 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-68-100-X93V.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=519683 loop_mode=loop_sustain loop_start=241765 loop_end=360534 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-69-100-DVF6.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522585 loop_mode=loop_sustain loop_start=251624 loop_end=362615 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-70-100-6Q9L.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=519561 loop_mode=loop_sustain loop_start=82675 loop_end=328290 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-71-100-GHHI.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=542101 loop_mode=loop_sustain loop_start=223954 loop_end=311186 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-72-100-KLL3.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=535043 loop_mode=loop_sustain loop_start=163814 loop_end=345419 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-73-100-9J0Q.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=536583 loop_mode=loop_sustain loop_start=239532 loop_end=324718 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-74-100-IY7O.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=526596 loop_mode=loop_sustain loop_start=92885 loop_end=211784 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-75-100-PEYR.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=523947 loop_mode=loop_sustain loop_start=92937 loop_end=338022 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-76-100-3672.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=539776 loop_mode=loop_sustain loop_start=187227 loop_end=274433 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-77-100-ODE0.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=519060 loop_mode=loop_sustain loop_start=236270 loop_end=347116 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-78-100-P4S7.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518036 loop_mode=loop_sustain loop_start=238521 loop_end=325562 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-79-100-L4QX.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520319 loop_mode=loop_sustain loop_start=121886 loop_end=232547 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-80-100-TJYX.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522556 loop_mode=loop_sustain loop_start=93689 loop_end=330848 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-81-100-Y0AF.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521296 loop_mode=loop_sustain loop_start=229386 loop_end=316443 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-82-100-72Y7.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=537091 loop_mode=loop_sustain loop_start=243655 loop_end=329843 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-83-100-8QPB.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515363 loop_mode=loop_sustain loop_start=160320 loop_end=319442 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-84-100-HO9N.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=538510 loop_mode=loop_sustain loop_start=150802 loop_end=261737 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-85-100-M01A.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517978 loop_mode=loop_sustain loop_start=141281 loop_end=228321 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-86-100-CH1K.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521986 loop_mode=loop_sustain loop_start=93738 loop_end=276278 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-87-100-IUG1.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=544643 loop_mode=loop_sustain loop_start=106430 loop_end=328450 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-88-100-VDVW.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516750 loop_mode=loop_sustain loop_start=180720 loop_end=339923 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-89-100-CZTB.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=540032 loop_mode=loop_sustain loop_start=73615 loop_end=208630 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-90-100-VA63.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515603 loop_mode=loop_sustain loop_start=184311 loop_end=358343 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-91-100-AJSZ.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=551043 loop_mode=loop_sustain loop_start=239924 loop_end=334363 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-92-100-43S0.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518787 loop_mode=loop_sustain loop_start=125922 loop_end=347830 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-93-100-DEBX.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516555 loop_mode=loop_sustain loop_start=119803 loop_end=205820 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-94-100-3QOO.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=541968 loop_mode=loop_sustain loop_start=129449 loop_end=240305 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-95-100-ZZ1K.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=539786 loop_mode=loop_sustain loop_start=142485 loop_end=349162 sample=../Audio/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-96-100-AI0C.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540185 loop_mode=loop_sustain loop_start=212436 loop_end=362625 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-36-100-W75T.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=517822 loop_mode=loop_sustain loop_start=99299 loop_end=185515 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-37-100-NJ33.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=538557 loop_mode=loop_sustain loop_start=138428 loop_end=234237 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-38-100-3ZQV.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=537906 loop_mode=loop_sustain loop_start=93238 loop_end=362825 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-39-100-NPJ5.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521119 loop_mode=loop_sustain loop_start=202608 loop_end=289052 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-40-100-W3OS.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518688 loop_mode=loop_sustain loop_start=216575 loop_end=302198 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-41-100-6B9M.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540294 loop_mode=loop_sustain loop_start=79959 loop_end=341144 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-42-100-6WBW.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=519305 loop_mode=loop_sustain loop_start=143342 loop_end=357805 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-43-100-KBVN.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521852 loop_mode=loop_sustain loop_start=122808 loop_end=328603 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-44-100-U33T.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518962 loop_mode=loop_sustain loop_start=158761 loop_end=269721 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-45-100-QG92.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518633 loop_mode=loop_sustain loop_start=272569 loop_end=359474 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-46-100-AO2G.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=537088 loop_mode=loop_sustain loop_start=234688 loop_end=353623 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-47-100-6OYF.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=538142 loop_mode=loop_sustain loop_start=119803 loop_end=270270 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-48-100-JZXH.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=514517 loop_mode=loop_sustain loop_start=156618 loop_end=306945 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-49-100-3TK9.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=537867 loop_mode=loop_sustain loop_start=164048 loop_end=361962 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-50-100-D93K.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540649 loop_mode=loop_sustain loop_start=129540 loop_end=215377 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-51-100-L7Q2.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521430 loop_mode=loop_sustain loop_start=202986 loop_end=298205 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-52-100-K9NA.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=534947 loop_mode=loop_sustain loop_start=274145 loop_end=361964 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-53-100-VWF3.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=539552 loop_mode=loop_sustain loop_start=84753 loop_end=322450 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-54-100-NVUZ.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=529341 loop_mode=loop_sustain loop_start=150677 loop_end=348665 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-55-100-X89L.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=537869 loop_mode=loop_sustain loop_start=250865 loop_end=337922 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-56-100-WXDE.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=545045 loop_mode=loop_sustain loop_start=104083 loop_end=191680 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-57-100-I1BD.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=517101 loop_mode=loop_sustain loop_start=233357 loop_end=321139 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-58-100-TBCM.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=517535 loop_mode=loop_sustain loop_start=162562 loop_end=344785 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-59-100-RM3S.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=544136 loop_mode=loop_sustain loop_start=164300 loop_end=250996 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-60-100-ZA1X.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522897 loop_mode=loop_sustain loop_start=189566 loop_end=268349 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-61-100-MNGV.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=541089 loop_mode=loop_sustain loop_start=163815 loop_end=321285 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-62-100-SJEJ.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518507 loop_mode=loop_sustain loop_start=106712 loop_end=313139 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-63-100-CSK7.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540419 loop_mode=loop_sustain loop_start=194262 loop_end=281294 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-64-100-DQ37.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=536746 loop_mode=loop_sustain loop_start=194624 loop_end=273862 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-65-100-VCDT.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=546690 loop_mode=loop_sustain loop_start=155618 loop_end=242600 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-66-100-7RT4.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=538624 loop_mode=loop_sustain loop_start=151519 loop_end=357313 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-67-100-10ZR.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540424 loop_mode=loop_sustain loop_start=130993 loop_end=217116 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-68-100-X93V.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=519683 loop_mode=loop_sustain loop_start=241765 loop_end=360534 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-69-100-DVF6.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522585 loop_mode=loop_sustain loop_start=251624 loop_end=362615 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-70-100-6Q9L.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=519561 loop_mode=loop_sustain loop_start=82675 loop_end=328290 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-71-100-GHHI.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=542101 loop_mode=loop_sustain loop_start=223954 loop_end=311186 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-72-100-KLL3.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=535043 loop_mode=loop_sustain loop_start=163814 loop_end=345419 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-73-100-9J0Q.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=536583 loop_mode=loop_sustain loop_start=239532 loop_end=324718 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-74-100-IY7O.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=526596 loop_mode=loop_sustain loop_start=92885 loop_end=211784 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-75-100-PEYR.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=523947 loop_mode=loop_sustain loop_start=92937 loop_end=338022 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-76-100-3672.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=539776 loop_mode=loop_sustain loop_start=187227 loop_end=274433 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-77-100-ODE0.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=519060 loop_mode=loop_sustain loop_start=236270 loop_end=347116 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-78-100-P4S7.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518036 loop_mode=loop_sustain loop_start=238521 loop_end=325562 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-79-100-L4QX.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520319 loop_mode=loop_sustain loop_start=121886 loop_end=232547 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-80-100-TJYX.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522556 loop_mode=loop_sustain loop_start=93689 loop_end=330848 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-81-100-Y0AF.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521296 loop_mode=loop_sustain loop_start=229386 loop_end=316443 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-82-100-72Y7.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=537091 loop_mode=loop_sustain loop_start=243655 loop_end=329843 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-83-100-8QPB.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=515363 loop_mode=loop_sustain loop_start=160320 loop_end=319442 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-84-100-HO9N.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=538510 loop_mode=loop_sustain loop_start=150802 loop_end=261737 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-85-100-M01A.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=517978 loop_mode=loop_sustain loop_start=141281 loop_end=228321 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-86-100-CH1K.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521986 loop_mode=loop_sustain loop_start=93738 loop_end=276278 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-87-100-IUG1.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=544643 loop_mode=loop_sustain loop_start=106430 loop_end=328450 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-88-100-VDVW.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=516750 loop_mode=loop_sustain loop_start=180720 loop_end=339923 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-89-100-CZTB.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=540032 loop_mode=loop_sustain loop_start=73615 loop_end=208630 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-90-100-VA63.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=515603 loop_mode=loop_sustain loop_start=184311 loop_end=358343 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-91-100-AJSZ.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=551043 loop_mode=loop_sustain loop_start=239924 loop_end=334363 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-92-100-43S0.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518787 loop_mode=loop_sustain loop_start=125922 loop_end=347830 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-93-100-DEBX.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=516555 loop_mode=loop_sustain loop_start=119803 loop_end=205820 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-94-100-3QOO.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=541968 loop_mode=loop_sustain loop_start=129449 loop_end=240305 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-95-100-ZZ1K.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=539786 loop_mode=loop_sustain loop_start=142485 loop_end=349162 sample=../KorgZ1/Z1 vs KW Talliwhacker 1-SAMPLES/Talliwhacker-96-100-AI0C.wav

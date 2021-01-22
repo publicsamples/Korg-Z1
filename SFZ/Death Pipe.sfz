@@ -1,124 +1,124 @@
 // this file was generated from Death Pipe.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=527871 loop_mode=loop_sustain loop_start=123703 loop_end=363601 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-36-127.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=529407 loop_mode=loop_sustain loop_start=110546 loop_end=349039 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-37-127.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=524287 loop_mode=loop_sustain loop_start=244176 loop_end=378289 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-38-127.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521727 loop_mode=loop_sustain loop_start=81358 loop_end=319832 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-39-127.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=527871 loop_mode=loop_sustain loop_start=199908 loop_end=303921 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-40-127.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=523775 loop_mode=loop_sustain loop_start=141681 loop_end=380335 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-41-127.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522751 loop_mode=loop_sustain loop_start=141132 loop_end=379700 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-42-127.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=525823 loop_mode=loop_sustain loop_start=139752 loop_end=377937 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-43-127.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511487 loop_mode=loop_sustain loop_start=244186 loop_end=379247 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-44-127.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522751 loop_mode=loop_sustain loop_start=139797 loop_end=377587 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-45-127.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520191 loop_mode=loop_sustain loop_start=80550 loop_end=319336 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-46-127.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520703 loop_mode=loop_sustain loop_start=96022 loop_end=334588 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-47-127.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=519167 loop_mode=loop_sustain loop_start=244648 loop_end=378747 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-48-127.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521727 loop_mode=loop_sustain loop_start=80234 loop_end=319108 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-49-127.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516607 loop_mode=loop_sustain loop_start=140877 loop_end=379232 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-50-127.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=514047 loop_mode=loop_sustain loop_start=154558 loop_end=393948 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-51-127.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515071 loop_mode=loop_sustain loop_start=140164 loop_end=378671 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-52-127.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518143 loop_mode=loop_sustain loop_start=95522 loop_end=200030 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-53-127.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520191 loop_mode=loop_sustain loop_start=140145 loop_end=378556 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-54-127.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520191 loop_mode=loop_sustain loop_start=200306 loop_end=304635 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-55-127.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=525311 loop_mode=loop_sustain loop_start=140914 loop_end=379589 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-56-127.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520703 loop_mode=loop_sustain loop_start=215419 loop_end=319766 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-57-127.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521215 loop_mode=loop_sustain loop_start=66787 loop_end=305296 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-58-127.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520191 loop_mode=loop_sustain loop_start=201217 loop_end=305590 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-59-127.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518655 loop_mode=loop_sustain loop_start=67012 loop_end=305578 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-60-127.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=526847 loop_mode=loop_sustain loop_start=245134 loop_end=349555 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-61-127.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=512511 loop_mode=loop_sustain loop_start=96206 loop_end=334835 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-62-127.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=514047 loop_mode=loop_sustain loop_start=261891 loop_end=396074 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-63-127.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=513023 loop_mode=loop_sustain loop_start=68288 loop_end=306935 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-64-127.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516607 loop_mode=loop_sustain loop_start=67186 loop_end=305812 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-65-127.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=513023 loop_mode=loop_sustain loop_start=82680 loop_end=321249 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-66-127.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511487 loop_mode=loop_sustain loop_start=216950 loop_end=321349 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-67-127.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522239 loop_mode=loop_sustain loop_start=195603 loop_end=329754 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-68-127.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=508415 loop_mode=loop_sustain loop_start=142103 loop_end=380769 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-69-127.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=508415 loop_mode=loop_sustain loop_start=157410 loop_end=396013 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-70-127.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=515071 loop_mode=loop_sustain loop_start=262267 loop_end=396496 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-71-127.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511487 loop_mode=loop_sustain loop_start=97877 loop_end=336483 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-72-127.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518655 loop_mode=loop_sustain loop_start=96351 loop_end=230573 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-73-127.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=504319 loop_mode=loop_sustain loop_start=67191 loop_end=305823 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-74-127.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511487 loop_mode=loop_sustain loop_start=157129 loop_end=395759 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-75-127.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520703 loop_mode=loop_sustain loop_start=142753 loop_end=381386 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-76-127.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=518655 loop_mode=loop_sustain loop_start=232184 loop_end=366325 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-77-127.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520703 loop_mode=loop_sustain loop_start=98274 loop_end=336882 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-78-127.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520703 loop_mode=loop_sustain loop_start=157520 loop_end=396129 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-79-127.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516095 loop_mode=loop_sustain loop_start=142170 loop_end=246624 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-80-127.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=521727 loop_mode=loop_sustain loop_start=135294 loop_end=269511 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-81-127.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517631 loop_mode=loop_sustain loop_start=141883 loop_end=380480 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-82-127.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=528895 loop_mode=loop_sustain loop_start=36559 loop_end=140703 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-83-127.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=523263 loop_mode=loop_sustain loop_start=65869 loop_end=170585 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-84-127.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=529919 loop_mode=loop_sustain loop_start=260765 loop_end=365237 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-85-127.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=531455 loop_mode=loop_sustain loop_start=7551 loop_end=111999 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-86-127.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=527871 loop_mode=loop_sustain loop_start=65444 loop_end=200127 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-87-127.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530943 loop_mode=loop_sustain loop_start=244722 loop_end=377620 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-88-127.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530431 loop_mode=loop_sustain loop_start=95284 loop_end=200316 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-89-127.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=526847 loop_mode=loop_sustain loop_start=199471 loop_end=304495 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-90-127.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530943 loop_mode=loop_sustain loop_start=18387 loop_end=152546 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-91-127.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530943 loop_mode=loop_sustain loop_start=258866 loop_end=363735 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-92-127.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530431 loop_mode=loop_sustain loop_start=230562 loop_end=334903 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-93-127.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=530943 loop_mode=loop_sustain loop_start=156182 loop_end=394768 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-94-127.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=533503 loop_mode=loop_sustain loop_start=246075 loop_end=350432 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-95-127.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=531967 loop_mode=loop_sustain loop_start=77427 loop_end=211568 sample=../Audio/Death Pipe-SAMPLES/Wobble Pipe-96-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=527871 loop_mode=loop_sustain loop_start=123703 loop_end=363601 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=529407 loop_mode=loop_sustain loop_start=110546 loop_end=349039 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=524287 loop_mode=loop_sustain loop_start=244176 loop_end=378289 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521727 loop_mode=loop_sustain loop_start=81358 loop_end=319832 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=527871 loop_mode=loop_sustain loop_start=199908 loop_end=303921 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=523775 loop_mode=loop_sustain loop_start=141681 loop_end=380335 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522751 loop_mode=loop_sustain loop_start=141132 loop_end=379700 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=525823 loop_mode=loop_sustain loop_start=139752 loop_end=377937 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=511487 loop_mode=loop_sustain loop_start=244186 loop_end=379247 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522751 loop_mode=loop_sustain loop_start=139797 loop_end=377587 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520191 loop_mode=loop_sustain loop_start=80550 loop_end=319336 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520703 loop_mode=loop_sustain loop_start=96022 loop_end=334588 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=519167 loop_mode=loop_sustain loop_start=244648 loop_end=378747 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521727 loop_mode=loop_sustain loop_start=80234 loop_end=319108 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=516607 loop_mode=loop_sustain loop_start=140877 loop_end=379232 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=514047 loop_mode=loop_sustain loop_start=154558 loop_end=393948 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=515071 loop_mode=loop_sustain loop_start=140164 loop_end=378671 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518143 loop_mode=loop_sustain loop_start=95522 loop_end=200030 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520191 loop_mode=loop_sustain loop_start=140145 loop_end=378556 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520191 loop_mode=loop_sustain loop_start=200306 loop_end=304635 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=525311 loop_mode=loop_sustain loop_start=140914 loop_end=379589 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520703 loop_mode=loop_sustain loop_start=215419 loop_end=319766 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521215 loop_mode=loop_sustain loop_start=66787 loop_end=305296 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520191 loop_mode=loop_sustain loop_start=201217 loop_end=305590 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518655 loop_mode=loop_sustain loop_start=67012 loop_end=305578 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=526847 loop_mode=loop_sustain loop_start=245134 loop_end=349555 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=512511 loop_mode=loop_sustain loop_start=96206 loop_end=334835 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=514047 loop_mode=loop_sustain loop_start=261891 loop_end=396074 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=513023 loop_mode=loop_sustain loop_start=68288 loop_end=306935 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=516607 loop_mode=loop_sustain loop_start=67186 loop_end=305812 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=513023 loop_mode=loop_sustain loop_start=82680 loop_end=321249 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=511487 loop_mode=loop_sustain loop_start=216950 loop_end=321349 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=522239 loop_mode=loop_sustain loop_start=195603 loop_end=329754 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=508415 loop_mode=loop_sustain loop_start=142103 loop_end=380769 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=508415 loop_mode=loop_sustain loop_start=157410 loop_end=396013 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=515071 loop_mode=loop_sustain loop_start=262267 loop_end=396496 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=511487 loop_mode=loop_sustain loop_start=97877 loop_end=336483 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518655 loop_mode=loop_sustain loop_start=96351 loop_end=230573 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=504319 loop_mode=loop_sustain loop_start=67191 loop_end=305823 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=511487 loop_mode=loop_sustain loop_start=157129 loop_end=395759 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520703 loop_mode=loop_sustain loop_start=142753 loop_end=381386 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=518655 loop_mode=loop_sustain loop_start=232184 loop_end=366325 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520703 loop_mode=loop_sustain loop_start=98274 loop_end=336882 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=520703 loop_mode=loop_sustain loop_start=157520 loop_end=396129 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=516095 loop_mode=loop_sustain loop_start=142170 loop_end=246624 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=521727 loop_mode=loop_sustain loop_start=135294 loop_end=269511 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=517631 loop_mode=loop_sustain loop_start=141883 loop_end=380480 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=528895 loop_mode=loop_sustain loop_start=36559 loop_end=140703 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=523263 loop_mode=loop_sustain loop_start=65869 loop_end=170585 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=529919 loop_mode=loop_sustain loop_start=260765 loop_end=365237 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=531455 loop_mode=loop_sustain loop_start=7551 loop_end=111999 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=527871 loop_mode=loop_sustain loop_start=65444 loop_end=200127 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530943 loop_mode=loop_sustain loop_start=244722 loop_end=377620 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530431 loop_mode=loop_sustain loop_start=95284 loop_end=200316 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=526847 loop_mode=loop_sustain loop_start=199471 loop_end=304495 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530943 loop_mode=loop_sustain loop_start=18387 loop_end=152546 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530943 loop_mode=loop_sustain loop_start=258866 loop_end=363735 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530431 loop_mode=loop_sustain loop_start=230562 loop_end=334903 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=530943 loop_mode=loop_sustain loop_start=156182 loop_end=394768 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=533503 loop_mode=loop_sustain loop_start=246075 loop_end=350432 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  end=531967 loop_mode=loop_sustain loop_start=77427 loop_end=211568 sample=../KorgZ1/Death Pipe-SAMPLES/Wobble Pipe-96-127.wav

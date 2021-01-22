@@ -1,124 +1,124 @@
 // this file was generated from Norris 130 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=553985 loop_mode=loop_sustain loop_start=58485 loop_end=383487 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-36-127-NL86.wav
-<group> key=37  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=549612 loop_mode=loop_sustain loop_start=24031 loop_end=349328 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-37-127-I3DD.wav
-<group> key=38  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=553662 loop_mode=loop_sustain loop_start=77859 loop_end=403563 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-38-127-YIBU.wav
-<group> key=39  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=553531 loop_mode=loop_sustain loop_start=49551 loop_end=375114 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-39-127-E9RZ.wav
-<group> key=40  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=555036 loop_mode=loop_sustain loop_start=184222 loop_end=428369 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-40-127-0F99.wav
-<group> key=41  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=564998 loop_mode=loop_sustain loop_start=156595 loop_end=345559 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-41-127-AVE8.wav
-<group> key=42  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=562337 loop_mode=loop_sustain loop_start=207963 loop_end=397537 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-42-127-GUOY.wav
-<group> key=43  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=566354 loop_mode=loop_sustain loop_start=179412 loop_end=373867 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-43-127-GXO5.wav
-<group> key=44  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=565504 loop_mode=loop_sustain loop_start=311430 loop_end=435498 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-44-127-6C0G.wav
-<group> key=45  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=552735 loop_mode=loop_sustain loop_start=264133 loop_end=394057 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-45-127-U5VB.wav
-<group> key=46  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=554946 loop_mode=loop_sustain loop_start=185767 loop_end=315973 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-46-127-BZN0.wav
-<group> key=47  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=554033 loop_mode=loop_sustain loop_start=38652 loop_end=363751 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-47-127-D15Q.wav
-<group> key=48  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=553732 loop_mode=loop_sustain loop_start=92365 loop_end=417796 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-48-127-UTQ3.wav
-<group> key=49  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=553387 loop_mode=loop_sustain loop_start=227685 loop_end=357189 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-49-127-B29Q.wav
-<group> key=50  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=556389 loop_mode=loop_sustain loop_start=152550 loop_end=281119 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-50-127-AAOB.wav
-<group> key=51  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=565783 loop_mode=loop_sustain loop_start=6238 loop_end=135832 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-51-127-26WJ.wav
-<group> key=52  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=549799 loop_mode=loop_sustain loop_start=220464 loop_end=353205 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-52-127-NS3M.wav
-<group> key=53  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=549725 loop_mode=loop_sustain loop_start=30743 loop_end=162599 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-53-127-XY2Q.wav
-<group> key=54  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=556613 loop_mode=loop_sustain loop_start=8966 loop_end=202559 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-54-127-2N76.wav
-<group> key=55  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=552273 loop_mode=loop_sustain loop_start=40218 loop_end=172989 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-55-127-U6CF.wav
-<group> key=56  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=566303 loop_mode=loop_sustain loop_start=15896 loop_end=148435 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-56-127-GLBF.wav
-<group> key=57  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=565822 loop_mode=loop_sustain loop_start=167304 loop_end=298019 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-57-127-Z9NE.wav
-<group> key=58  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=565005 loop_mode=loop_sustain loop_start=305341 loop_end=429480 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-58-127-93E3.wav
-<group> key=59  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=551806 loop_mode=loop_sustain loop_start=26449 loop_end=157184 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-59-127-NI6X.wav
-<group> key=60  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=560531 loop_mode=loop_sustain loop_start=212760 loop_end=375604 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-60-127-9BK2.wav
-<group> key=61  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=561192 loop_mode=loop_sustain loop_start=271255 loop_end=433990 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-61-127-SHU3.wav
-<group> key=62  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=562354 loop_mode=loop_sustain loop_start=220150 loop_end=382938 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-62-127-USW1.wav
-<group> key=63  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=556980 loop_mode=loop_sustain loop_start=273837 loop_end=394623 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-63-127-WQR9.wav
-<group> key=64  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=561332 loop_mode=loop_sustain loop_start=314512 loop_end=433339 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-64-127-RR8C.wav
-<group> key=65  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=554887 loop_mode=loop_sustain loop_start=27643 loop_end=190384 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-65-127-VMT7.wav
-<group> key=66  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=555170 loop_mode=loop_sustain loop_start=92007 loop_end=254843 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-66-127-A9TQ.wav
-<group> key=67  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=554632 loop_mode=loop_sustain loop_start=72543 loop_end=235444 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-67-127-H0R4.wav
-<group> key=68  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=545328 loop_mode=loop_sustain loop_start=196698 loop_end=331147 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-68-127-QBIR.wav
-<group> key=69  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=559241 loop_mode=loop_sustain loop_start=173089 loop_end=296184 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-69-127-CF6F.wav
-<group> key=70  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=557331 loop_mode=loop_sustain loop_start=149260 loop_end=275086 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-70-127-XQX1.wav
-<group> key=71  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=541351 loop_mode=loop_sustain loop_start=47179 loop_end=177743 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-71-127-VRZO.wav
-<group> key=72  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=551877 loop_mode=loop_sustain loop_start=28848 loop_end=152750 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-72-127-9YE8.wav
-<group> key=73  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=538819 loop_mode=loop_sustain loop_start=96478 loop_end=232521 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-73-127-6U6N.wav
-<group> key=74  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=547376 loop_mode=loop_sustain loop_start=144810 loop_end=284475 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-74-127-7L9Y.wav
-<group> key=75  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=546477 loop_mode=loop_sustain loop_start=134190 loop_end=252986 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-75-127-DAVA.wav
-<group> key=76  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=530746 loop_mode=loop_sustain loop_start=272470 loop_end=436111 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-76-127-SWN9.wav
-<group> key=77  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527901 loop_mode=loop_sustain loop_start=326688 loop_end=434673 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-77-127-3H0G.wav
-<group> key=78  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=529388 loop_mode=loop_sustain loop_start=19517 loop_end=159215 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-78-127-A8V9.wav
-<group> key=79  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=530988 loop_mode=loop_sustain loop_start=278711 loop_end=378850 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-79-127-ZM8C.wav
-<group> key=80  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=548352 loop_mode=loop_sustain loop_start=87055 loop_end=187305 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-80-127-N295.wav
-<group> key=81  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=527659 loop_mode=loop_sustain loop_start=156689 loop_end=249805 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-81-127-DNYS.wav
-<group> key=82  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=540087 loop_mode=loop_sustain loop_start=289940 loop_end=386924 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-82-127-8V1Y.wav
-<group> key=83  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=547748 loop_mode=loop_sustain loop_start=25658 loop_end=117719 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-83-127-7JHF.wav
-<group> key=84  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=539657 loop_mode=loop_sustain loop_start=326714 loop_end=430357 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-84-127-F1AR.wav
-<group> key=85  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=546466 loop_mode=loop_sustain loop_start=23573 loop_end=114658 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-85-127-OZQF.wav
-<group> key=86  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=550400 loop_mode=loop_sustain loop_start=301590 loop_end=433905 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-86-127-VUAK.wav
-<group> key=87  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=348501 loop_mode=loop_sustain loop_start=2672 loop_end=71980 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-87-127-JJF7.wav
-<group> key=88  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=354432 loop_mode=loop_sustain loop_start=211036 loop_end=271300 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-88-127-WMD4.wav
-<group> key=89  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=289455 loop_mode=loop_sustain loop_start=145438 loop_end=204212 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-89-127-QYSY.wav
-<group> key=90  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=275840 loop_mode=loop_sustain loop_start=146436 loop_end=205249 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-90-127-GFA4.wav
-<group> key=91  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=289567 loop_mode=loop_sustain loop_start=147493 loop_end=206267 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-91-127-XSRA.wav
-<group> key=92  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=227485 loop_mode=loop_sustain loop_start=94125 loop_end=180353 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-92-127-HBEP.wav
-<group> key=93  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=213311 loop_mode=loop_sustain loop_start=94107 loop_end=141371 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-93-127-X5C1.wav
-<group> key=94  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=546446 loop_mode=loop_sustain loop_start=248699 loop_end=377329 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-94-127-XXA1.wav
-<group> key=95  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=533037 loop_mode=loop_sustain loop_start=251854 loop_end=380518 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-95-127-WT6S.wav
-<group> key=96  pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 volume=12 end=215070 loop_mode=loop_sustain loop_start=36809 loop_end=73770 sample=../Audio/Norris 130 1-SAMPLES/Norris 130-96-127-JVBD.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=553985 loop_mode=loop_sustain loop_start=58485 loop_end=383487 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-36-127-NL86.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=549612 loop_mode=loop_sustain loop_start=24031 loop_end=349328 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-37-127-I3DD.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=553662 loop_mode=loop_sustain loop_start=77859 loop_end=403563 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-38-127-YIBU.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=553531 loop_mode=loop_sustain loop_start=49551 loop_end=375114 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-39-127-E9RZ.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=555036 loop_mode=loop_sustain loop_start=184222 loop_end=428369 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-40-127-0F99.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=564998 loop_mode=loop_sustain loop_start=156595 loop_end=345559 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-41-127-AVE8.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=562337 loop_mode=loop_sustain loop_start=207963 loop_end=397537 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-42-127-GUOY.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=566354 loop_mode=loop_sustain loop_start=179412 loop_end=373867 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-43-127-GXO5.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=565504 loop_mode=loop_sustain loop_start=311430 loop_end=435498 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-44-127-6C0G.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=552735 loop_mode=loop_sustain loop_start=264133 loop_end=394057 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-45-127-U5VB.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=554946 loop_mode=loop_sustain loop_start=185767 loop_end=315973 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-46-127-BZN0.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=554033 loop_mode=loop_sustain loop_start=38652 loop_end=363751 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-47-127-D15Q.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=553732 loop_mode=loop_sustain loop_start=92365 loop_end=417796 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-48-127-UTQ3.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=553387 loop_mode=loop_sustain loop_start=227685 loop_end=357189 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-49-127-B29Q.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=556389 loop_mode=loop_sustain loop_start=152550 loop_end=281119 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-50-127-AAOB.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=565783 loop_mode=loop_sustain loop_start=6238 loop_end=135832 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-51-127-26WJ.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=549799 loop_mode=loop_sustain loop_start=220464 loop_end=353205 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-52-127-NS3M.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=549725 loop_mode=loop_sustain loop_start=30743 loop_end=162599 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-53-127-XY2Q.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=556613 loop_mode=loop_sustain loop_start=8966 loop_end=202559 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-54-127-2N76.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=552273 loop_mode=loop_sustain loop_start=40218 loop_end=172989 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-55-127-U6CF.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=566303 loop_mode=loop_sustain loop_start=15896 loop_end=148435 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-56-127-GLBF.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=565822 loop_mode=loop_sustain loop_start=167304 loop_end=298019 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-57-127-Z9NE.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=565005 loop_mode=loop_sustain loop_start=305341 loop_end=429480 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-58-127-93E3.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=551806 loop_mode=loop_sustain loop_start=26449 loop_end=157184 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-59-127-NI6X.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=560531 loop_mode=loop_sustain loop_start=212760 loop_end=375604 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-60-127-9BK2.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=561192 loop_mode=loop_sustain loop_start=271255 loop_end=433990 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-61-127-SHU3.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=562354 loop_mode=loop_sustain loop_start=220150 loop_end=382938 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-62-127-USW1.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=556980 loop_mode=loop_sustain loop_start=273837 loop_end=394623 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-63-127-WQR9.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=561332 loop_mode=loop_sustain loop_start=314512 loop_end=433339 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-64-127-RR8C.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=554887 loop_mode=loop_sustain loop_start=27643 loop_end=190384 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-65-127-VMT7.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=555170 loop_mode=loop_sustain loop_start=92007 loop_end=254843 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-66-127-A9TQ.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=554632 loop_mode=loop_sustain loop_start=72543 loop_end=235444 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-67-127-H0R4.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=545328 loop_mode=loop_sustain loop_start=196698 loop_end=331147 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-68-127-QBIR.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=559241 loop_mode=loop_sustain loop_start=173089 loop_end=296184 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-69-127-CF6F.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=557331 loop_mode=loop_sustain loop_start=149260 loop_end=275086 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-70-127-XQX1.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=541351 loop_mode=loop_sustain loop_start=47179 loop_end=177743 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-71-127-VRZO.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=551877 loop_mode=loop_sustain loop_start=28848 loop_end=152750 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-72-127-9YE8.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=538819 loop_mode=loop_sustain loop_start=96478 loop_end=232521 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-73-127-6U6N.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=547376 loop_mode=loop_sustain loop_start=144810 loop_end=284475 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-74-127-7L9Y.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=546477 loop_mode=loop_sustain loop_start=134190 loop_end=252986 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-75-127-DAVA.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=530746 loop_mode=loop_sustain loop_start=272470 loop_end=436111 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-76-127-SWN9.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=527901 loop_mode=loop_sustain loop_start=326688 loop_end=434673 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-77-127-3H0G.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=529388 loop_mode=loop_sustain loop_start=19517 loop_end=159215 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-78-127-A8V9.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=530988 loop_mode=loop_sustain loop_start=278711 loop_end=378850 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-79-127-ZM8C.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=548352 loop_mode=loop_sustain loop_start=87055 loop_end=187305 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-80-127-N295.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=527659 loop_mode=loop_sustain loop_start=156689 loop_end=249805 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-81-127-DNYS.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=540087 loop_mode=loop_sustain loop_start=289940 loop_end=386924 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-82-127-8V1Y.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=547748 loop_mode=loop_sustain loop_start=25658 loop_end=117719 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-83-127-7JHF.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=539657 loop_mode=loop_sustain loop_start=326714 loop_end=430357 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-84-127-F1AR.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=546466 loop_mode=loop_sustain loop_start=23573 loop_end=114658 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-85-127-OZQF.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=550400 loop_mode=loop_sustain loop_start=301590 loop_end=433905 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-86-127-VUAK.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=348501 loop_mode=loop_sustain loop_start=2672 loop_end=71980 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-87-127-JJF7.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=354432 loop_mode=loop_sustain loop_start=211036 loop_end=271300 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-88-127-WMD4.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=289455 loop_mode=loop_sustain loop_start=145438 loop_end=204212 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-89-127-QYSY.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=275840 loop_mode=loop_sustain loop_start=146436 loop_end=205249 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-90-127-GFA4.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=289567 loop_mode=loop_sustain loop_start=147493 loop_end=206267 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-91-127-XSRA.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=227485 loop_mode=loop_sustain loop_start=94125 loop_end=180353 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-92-127-HBEP.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=213311 loop_mode=loop_sustain loop_start=94107 loop_end=141371 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-93-127-X5C1.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=546446 loop_mode=loop_sustain loop_start=248699 loop_end=377329 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-94-127-XXA1.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=533037 loop_mode=loop_sustain loop_start=251854 loop_end=380518 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-95-127-WT6S.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  volume=12 end=215070 loop_mode=loop_sustain loop_start=36809 loop_end=73770 sample=../KorgZ1/Norris 130 1-SAMPLES/Norris 130-96-127-JVBD.wav
