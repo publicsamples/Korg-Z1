@@ -4,6 +4,7 @@ A collection of FX from the Korg Z1.
 
 
 -   **Formats:** EXS24, Kontakt & SFZ
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/z1.html)
 
 **This collection requires you to download the audio seperately**
 
